@@ -1,22 +1,78 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Product</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product Page</title>
 
 <style>
-body{font-family:Arial;background:#f5f5f5;margin:0}
-.container{max-width:900px;margin:30px auto;background:#fff;padding:20px;border-radius:10px}
-img{width:100%;max-width:400px;border-radius:10px}
-.price{font-size:24px;color:#b12704;font-weight:bold}
-.rating{color:#f0c14b}
-.btn{display:inline-block;background:#ffd814;padding:12px 18px;margin-top:10px;border-radius:8px;font-weight:bold;text-decoration:none}
+body{
+  font-family:Arial, sans-serif;
+  background:#f3f4f6;
+  margin:0;
+}
+
+.container{
+  max-width:900px;
+  margin:30px auto;
+  background:#fff;
+  padding:20px;
+  border-radius:12px;
+}
+
+img{
+  width:100%;
+  max-width:400px;
+  border-radius:10px;
+}
+
+.price{
+  font-size:24px;
+  font-weight:bold;
+  color:#b12704;
+  margin:10px 0;
+}
+
+.rating{
+  color:#f0c14b;
+  font-size:18px;
+  margin:5px 0;
+}
+
+.badge{
+  display:inline-block;
+  background:#ff3b30;
+  color:#fff;
+  padding:4px 8px;
+  font-size:12px;
+  border-radius:5px;
+  margin-bottom:10px;
+  font-weight:bold;
+}
+
+.btn{
+  display:inline-block;
+  margin-top:15px;
+  background:#ffd814;
+  padding:12px 18px;
+  border-radius:8px;
+  font-weight:bold;
+  text-decoration:none;
+  color:#111;
+}
+
+ul{
+  margin-top:15px;
+  padding-left:18px;
+}
 </style>
 </head>
 
 <body>
 
-<div class="container" id="box"></div>
+<div class="container" id="productBox">
+  Loading product...
+</div>
 
 <script src="products.js"></script>
 
@@ -24,25 +80,40 @@ img{width:100%;max-width:400px;border-radius:10px}
 
 const id = new URLSearchParams(window.location.search).get("id");
 
-const p = products.find(x => x.id === id);
+const product = products.find(p => p.id === id);
 
-const box = document.getElementById("box");
+const box = document.getElementById("productBox");
 
-if(p){
+if(product){
 
-  const stars = "★".repeat(p.rating) + "☆".repeat(5 - p.rating);
+  const stars = "★".repeat(product.rating) + "☆".repeat(5 - product.rating);
 
   box.innerHTML = `
-    <img src="${p.image}">
-    <h1>${p.title}</h1>
-    <div class="rating">${stars}</div>
-    <div class="price">${p.price}</div>
-    <p>${p.description}</p>
+    
+    <div class="badge">${product.badge || ""}</div>
 
-    <a class="btn" href="${p.affiliate}" target="_blank">
+    <img src="${product.image}">
+
+    <h1>${product.title}</h1>
+
+    <div class="rating">${stars}</div>
+
+    <div class="price">${product.price}</div>
+
+    <p>${product.short || product.description || ""}</p>
+
+    <ul>
+      <li>✔ Premium quality design</li>
+      <li>✔ Trending product choice</li>
+      <li>✔ Perfect for modern home styling</li>
+    </ul>
+
+    <a class="btn" href="${product.affiliate || '#'}" target="_blank">
       🛒 Buy Now
     </a>
+
   `;
+
 }else{
   box.innerHTML = "<h2>Product not found</h2>";
 }
