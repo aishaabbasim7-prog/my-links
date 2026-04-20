@@ -128,21 +128,30 @@ footer{text-align:center;padding:20px;font-size:12px;color:#555}
 <script src="products.js"></script>
 
 <script>
-function renderProducts(){
 
-  const decorBox = document.querySelector("#decor .scroll");
-  const gadgetBox = document.querySelector("#gadgets .scroll");
+function renderStore(){
+
+  const decorBox = document.getElementById("decorList");
+  const gadgetBox = document.getElementById("gadgetsList");
 
   products.forEach(p=>{
 
+    const ratingStars = "★".repeat(p.rating) + "☆".repeat(5 - p.rating);
+
     const card = `
-      <a href="product.html?id=${p.id}" target="_blank" style="text-decoration:none;color:inherit;">
+      <a href="product.html?id=${p.id}" style="text-decoration:none;color:inherit;" target="_blank">
         <div class="card">
+
           <img src="${p.image}">
+
           <div class="title">${p.title}</div>
-          <div class="rating">${p.rating}</div>
+
+          <div class="rating">${ratingStars}</div>
+
           <div class="price">${p.price}</div>
+
           <div class="btn">Buy Now</div>
+
         </div>
       </a>
     `;
@@ -158,15 +167,18 @@ function renderProducts(){
   });
 }
 
-renderProducts();
+renderStore();
 
+/* SEARCH → Shopify style redirect */
 function handleSearch(e){
   if(e.key === "Enter"){
     const q = document.getElementById("searchBox").value;
     window.location.href = "search.html?q=" + q;
   }
 }
+
 </script>
+
 <script>
 
 /* HERO SLIDER SYSTEM */
