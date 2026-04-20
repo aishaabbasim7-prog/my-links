@@ -1,57 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Aesthetic Nest | My Finds</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aesthetic Nest | Official Store</title>
     <style>
-        body { font-family: sans-serif; background: #fdf6f6; text-align: center; padding: 40px 15px; }
-        h1 { color: #333; margin-bottom: 30px; }
-        .product-card { 
-            display: block; 
-            background: white; 
-            color: #333; 
-            padding: 15px; 
-            margin: 20px auto; 
-            width: 90%;
-            max-width: 350px; 
-            text-decoration: none; 
-            border-radius: 15px; 
-            font-weight: bold; 
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
-        }
-        .product-card:hover { transform: scale(1.02); }
-        .product-card img { 
-            width: 100%; 
-            border-radius: 10px; 
-            margin-bottom: 15px; 
-        }
+        :root { --primary-color: #E60023; --bg-color: #f8f9fa; --text-color: #333; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg-color); margin: 0; padding-bottom: 50px; color: var(--text-color); }
+        
+        /* Header */
+        header { background: white; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 100; }
+        header h1 { margin: 0; font-size: 24px; color: var(--primary-color); letter-spacing: -1px; }
+
+        /* Product Grid */
+        .container { max-width: 1000px; margin: 30px auto; padding: 0 15px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+
+        /* Product Card */
+        .card { background: white; border-radius: 15px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 4px 15px rgba(0,0,0,0.08); transition: 0.3s; display: flex; flex-direction: column; }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.15); }
+        
+        .image-container { width: 100%; height: 250px; background: #eee; overflow: hidden; display: flex; align-items: center; justify-content: center; }
+        .image-container img { width: 100%; height: 100%; object-fit: cover; }
+
+        .info { padding: 20px; text-align: left; flex-grow: 1; }
+        .info h3 { margin: 0 0 10px 0; font-size: 18px; line-height: 1.4; height: 50px; overflow: hidden; }
+        
+        .btn { background: var(--primary-color); color: white; text-align: center; padding: 12px; border-radius: 8px; font-weight: bold; margin-top: 10px; display: block; }
+        
+        .disclosure { font-size: 12px; color: #999; text-align: center; margin-top: 50px; padding: 0 20px; }
     </style>
 </head>
 <body>
-    <h1>Shop My Room Decor</h1>
-    
-    <!-- Product 1 -->
-    <a class="product-card" href="https://amzn.to/3QjQmeu" target="_blank">
-        <img src="https://m.media-amazon.com/images/I/8113ZAZqSiL._AC_SL1500_.jpg">
-        Aesthetic Mushroom Lamp
-    </a>
 
-    <!-- Product 2 -->
-    <a class="product-card" href="YOUR_LINK_HERE" target="_blank">
-        <img src="PASTE_IMAGE_LINK_2_HERE">
-        Cozy Bedding Sets
-    </a>
+<header>
+    <h1>Aesthetic Nest 🌿</h1>
+</header>
 
-    <!-- Product 3 -->
-    <a class="product-card" href="YOUR_LINK_HERE" target="_blank">
-        <img src="PASTE_IMAGE_LINK_3_HERE">
-        Desktop Organizer
-    </a>
+<div class="container">
 
-    <p style="font-size: 11px; color: #888; margin-top: 40px; padding: 0 20px;">
-        As an Amazon Associate, I earn from qualifying purchases.
-    </p>
+    <!-- COPY START: PRODUCT BLOCK -->
+    <a href="PASTE_AMAZON_LINK_HERE" class="card" target="_blank">
+        <div class="image-container">
+            <img src="PASTE_IMAGE_URL_HERE">
+        </div>
+        <div class="info">
+            <h3>Modern Aesthetic Mushroom Lamp</h3>
+            <span class="btn">View on Amazon</span>
+        </div>
+    </a>
+    <!-- COPY END -->
+
+    <!-- Paste more Product Blocks here -->
+
+</div>
+
+<div class="disclosure">
+    As an Amazon Associate, I earn from qualifying purchases. 
+    <br>© 2024 Aesthetic Nest
+</div>
+
 </body>
 </html>
+
 
