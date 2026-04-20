@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -147,37 +148,7 @@ footer{text-align:center;padding:20px;font-size:12px;color:#555}
 <footer>
 <p>#ad As an affiliate, I may earn from qualifying purchases.</p>
 </footer>
-<footer>
-<p>#ad As an affiliate, I may earn from qualifying purchases.</p>
-</footer>
 
-<!-- 👇 PASTE THIS HERE -->
-<script>
-const STORAGE_KEY = "affiliate_products";
-
-function getProducts(){
-  const data = localStorage.getItem(STORAGE_KEY);
-  if(!data) return [];
-  return JSON.parse(data);
-}
-
-function syncStore(){
-  const products = getProducts();
-  const cards = document.querySelectorAll(".card");
-
-  products.forEach((p, i) => {
-    if(cards[i]){
-      cards[i].querySelector("img").src = p.image;
-      cards[i].querySelector(".title").innerText = p.title;
-      cards[i].querySelector(".price").innerText = p.price;
-      cards[i].querySelector(".btn").href = p.link || "#";
-    }
-  });
-}
-
-syncStore();
-setInterval(syncStore, 1500);
-</script>
 <script>
 
 /* HERO SLIDER SYSTEM */
@@ -231,4 +202,5 @@ function handleSearch(e){
 
 </body>
 </html>
+
 
