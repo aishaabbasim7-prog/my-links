@@ -1,63 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aesthetic Nest | Official Store</title>
-    <style>
-        :root { --primary-color: #E60023; --bg-color: #f8f9fa; --text-color: #333; }
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg-color); margin: 0; padding-bottom: 50px; color: var(--text-color); }
-        
-        /* Header */
-        header { background: white; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 100; }
-        header h1 { margin: 0; font-size: 24px; color: var(--primary-color); letter-spacing: -1px; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YOUR BRAND NAME</title>
 
-        /* Product Grid */
-        .container { max-width: 1000px; margin: 30px auto; padding: 0 15px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+<style>
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial;background:#f3f4f6}
 
-        /* Product Card */
-        .card { background: white; border-radius: 15px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 4px 15px rgba(0,0,0,0.08); transition: 0.3s; display: flex; flex-direction: column; }
-        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.15); }
-        
-        .image-container { width: 100%; height: 250px; background: #eee; overflow: hidden; display: flex; align-items: center; justify-content: center; }
-        .image-container img { width: 100%; height: 100%; object-fit: cover; }
+/* HEADER */
+.topbar{background:#111;color:#fff;padding:12px 25px;display:flex;align-items:center;gap:20px}
+.logo img{height:40px}
+.brand-name{font-size:20px;font-weight:600}
+.search{flex:1}
+.search input{width:100%;padding:10px;border:none;border-radius:6px}
 
-        .info { padding: 20px; text-align: left; flex-grow: 1; }
-        .info h3 { margin: 0 0 10px 0; font-size: 18px; line-height: 1.4; height: 50px; overflow: hidden; }
-        
-        .btn { background: var(--primary-color); color: white; text-align: center; padding: 12px; border-radius: 8px; font-weight: bold; margin-top: 10px; display: block; }
-        
-        .disclosure { font-size: 12px; color: #999; text-align: center; margin-top: 50px; padding: 0 20px; }
-    </style>
+/* NAV */
+.nav{background:#fff;padding:10px 25px;box-shadow:0 2px 6px rgba(0,0,0,0.08)}
+.nav a{margin-right:20px;color:#333;font-weight:500;text-decoration:none}
+
+/* HERO */
+.hero{height:320px;background:url('PASTE_HERO_IMAGE_URL_HERE') center/cover no-repeat;display:flex;align-items:center;padding-left:60px}
+.hero-box{background:rgba(0,0,0,0.6);padding:25px;border-radius:12px;color:#fff;max-width:400px}
+.hero-box h1{margin:0}
+.hero-box p{margin:10px 0}
+.hero-box a{background:#ffd814;color:#111;padding:10px 15px;border-radius:6px;text-decoration:none;font-weight:bold}
+
+.container{max-width:1200px;margin:auto;padding:20px}
+.section-title{font-size:22px;margin:25px 0}
+
+/* TRUST */
+.trust{display:flex;justify-content:space-around;background:#fff;padding:15px;border-radius:10px;margin-bottom:20px}
+
+/* GRID */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px}
+.card{background:#fff;border-radius:12px;padding:12px;box-shadow:0 3px 10px rgba(0,0,0,0.08);position:relative}
+.card img{width:100%;border-radius:8px}
+.title{font-size:14px;margin:10px 0;height:40px;overflow:hidden}
+.price{font-weight:bold;color:#b12704}
+.old-price{text-decoration:line-through;color:#777;font-size:13px}
+.rating{color:#f0c14b;font-size:14px}
+.badge{position:absolute;top:10px;left:10px;background:#cc0c39;color:#fff;padding:4px 8px;font-size:12px;border-radius:4px}
+.viewing{font-size:12px;color:#007600;margin-top:5px}
+.btn{display:block;text-align:center;padding:10px;background:#ffd814;color:#111;text-decoration:none;border-radius:8px;font-weight:bold;margin-top:10px}
+
+/* MOBILE */
+.sticky{display:none}
+@media(max-width:768px){
+.sticky{display:flex;position:fixed;bottom:0;width:100%;background:#fff;padding:10px}
+.sticky a{flex:1;background:#ffd814;color:#111;text-align:center;padding:12px;text-decoration:none;border-radius:8px}
+}
+
+footer{text-align:center;padding:20px;font-size:13px}
+</style>
 </head>
+
 <body>
 
-<header>
-    <h1>Aesthetic Nest 🌿</h1>
-</header>
+<!-- HEADER -->
+<div class="topbar">
+  <!-- LOGO -->
+  <div class="logo">
+    <img src="PASTE_LOGO_URL_HERE" alt="Logo">
+  </div>
+
+  <!-- BRAND NAME -->
+  <div class="brand-name">YOUR BRAND NAME</div>
+
+  <!-- SEARCH -->
+  <div class="search">
+    <input placeholder="Search products...">
+  </div>
+</div>
+
+<!-- NAVIGATION -->
+<div class="nav">
+  <a href="#">Best Sellers</a>
+  <a href="#">Home Decor</a>
+  <a href="#">Gadgets</a>
+  <a href="#">New Arrivals</a>
+</div>
+
+<!-- HERO BANNER -->
+<div class="hero">
+  <div class="hero-box">
+    <h1>Luxury Finds For Modern Living</h1>
+    <p>Discover premium decor & trending gadgets loved worldwide.</p>
+    <a href="#">Shop Now</a>
+  </div>
+</div>
 
 <div class="container">
 
-    <!-- COPY START: PRODUCT BLOCK -->
-    <a href="PASTE_AMAZON_LINK_HERE" class="card" target="_blank">
-        <div class="image-container">
-            <img src="PASTE_IMAGE_URL_HERE">
-        </div>
-        <div class="info">
-            <h3>Modern Aesthetic Mushroom Lamp</h3>
-            <span class="btn">View on Amazon</span>
-        </div>
-    </a>
-    <!-- COPY END -->
+<!-- TRUST -->
+<div class="trust">
+  <span>✔ Premium Quality</span>
+  <span>✔ Trusted Products</span>
+  <span>✔ Secure Shopping</span>
+</div>
 
-    <!-- Paste more Product Blocks here -->
+<!-- PRODUCTS -->
+<div class="section-title">🔥 Best Sellers</div>
+
+<div class="grid">
+
+<!-- PRODUCT CARD (COPY THIS BLOCK) -->
+<div class="card">
+  <span class="badge">Best Seller</span>
+  <img src="PASTE_PRODUCT_IMAGE_URL_HERE">
+
+  <div class="title">PRODUCT NAME HERE</div>
+
+  <div class="rating">★★★★★ (1,200)</div>
+
+  <div>
+    <span class="price">$19.99</span>
+    <span class="old-price">$29.99</span>
+  </div>
+
+  <div class="viewing">🔥 21 people viewing now</div>
+
+  <a class="btn" href="PASTE_AFFILIATE_LINK_HERE" target="_blank">Add to Cart</a>
+</div>
+<!-- END PRODUCT CARD -->
 
 </div>
 
-<div class="disclosure">
-    As an Amazon Associate, I earn from qualifying purchases. 
-    <br>© 2024 Aesthetic Nest
 </div>
+
+<!-- MOBILE BUTTON -->
+<div class="sticky">
+  <a href="PASTE_AFFILIATE_LINK_HERE">🛒 Buy Now</a>
+</div>
+
+<footer>
+<p>#ad As an affiliate, I may earn from qualifying purchases.</p>
+</footer>
 
 </body>
 </html>
