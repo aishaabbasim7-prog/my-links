@@ -6,10 +6,11 @@ const products = [
   rating: 5,
   image: "PASTE_IMAGE_URL",
   category: "decor",
-  tags: ["pillow", "luxury", "decor"],
-  description: "Soft luxury velvet pillow for modern interiors.",
+  badge: "🔥 Bestseller",
+  short: "Luxury aesthetic upgrade for modern homes",
   affiliate: "#"
-},
+}
+];
 {
   id: "p2",
   title: "LED Smart Lamp",
