@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search Results</title>
+
+<style>
+body{font-family:Arial;background:#f3f4f6;margin:0}
+.top{background:#131921;color:#fff;padding:15px}
+.container{padding:20px}
+.card{background:#fff;padding:15px;border-radius:10px;margin-bottom:15px}
+.card img{width:120px;border-radius:8px}
+.btn{display:inline-block;margin-top:10px;background:#ffd814;padding:8px 12px;border-radius:6px;text-decoration:none;color:#111;font-weight:bold}
+</style>
+</head>
+
+<body>
+
+<div class="top">Search Results</div>
+
+<div class="container">
+  <div id="results"></div>
+</div>
+
+<script>
+
+/* SAME PRODUCT DATABASE (MUST MATCH INDEX.HTML) */
+const products = [
+{
+  id:"p1",
+  title:"Luxury Velvet Pillow",
+  price:"$19.99",
+  rating:"★★★★★",
+  image:"https://via.placeholder.com/300"
+},
+{
+  id:"p2",
+  title:"LED Smart Lamp",
+  price:"$14.99",
+  rating:"★★★★☆",
+  image:"https://via.placeholder.com/300"
+}
+];
+
+/* GET SEARCH QUERY */
+const params = new URLSearchParams(window.location.search);
+const query = (params.get("q") || "").toLowerCase();
+
+/* FILTER */
+const results = products.filter(p =>
+  p.title.toLowerCase().includes(query)
+);
+
+const container = document.getElementById("results");
+
+if(results.length === 0){
+  container.innerHTML = "<p>No products found.</p>";
+}else{
+  results.forEach(p=>{
+    container.innerHTML += `
+      <div class="card">
+        <img src="${p.image}">
+        <h3>${p.title}</h3>
+        <p>${p.price}</p>
+        <a class="btn" href="product.html?id=${p.id}" target="_blank">View Product</a>
+      </div>
+    `;
+  });
+}
+
+</script>
+
+</body>
+</html>
