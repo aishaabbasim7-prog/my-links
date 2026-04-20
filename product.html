@@ -2,21 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Product Page</title>
+<title>Product</title>
 
 <style>
-body{font-family:Arial;background:#f3f4f6;margin:0}
-.container{max-width:900px;margin:20px auto;background:#fff;padding:20px;border-radius:10px}
-img{width:100%;max-width:350px;border-radius:10px}
-.price{color:#b12704;font-size:22px;font-weight:bold;margin:10px 0}
+body{font-family:Arial;background:#f5f5f5;margin:0}
+.container{max-width:900px;margin:30px auto;background:#fff;padding:20px;border-radius:10px}
+img{width:100%;max-width:400px;border-radius:10px}
+.price{font-size:24px;color:#b12704;font-weight:bold}
 .rating{color:#f0c14b}
-.btn{display:inline-block;background:#ffd814;padding:12px 18px;border-radius:8px;text-decoration:none;font-weight:bold;color:#111;margin-top:10px}
+.btn{display:inline-block;background:#ffd814;padding:12px 18px;margin-top:10px;border-radius:8px;font-weight:bold;text-decoration:none}
 </style>
 </head>
 
 <body>
 
-<div class="container" id="productBox"></div>
+<div class="container" id="box"></div>
 
 <script src="products.js"></script>
 
@@ -24,19 +24,22 @@ img{width:100%;max-width:350px;border-radius:10px}
 
 const id = new URLSearchParams(window.location.search).get("id");
 
-const product = products.find(p => p.id === id);
+const p = products.find(x => x.id === id);
 
-const box = document.getElementById("productBox");
+const box = document.getElementById("box");
 
-if(product){
+if(p){
+
+  const stars = "★".repeat(p.rating) + "☆".repeat(5 - p.rating);
+
   box.innerHTML = `
-    <img src="${product.image}">
-    <h1>${product.title}</h1>
-    <div class="rating">${product.rating}</div>
-    <div class="price">${product.price}</div>
-    <p>${product.desc}</p>
+    <img src="${p.image}">
+    <h1>${p.title}</h1>
+    <div class="rating">${stars}</div>
+    <div class="price">${p.price}</div>
+    <p>${p.description}</p>
 
-    <a class="btn" href="${product.link}" target="_blank">
+    <a class="btn" href="${p.affiliate}" target="_blank">
       🛒 Buy Now
     </a>
   `;
