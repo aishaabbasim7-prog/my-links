@@ -28,8 +28,9 @@ export default function Dashboard() {
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(products));
   }, [products]);
-
-  const addProduct = () => {
+const newProducts = [...products, { ...form, id: Date.now() }];
+setProducts(newProducts);
+localStorage.setItem(STORAGE_KEY, JSON.stringify(newProducts));
     if (!form.title) return;
     setProducts([...products, { ...form, id: Date.now() }]);
     setForm({ title: "", price: "", image: "", link: "", category: "Home Decor" });
