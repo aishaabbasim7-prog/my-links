@@ -1,162 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Elite Marketplace | Affiliate Store</title>
+import { useEffect, useState } from "react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
 
-<style>
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial;background:#f3f4f6}
+const STORAGE_KEY = "affiliate_products";
 
-/* HEADER */
-.topbar{background:#131921;color:#fff;padding:12px 20px;display:flex;align-items:center;gap:15px}
-.logo img{height:38px}
-.brand{font-size:18px;font-weight:600}
-.search{flex:1}
-.search input{width:100%;padding:10px;border:none;border-radius:6px}
+export default function Dashboard() {
+  const [products, setProducts] = useState([]);
 
-/* NAV */
-.nav{background:#232f3e;color:#fff;padding:10px 20px;display:flex;gap:15px;flex-wrap:wrap}
-.nav a{color:#fff;text-decoration:none;font-size:13px}
-
-/* HERO */
-.hero{
-  height:330px;
-  display:flex;
-  align-items:center;
-  padding-left:50px;
-  color:#fff;
-  background-size:cover;
-  background-position:center;
-}
-.hero-box{
-  background:rgba(0,0,0,0.6);
-  padding:20px;
-  border-radius:10px;
-  max-width:420px;
-}
-.hero-box h1{margin:0;font-size:26px}
-.hero-box a{background:#ffd814;color:#111;padding:10px;border-radius:6px;text-decoration:none;font-weight:bold}
-
-/* CONTENT */
-.container{max-width:1200px;margin:auto;padding:20px}
-.row{background:#fff;padding:15px;border-radius:12px;margin-bottom:20px}
-.scroll{display:flex;gap:15px;overflow-x:auto}
-
-.card{min-width:200px;background:#fff;border-radius:10px;padding:10px;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
-.card img{width:100%;border-radius:8px}
-.title{font-size:13px;margin:8px 0}
-.price{font-weight:bold;color:#b12704}
-.rating{font-size:12px;color:#f0c14b}
-.btn{display:block;margin-top:8px;text-align:center;padding:8px;background:#ffd814;color:#111;text-decoration:none;border-radius:8px;font-weight:bold}
-
-footer{text-align:center;padding:20px;font-size:12px;color:#555}
-</style>
-</head>
-
-<body>
-
-<!-- HEADER -->
-<div class="topbar">
-  <div class="logo"><img src="PASTE_LOGO_URL_HERE"></div>
-  <div class="brand">YOUR BRAND NAME</div>
-
-  <div class="search">
-    <input id="searchBox" placeholder="Search products..." onkeypress="handleSearch(event)">
-  </div>
-</div>
-
-<!-- NAV -->
-<div class="nav">
-  <a href="#decor">Home Decor</a>
-  <a href="#gadgets">Gadgets</a>
-</div>
-
-<!-- HERO -->
-<div class="hero" id="hero">
-  <div class="hero-box">
-    <h1>Luxury Home Finds</h1>
-    <a href="#decor">Shop Now</a>
-  </div>
-</div>
-
-<div class="container">
-
-<!-- PRODUCTS -->
-<div class="row" id="decor">
-  <h3>🛋️ Home Decor</h3>
-  <div class="scroll" id="decorList"></div>
-</div>
-
-<div class="row" id="gadgets">
-  <h3>⚡ Gadgets</h3>
-  <div class="scroll" id="gadgetList"></div>
-</div>
-
-</div>
-
-<footer>
-<p>#ad As an affiliate, I may earn from qualifying purchases.</p>
-</footer>
-
-<script>
-
-/* HERO IMAGE */
-document.getElementById("hero").style.backgroundImage =
-"url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c')";
-
-/* PRODUCT DATABASE */
-const products = [
-{
-  id:"p1",
-  title:"Luxury Velvet Pillow",
-  price:"$19.99",
-  rating:"★★★★★",
-  category:"decor",
-  image:"https://via.placeholder.com/300"
-},
-{
-  id:"p2",
-  title:"LED Smart Lamp",
-  price:"$14.99",
-  rating:"★★★★☆",
-  category:"gadgets",
-  image:"https://via.placeholder.com/300"
-}
-];
-
-/* LOAD PRODUCTS */
-function loadProducts(){
-  const decor = document.getElementById("decorList");
-  const gadgets = document.getElementById("gadgetList");
-
-  products.forEach(p=>{
-    const card = `
-      <div class="card">
-        <img src="${p.image}">
-        <div class="title">${p.title}</div>
-        <div class="rating">${p.rating}</div>
-        <div class="price">${p.price}</div>
-        <a class="btn" href="product.html?id=${p.id}" target="_blank">View Product</a>
-      </div>
-    `;
-
-    if(p.category==="decor") decor.innerHTML += card;
-    if(p.category==="gadgets") gadgets.innerHTML += card;
+  const [form, setForm] = useState({
+    title: "",
+    price: "",
+    image: "",
+    link: "",
+    category: "Home Decor",
   });
+
+  // LOAD FROM LOCAL STORAGE
+  useEffect(() => {
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved) {
+      setProducts(JSON.parse(saved));
+    }
+  }, []);
+
+  // SAVE TO LOCAL STORAGE
+  useEffect(() => {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(products));
+  }, [products]);
+
+  const addProduct = () => {
+    if (!form.title) return;
+    setProducts([...products, { ...form, id: Date.now() }]);
+    setForm({ title: "", price: "", image: "", link: "", category: "Home Decor" });
+  };
+
+  const deleteProduct = (id) => {
+    setProducts(products.filter((p) => p.id !== id));
+  };
+
+  const exportData = () => {
+    navigator.clipboard.writeText(JSON.stringify(products, null, 2));
+    alert("Product data copied! Paste it into your store page.");
+  };
+
+  return (
+    <div className="p-6 grid gap-6">
+      <h1 className="text-2xl font-bold">Affiliate Store Dashboard (Connected System)</h1>
+
+      {/* FORM */}
+      <Card>
+        <CardContent className="grid gap-3 p-4">
+          <Input placeholder="Product Title" value={form.title} onChange={(e) => setForm({ ...form, title: e.target.value })} />
+          <Input placeholder="Price" value={form.price} onChange={(e) => setForm({ ...form, price: e.target.value })} />
+          <Input placeholder="Image URL" value={form.image} onChange={(e) => setForm({ ...form, image: e.target.value })} />
+          <Input placeholder="Affiliate Link" value={form.link} onChange={(e) => setForm({ ...form, link: e.target.value })} />
+
+          <select className="p-2 border rounded" value={form.category} onChange={(e) => setForm({ ...form, category: e.target.value })}>
+            <option>Home Decor</option>
+            <option>Gadgets</option>
+            <option>Deals</option>
+          </select>
+
+          <Button onClick={addProduct}>Add Product</Button>
+          <Button variant="secondary" onClick={exportData}>Export / Sync Data</Button>
+        </CardContent>
+      </Card>
+
+      {/* PRODUCT GRID (DASHBOARD VIEW) */}
+      <div className="grid md:grid-cols-3 gap-4">
+        {products.map((p) => (
+          <Card key={p.id}>
+            <CardContent className="p-3">
+              <img src={p.image} className="rounded-lg w-full h-40 object-cover" />
+              <h2 className="font-semibold mt-2">{p.title}</h2>
+              <p className="text-red-600 font-bold">{p.price}</p>
+              <p className="text-sm text-gray-500">{p.category}</p>
+
+              <div className="flex gap-2 mt-3">
+                <a href={p.link} className="bg-yellow-400 px-3 py-1 rounded text-black text-sm">View</a>
+                <Button variant="destructive" onClick={() => deleteProduct(p.id)}>Delete</Button>
+              </div>
+            </CardContent>
+          </Card>
+        ))}
+      </div>
+
+      {/* STORE PREVIEW (THIS IS YOUR MAIN WEBSITE VIEW) */}
+      <div className="mt-10">
+        <h2 className="text-xl font-bold mb-4">Live Store Preview (Your Homepage Sync)</h2>
+        <div className="grid md:grid-cols-3 gap-4">
+          {products.map((p) => (
+            <Card key={p.id}>
+              <CardContent className="p-3">
+                <img src={p.image} className="rounded-lg w-full h-40 object-cover" />
+                <h2 className="font-semibold mt-2">{p.title}</h2>
+                <p className="text-red-600 font-bold">{p.price}</p>
+                <a href={p.link} className="bg-yellow-400 px-3 py-1 rounded text-black text-sm inline-block mt-2">
+                  Buy Now
+                </a>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
 }
-
-loadProducts();
-
-/* SEARCH REDIRECT */
-function handleSearch(e){
-  if(e.key==='Enter'){
-    let q=document.getElementById("searchBox").value;
-    window.location.href=`search.html?q=${q}`;
-  }
-}
-
-</script>
-
-</body>
-</html>
