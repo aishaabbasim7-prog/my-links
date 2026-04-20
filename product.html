@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product</title>
+
+<style>
+body{font-family:Arial;background:#f3f4f6;margin:0}
+.container{background:#fff;margin:20px;padding:20px;border-radius:10px}
+img{width:100%;max-width:350px;border-radius:10px}
+.price{font-size:22px;color:#b12704;font-weight:bold}
+.btn{display:inline-block;margin-top:15px;background:#ffd814;padding:12px;border-radius:8px;text-decoration:none;color:#111;font-weight:bold}
+</style>
+</head>
+
+<body>
+
+<div class="container" id="product"></div>
+
+<footer style="text-align:center;padding:20px;font-size:12px;color:#555">
+#ad As an affiliate, I may earn from qualifying purchases.
+</footer>
+
+<script>
+
+/* SAME PRODUCT DATABASE (MUST MATCH ALL FILES) */
+const products = [
+{
+  id:"p1",
+  title:"Luxury Velvet Pillow",
+  price:"$19.99",
+  rating:"★★★★★",
+  image:"https://via.placeholder.com/300",
+  desc:"Soft velvet pillow for modern luxury homes.",
+  link:"#"
+},
+{
+  id:"p2",
+  title:"LED Smart Lamp",
+  price:"$14.99",
+  rating:"★★★★☆",
+  image:"https://via.placeholder.com/300",
+  desc:"Smart LED lamp for cozy lighting setup.",
+  link:"#"
+}
+];
+
+/* GET PRODUCT ID */
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
+
+const product = products.find(p => p.id === id);
+
+const container = document.getElementById("product");
+
+if(product){
+  container.innerHTML = `
+    <img src="${product.image}">
+    <h1>${product.title}</h1>
+    <p>${product.rating}</p>
+    <div class="price">${product.price}</div>
+    <p>${product.desc}</p>
+    <a class="btn" href="${product.link}" target="_blank">Buy Now</a>
+  `;
+}else{
+  container.innerHTML = "<p>Product not found.</p>";
+}
+
+</script>
+
+</body>
+</html>
