@@ -1,53 +1,154 @@
-<!-- ONLY BODY CONTENT CHANGED BELOW -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elite Marketplace | Affiliate Store</title>
+
+<style>
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial;background:#f3f4f6}
+
+/* HEADER */
+.topbar{background:#131921;color:#fff;padding:12px 20px;display:flex;align-items:center;gap:15px}
+.logo img{height:38px}
+.brand{font-size:18px;font-weight:600}
+.search{flex:1}
+.search input{width:100%;padding:10px;border:none;border-radius:6px}
+
+/* NAV */
+.nav{background:#232f3e;color:#fff;padding:10px 20px;display:flex;gap:15px;flex-wrap:wrap}
+.nav a{color:#fff;text-decoration:none;font-size:13px}
+
+/* HERO */
+.hero{
+  height:330px;
+  display:flex;
+  align-items:center;
+  padding-left:50px;
+  color:#fff;
+  background-size:cover;
+  background-position:center;
+}
+.hero-box{
+  background:rgba(0,0,0,0.6);
+  padding:20px;
+  border-radius:10px;
+  max-width:420px;
+}
+.hero-box h1{margin:0;font-size:26px}
+.hero-box a{background:#ffd814;color:#111;padding:10px;border-radius:6px;text-decoration:none;font-weight:bold}
+
+/* CONTENT */
+.container{max-width:1200px;margin:auto;padding:20px}
+.row{background:#fff;padding:15px;border-radius:12px;margin-bottom:20px}
+.scroll{display:flex;gap:15px;overflow-x:auto}
+
+.card{min-width:200px;background:#fff;border-radius:10px;padding:10px;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
+.card img{width:100%;border-radius:8px}
+.title{font-size:13px;margin:8px 0}
+.price{font-weight:bold;color:#b12704}
+.rating{font-size:12px;color:#f0c14b}
+.btn{display:block;margin-top:8px;text-align:center;padding:8px;background:#ffd814;color:#111;text-decoration:none;border-radius:8px;font-weight:bold}
+
+footer{text-align:center;padding:20px;font-size:12px;color:#555}
+</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<div class="topbar">
+  <div class="logo"><img src="PASTE_LOGO_URL_HERE"></div>
+  <div class="brand">YOUR BRAND NAME</div>
+
+  <div class="search">
+    <input id="searchBox" placeholder="Search products..." onkeypress="handleSearch(event)">
+  </div>
+</div>
+
+<!-- NAV -->
+<div class="nav">
+  <a href="#decor">Home Decor</a>
+  <a href="#gadgets">Gadgets</a>
+</div>
+
+<!-- HERO -->
+<div class="hero" id="hero">
+  <div class="hero-box">
+    <h1>Luxury Home Finds</h1>
+    <a href="#decor">Shop Now</a>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- PRODUCTS -->
+<div class="row" id="decor">
+  <h3>🛋️ Home Decor</h3>
+  <div class="scroll" id="decorList"></div>
+</div>
+
+<div class="row" id="gadgets">
+  <h3>⚡ Gadgets</h3>
+  <div class="scroll" id="gadgetList"></div>
+</div>
+
+</div>
+
+<footer>
+<p>#ad As an affiliate, I may earn from qualifying purchases.</p>
+</footer>
 
 <script>
 
-/* PRODUCT DATABASE (MASTER SYSTEM) */
+/* HERO IMAGE */
+document.getElementById("hero").style.backgroundImage =
+"url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c')";
+
+/* PRODUCT DATABASE */
 const products = [
-  {
-    id: "p1",
-    title: "Luxury Velvet Pillow",
-    price: "$19.99",
-    rating: "★★★★★",
-    category: "decor",
-    image: "https://via.placeholder.com/300",
-    desc: "Soft velvet cushion perfect for modern homes."
-  },
-  {
-    id: "p2",
-    title: "LED Smart Lamp",
-    price: "$14.99",
-    rating: "★★★★☆",
-    category: "gadgets",
-    image: "https://via.placeholder.com/300",
-    desc: "Color changing smart lamp with remote control."
-  }
+{
+  id:"p1",
+  title:"Luxury Velvet Pillow",
+  price:"$19.99",
+  rating:"★★★★★",
+  category:"decor",
+  image:"https://via.placeholder.com/300"
+},
+{
+  id:"p2",
+  title:"LED Smart Lamp",
+  price:"$14.99",
+  rating:"★★★★☆",
+  category:"gadgets",
+  image:"https://via.placeholder.com/300"
+}
 ];
 
-/* LOAD PRODUCTS DYNAMICALLY */
+/* LOAD PRODUCTS */
 function loadProducts(){
-  const decorContainer = document.querySelector("#decor .scroll");
-  const gadgetContainer = document.querySelector("#gadgets .scroll");
+  const decor = document.getElementById("decorList");
+  const gadgets = document.getElementById("gadgetList");
 
   products.forEach(p=>{
     const card = `
-    <div class="card">
-      <img src="${p.image}">
-      <div class="title">${p.title}</div>
-      <div class="rating">${p.rating}</div>
-      <div class="price">${p.price}</div>
-      <a class="btn" href="product.html?id=${p.id}" target="_blank">View Product</a>
-    </div>
+      <div class="card">
+        <img src="${p.image}">
+        <div class="title">${p.title}</div>
+        <div class="rating">${p.rating}</div>
+        <div class="price">${p.price}</div>
+        <a class="btn" href="product.html?id=${p.id}" target="_blank">View Product</a>
+      </div>
     `;
 
-    if(p.category==="decor") decorContainer.innerHTML += card;
-    if(p.category==="gadgets") gadgetContainer.innerHTML += card;
+    if(p.category==="decor") decor.innerHTML += card;
+    if(p.category==="gadgets") gadgets.innerHTML += card;
   });
 }
 
 loadProducts();
 
-/* SEARCH REDIRECT SYSTEM */
+/* SEARCH REDIRECT */
 function handleSearch(e){
   if(e.key==='Enter'){
     let q=document.getElementById("searchBox").value;
@@ -57,3 +158,5 @@ function handleSearch(e){
 
 </script>
 
+</body>
+</html>
