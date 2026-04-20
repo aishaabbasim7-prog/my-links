@@ -3,55 +3,61 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YOUR BRAND NAME</title>
+<title>Elite Marketplace | Affiliate Store</title>
 
 <style>
 body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial;background:#f3f4f6}
 
 /* HEADER */
-.topbar{background:#111;color:#fff;padding:12px 25px;display:flex;align-items:center;gap:20px}
-.logo img{height:40px}
-.brand-name{font-size:20px;font-weight:600}
+.topbar{background:#131921;color:#fff;padding:12px 20px;display:flex;align-items:center;gap:15px}
+.logo img{height:38px}
+.brand{font-size:18px;font-weight:600}
 .search{flex:1}
 .search input{width:100%;padding:10px;border:none;border-radius:6px}
 
 /* NAV */
-.nav{background:#fff;padding:10px 25px;box-shadow:0 2px 6px rgba(0,0,0,0.08)}
-.nav a{margin-right:20px;color:#333;font-weight:500;text-decoration:none}
+.nav{background:#232f3e;color:#fff;padding:10px 20px;display:flex;gap:15px;flex-wrap:wrap}
+.nav a{color:#fff;text-decoration:none;font-size:13px;opacity:0.9}
+.nav a:hover{opacity:1}
 
-/* HERO */
-.hero{height:320px;background:url('PASTE_HERO_IMAGE_URL_HERE') center/cover no-repeat;display:flex;align-items:center;padding-left:60px}
-.hero-box{background:rgba(0,0,0,0.6);padding:25px;border-radius:12px;color:#fff;max-width:400px}
-.hero-box h1{margin:0}
-.hero-box p{margin:10px 0}
-.hero-box a{background:#ffd814;color:#111;padding:10px 15px;border-radius:6px;text-decoration:none;font-weight:bold}
+/* HERO SLIDER */
+.hero{height:320px;display:flex;align-items:center;padding-left:50px;color:#fff;background-size:cover;background-position:center;transition:0.5s}
+.hero-box{background:rgba(0,0,0,0.6);padding:20px;border-radius:10px;max-width:420px}
+.hero-box h1{margin:0;font-size:26px}
+.hero-box p{font-size:14px;margin:10px 0}
+.hero-box a{background:#ffd814;color:#111;padding:10px 14px;border-radius:6px;text-decoration:none;font-weight:bold}
 
 .container{max-width:1200px;margin:auto;padding:20px}
-.section-title{font-size:22px;margin:25px 0}
+.section-title{font-size:20px;margin:25px 0 10px}
 
-/* TRUST */
-.trust{display:flex;justify-content:space-around;background:#fff;padding:15px;border-radius:10px;margin-bottom:20px}
+/* TRUST STRIP */
+.trust{display:flex;justify-content:space-around;background:#fff;padding:12px;border-radius:10px;margin-bottom:20px;font-size:13px}
 
-/* GRID */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px}
-.card{background:#fff;border-radius:12px;padding:12px;box-shadow:0 3px 10px rgba(0,0,0,0.08);position:relative}
+/* CATEGORY ROWS (Amazon style) */
+.row{background:#fff;padding:15px;border-radius:12px;margin-bottom:20px}
+.row-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.row-header h3{margin:0;font-size:16px}
+.row-header a{text-decoration:none;font-size:13px;color:#007185}
+
+.scroll{display:flex;gap:15px;overflow-x:auto;padding-bottom:5px}
+
+.card{min-width:200px;background:#fff;border-radius:10px;padding:10px;box-shadow:0 2px 8px rgba(0,0,0,0.08);position:relative}
 .card img{width:100%;border-radius:8px}
-.title{font-size:14px;margin:10px 0;height:40px;overflow:hidden}
+.title{font-size:13px;margin:8px 0;height:38px;overflow:hidden}
 .price{font-weight:bold;color:#b12704}
-.old-price{text-decoration:line-through;color:#777;font-size:13px}
-.rating{color:#f0c14b;font-size:14px}
-.badge{position:absolute;top:10px;left:10px;background:#cc0c39;color:#fff;padding:4px 8px;font-size:12px;border-radius:4px}
-.viewing{font-size:12px;color:#007600;margin-top:5px}
-.btn{display:block;text-align:center;padding:10px;background:#ffd814;color:#111;text-decoration:none;border-radius:8px;font-weight:bold;margin-top:10px}
+.badge{position:absolute;top:8px;left:8px;background:#cc0c39;color:#fff;font-size:11px;padding:3px 6px;border-radius:4px}
+.rating{font-size:12px;color:#f0c14b}
+.btn{display:block;margin-top:8px;text-align:center;padding:8px;background:#ffd814;color:#111;text-decoration:none;border-radius:8px;font-weight:bold;font-size:13px}
 
-/* MOBILE */
+/* STICKY MOBILE CTA */
 .sticky{display:none}
 @media(max-width:768px){
+.hero{padding-left:20px;height:260px}
 .sticky{display:flex;position:fixed;bottom:0;width:100%;background:#fff;padding:10px}
-.sticky a{flex:1;background:#ffd814;color:#111;text-align:center;padding:12px;text-decoration:none;border-radius:8px}
+.sticky a{flex:1;background:#ffd814;color:#111;text-align:center;padding:12px;border-radius:8px;text-decoration:none;font-weight:bold}
 }
 
-footer{text-align:center;padding:20px;font-size:13px}
+footer{text-align:center;padding:20px;font-size:12px;color:#555}
 </style>
 </head>
 
@@ -59,85 +65,123 @@ footer{text-align:center;padding:20px;font-size:13px}
 
 <!-- HEADER -->
 <div class="topbar">
-  <!-- LOGO -->
-  <div class="logo">
-    <img src="https://canva.link/fikdoxcpxdly4ph" alt="Logo">
-  </div>
-
-  <!-- BRAND NAME -->
-  <div class="brand-name">YOUR BRAND NAME</div>
-
-  <!-- SEARCH -->
-  <div class="search">
-    <input placeholder="Search products...">
-  </div>
+<div class="logo">
+<img src="PASTE_LOGO_URL_HERE" alt="logo">
+</div>
+<div class="brand">YOUR BRAND NAME</div>
+<div class="search"><input placeholder="Search products, deals, gadgets..."></div>
 </div>
 
-<!-- NAVIGATION -->
+<!-- NAV -->
 <div class="nav">
-  <a href="#">Best Sellers</a>
-  <a href="#">Home Decor</a>
-  <a href="#">Gadgets</a>
-  <a href="#">New Arrivals</a>
+<a href="#decor">Home Decor</a>
+<a href="#gadgets">Gadgets</a>
+<a href="#trending">Trending</a>
+<a href="#deals">Deals</a>
 </div>
 
-<!-- HERO BANNER -->
-<div class="hero">
-  <div class="hero-box">
-    <h1>Luxury Finds For Modern Living</h1>
-    <p>Discover premium decor & trending gadgets loved worldwide.</p>
-    <a href="#">Shop Now</a>
-  </div>
+<!-- HERO SLIDER -->
+<div class="hero" id="hero">
+<div class="hero-box">
+<h1>Discover Premium Finds</h1>
+<p>Handpicked trending products for modern lifestyle upgrades.</p>
+<a href="#deals">Shop Deals</a>
+</div>
 </div>
 
 <div class="container">
 
 <!-- TRUST -->
 <div class="trust">
-  <span>✔ Premium Quality</span>
-  <span>✔ Trusted Products</span>
-  <span>✔ Secure Shopping</span>
+<span>✔ Secure Checkout</span>
+<span>✔ Trending Products</span>
+<span>✔ Verified Picks</span>
 </div>
 
-<!-- PRODUCTS -->
-<div class="section-title">🔥 Best Sellers</div>
+<!-- CATEGORY ROW 1 -->
+<div class="row" id="decor">
+<div class="row-header">
+<h3>🛋️ Home Decor Picks</h3>
+<a href="#">See all</a>
+</div>
+<div class="scroll">
 
-<div class="grid">
-
-<!-- PRODUCT CARD (COPY THIS BLOCK) -->
 <div class="card">
-  <span class="badge">Best Seller</span>
-  <img src="PASTE_PRODUCT_IMAGE_URL_HERE">
-
-  <div class="title">PRODUCT NAME HERE</div>
-
-  <div class="rating">★★★★★ (1,200)</div>
-
-  <div>
-    <span class="price">$19.99</span>
-    <span class="old-price">$29.99</span>
-  </div>
-
-  <div class="viewing">🔥 21 people viewing now</div>
-
-  <a class="btn" href="PASTE_AFFILIATE_LINK_HERE" target="_blank">Add to Cart</a>
-</div>
-<!-- END PRODUCT CARD -->
-
+<span class="badge">Best Seller</span>
+<img src="PASTE_IMAGE_URL">
+<div class="title">Luxury Velvet Pillow</div>
+<div class="rating">★★★★★</div>
+<div class="price">$19.99</div>
+<a class="btn" href="PASTE_LINK">View Deal</a>
 </div>
 
 </div>
+</div>
 
-<!-- MOBILE BUTTON -->
+<!-- CATEGORY ROW 2 -->
+<div class="row" id="gadgets">
+<div class="row-header">
+<h3>⚡ Smart Gadgets</h3>
+<a href="#">See all</a>
+</div>
+<div class="scroll">
+
+<div class="card">
+<span class="badge">Hot</span>
+<img src="PASTE_IMAGE_URL">
+<div class="title">LED Smart Light</div>
+<div class="rating">★★★★☆</div>
+<div class="price">$14.99</div>
+<a class="btn" href="PASTE_LINK">View Deal</a>
+</div>
+
+</div>
+</div>
+
+<!-- CATEGORY ROW 3 -->
+<div class="row" id="deals">
+<div class="row-header">
+<h3>🔥 Today’s Deals</h3>
+<a href="#">See all</a>
+</div>
+<div class="scroll">
+
+<div class="card">
+<span class="badge">Limited</span>
+<img src="PASTE_IMAGE_URL">
+<div class="title">Trending Home Upgrade</div>
+<div class="rating">★★★★★</div>
+<div class="price">$9.99</div>
+<a class="btn" href="PASTE_LINK">Grab Now</a>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<!-- MOBILE CTA -->
 <div class="sticky">
-  <a href="PASTE_AFFILIATE_LINK_HERE">🛒 Buy Now</a>
+<a href="PASTE_LINK">🛒 Shop Now</a>
 </div>
 
 <footer>
 <p>#ad As an affiliate, I may earn from qualifying purchases.</p>
 </footer>
 
+<!-- HERO AUTO SLIDER -->
+<script>
+const images=[
+"https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+"https://images.unsplash.com/photo-1615873968403-89e068629265",
+"https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+];
+let i=0;
+const hero=document.getElementById("hero");
+function change(){hero.style.backgroundImage=`url(${images[i]})`;i=(i+1)%images.length}
+change();setInterval(change,4000);
+</script>
+
 </body>
 </html>
-
 
