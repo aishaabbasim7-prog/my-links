@@ -150,7 +150,7 @@ function renderStore(){
 
   products.forEach(p=>{
 
-    const ratingStars = "★".repeat(p.rating) + "☆".repeat(5 - p.rating);
+   const ratingStars = `<span style="color: #f0c14b;">${"★".repeat(p.rating)}${"☆".repeat(5 - p.rating)}</span>`;
 
     const card = `
       <a href="product.html?id=${p.id}" style="text-decoration:none;color:inherit;" target="_blank">
