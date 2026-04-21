@@ -78,22 +78,22 @@ if(results.length === 0){
   box.innerHTML = "<p>No products found</p>";
 }else{
 
-  results.forEach(p=>{
-    box.innerHTML += `
-      <div class="card">
-        <img src="${p.image}">
-        <div>
-          <h3>${p.title}</h3>
-          <div>${"★".repeat(p.rating)}</div>
-          <div><b>${p.price}</b></div>
-
-          <a class="btn" href="product.html?id=${p.id}">
-            View Product
-          </a>
-        </div>
+results.forEach(p=>{
+  box.innerHTML += `
+    <div class="card" style="display: flex; align-items: center; background: #fff; padding: 15px; margin-bottom: 15px; border-radius: 10px; gap: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <img src="${p.image}" style="width: 100px; height: auto; border-radius: 8px;">
+      <div style="display: flex; flex-direction: column; gap: 5px;"> 
+        <h3 style="margin: 0; font-size: 18px;">${p.title}</h3>
+        <div style="color: #f0c14b;">${"★".repeat(p.rating)}</div>
+        <div style="margin-bottom: 10px;"><b>${p.price}</b></div> 
+        <a href="product.html?id=${p.id}" style="background: #ffd814; padding: 10px 15px; border-radius: 6px; text-decoration: none; font-weight: bold; color: #111; width: fit-content; display: inline-block;"> 
+          View Product 
+        </a>
       </div>
-    `;
-  });
+    </div>
+  `;
+});
+
 
 }
 
