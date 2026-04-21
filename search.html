@@ -5,20 +5,55 @@
 <title>Search</title>
 
 <style>
-body{font-family:Arial;background:#f5f5f5}
-.container{padding:20px}
-.card{
-  background:#fff;
-  padding:15px;
-  margin-bottom:10px;
-  border-radius:10px;
-  display:flex;
-  gap:15px;
-  align-items:center;
-}
-img{width:80px;border-radius:8px}
-.btn{background:#ffd814;padding:8px 12px;border-radius:6px;text-decoration:none;font-weight:bold}
+  body {
+    font-family: Arial;
+    background: #f5f5f5;
+    margin: 0;
+  }
+  .container {
+    padding: 20px;
+  }
+  .card {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    display: flex; /* Keeps image on left, text on right */
+    gap: 15px;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  img {
+    width: 100px; /* Slightly larger image */
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  /* 🌟 NEW: This controls the text area next to the image */
+  .card-info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px; /* Adds equal space between title, rating, and price */
+  }
+
+  .btn {
+    background: #ffd814;
+    padding: 8px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #111;
+    display: inline-block;
+    margin-top: 10px; /* 🚀 This pushes the button down away from the price */
+    width: fit-content;
+  }
+  
+  h3 {
+    margin: 0;
+    font-size: 18px;
+  }
 </style>
+
 </head>
 
 <body>
