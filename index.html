@@ -188,9 +188,6 @@ function handleSearch(e){
   }
 }
 
-</script>
-
-<script>
 
 /* HERO SLIDER SYSTEM */
 const slides=[
@@ -225,21 +222,8 @@ function changeSlide(){
 changeSlide();
 setInterval(changeSlide,4000);
 
-/* SEARCH SYSTEM (ENTER KEY FILTER) */
-function handleSearch(e){
-  if(e.key==='Enter'){
-    let q=document.getElementById("searchBox").value.toLowerCase();
-    let cards=document.querySelectorAll(".card");
 
-    cards.forEach(c=>{
-      let title=c.getAttribute("data-title");
-      if(title.includes(q)) c.classList.remove("hidden");
-      else c.classList.add("hidden");
-    });
-  }
-}
-
-</script>
+</scrip
 
 </body>
 </html>
