@@ -86,7 +86,20 @@ const box = document.getElementById("productBox");
 
 if(product){
 
-  const stars = "★".repeat(product.rating) + "☆".repeat(5 - product.rating);
+  const fullStars = Math.floor(product.rating);
+const halfStar = product.rating % 1 >= 0.5 ? 1 : 0;
+const emptyStars = 5 - fullStars - halfStar;
+
+const stars = `
+<span style="color:#f0c14b; font-size:18px;">
+  ${"★".repeat(fullStars)}
+  ${halfStar ? "⯪" : ""}
+  ${"☆".repeat(emptyStars)}
+</span>
+<span style="color:#555; font-size:14px; margin-left:6px;">
+  ${product.rating}
+</span>
+`;
 
   box.innerHTML = `
     
