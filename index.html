@@ -164,7 +164,17 @@ function renderStore(){
 
   products.forEach(p=>{
 
-   const ratingStars = `<span style="color: #f0c14b;">${"★".repeat(p.rating)}${"☆".repeat(5 - p.rating)}</span>`;
+  const fullStars = Math.floor(p.rating);
+const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
+const emptyStars = 5 - fullStars - halfStar;
+
+const ratingStars = `
+<span style="color:#f0c14b;">
+  ${"★".repeat(fullStars)}
+  ${halfStar ? "⯪" : ""}
+  ${"☆".repeat(emptyStars)}
+</span>
+`;
 
     const card = `
       <a href="product.html?id=${p.id}" style="text-decoration:none;color:inherit;" target="_blank">
