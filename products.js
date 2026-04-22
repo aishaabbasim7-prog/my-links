@@ -46,7 +46,7 @@ const products = [
   description: "The Coway Airmega AP-1512HH(W) is a powerful True HEPA air purifier designed to improve indoor air quality. It features real-time air monitoring, auto mode, timer, filter indicator, and eco mode for energy efficiency. Ideal for modern homes seeking clean, fresh air.",
   tags: ["air purifier", "Coway", "HEPA filter", "home gadget", "clean air"],
   affiliate: "https://amzn.to/3Qop1b4"
-}
+},
 
 {
   id: "p4",
@@ -60,6 +60,6 @@ const products = [
   description: "High-quality bass portable speaker perfect for travel and home use.",
   tags: ["speaker", "bluetooth", "music", "portable"],
   affiliate: "#"
-}
+},
 
 ];
