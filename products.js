@@ -5,16 +5,16 @@ const products = [
 ========================= */
 {
   id: "p1",
-  title: "Luxury Velvet Pillow",
-  price: "$19.99",
-  rating: 5,
-  image: "PASTE_IMAGE_URL",
+  title: "Modern Gold Bird Sculptures",
+  price: "$14.99",
+  rating: 4.7,
+  image: "https://m.media-amazon.com/images/I/71SKqRaBtwL._AC_SL1500_.jpg",
   category: "decor",
-  badge: "🔥 Bestseller",
-  short: "Soft velvet pillow for luxury modern interiors.",
-  description: "Upgrade your living space with this premium velvet pillow designed for aesthetic home decor lovers.",
-  tags: ["pillow", "luxury", "decor", "velvet"],
-  affiliate: "#"
+  badge: "✨ Trending",
+  short: "Elegant gold bird statues for modern luxury spaces.",
+  description: "Elevate your home with these modern gold bird sculptures—perfect for styling shelves, coffee tables, or office desks. A minimalist yet luxurious accent that instantly makes your space feel designer-curated.",
+  tags: ["gold decor", "bird figurine", "modern decor", "luxury home"],
+  affiliate: "https://amzn.to/4tZ44BX"
 },
 
 {
