@@ -36,17 +36,17 @@ const products = [
 ========================= */
 {
   id: "p3",
-  title: "LED Smart Desk Lamp",
-  price: "$14.99",
-  rating: 4,
-  image: "PASTE_IMAGE_URL",
+  title: "Coway Airmega AP-1512HH(W) Air Purifier",
+  price: "$229.99",
+  rating: 4.6,
+  image: "https://m.media-amazon.com/images/I/61Cgh4ol4oL._AC_SL1500_.jpg",
   category: "gadgets",
-  badge: "⚡ Hot Deal",
-  short: "Smart LED lamp for study and bedroom lighting.",
-  description: "Touch control LED lamp with adjustable brightness for modern smart homes.",
-  tags: ["lamp", "led", "smart", "desk"],
-  affiliate: "#"
-},
+  badge: "🔥 Best Seller",
+  short: "True HEPA air purifier with smart air quality monitoring.",
+  description: "The Coway Airmega AP-1512HH(W) is a powerful True HEPA air purifier designed to improve indoor air quality. It features real-time air monitoring, auto mode, timer, filter indicator, and eco mode for energy efficiency. Ideal for modern homes seeking clean, fresh air.",
+  tags: ["air purifier", "Coway", "HEPA filter", "home gadget", "clean air"],
+  affiliate: "https://amzn.to/3Qop1b4"
+}
 
 {
   id: "p4",
