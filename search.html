@@ -84,7 +84,16 @@ results.forEach(p=>{
       <img src="${p.image}" style="width: 100px; height: auto; border-radius: 8px;">
       <div style="display: flex; flex-direction: column; gap: 5px;"> 
         <h3 style="margin: 0; font-size: 18px;">${p.title}</h3>
-     <div style="color: #f0c14b; font-size: 14px;">${"★".repeat(p.rating)}${"☆".repeat(5 - p.rating)}</div>
+     <div style="color: #f0c14b; font-size: 14px;">const fullStars = Math.floor(p.rating);
+const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
+const emptyStars = 5 - fullStars - halfStar;
+
+const stars = `
+  ${"★".repeat(fullStars)}
+  ${halfStar ? "⯪" : ""}
+  ${"☆".repeat(emptyStars)}
+  <span style="color:#555;font-size:12px;">${p.rating}</span>
+`;
 
         <div style="margin-bottom: 10px;"><b>${p.price}</b></div> 
         <a href="product.html?id=${p.id}" style="background: #ffd814; padding: 10px 15px; border-radius: 6px; text-decoration: none; font-weight: bold; color: #111; width: fit-content; display: inline-block;"> 
