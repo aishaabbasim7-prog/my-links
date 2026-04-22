@@ -168,12 +168,17 @@ function renderStore(){
 const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
 const emptyStars = 5 - fullStars - halfStar;
 
+const fullStars = Math.floor(p.rating);
+const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
+const emptyStars = 5 - fullStars - halfStar;
+
 const ratingStars = `
 <span style="color:#f0c14b;">
   ${"★".repeat(fullStars)}
   ${halfStar ? "⯪" : ""}
   ${"☆".repeat(emptyStars)}
 </span>
+<span style="color:#555;font-size:12px;">(${p.rating})</span>
 `;
 
     const card = `
