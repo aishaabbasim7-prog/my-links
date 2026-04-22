@@ -60,6 +60,6 @@ const products = [
   description: "High-quality bass portable speaker perfect for travel and home use.",
   tags: ["speaker", "bluetooth", "music", "portable"],
   affiliate: "#"
-},
+}
 
 ];
