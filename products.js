@@ -96,6 +96,19 @@ const products = [
   ],
    affiliate: "https://amzn.to/4mQg6eE"
 },
+{
+  id: "p2",
+  title: "Natural Rattan Fruit Basket Set (Set of 3)",
+  price: "Check Latest Price on Amazon",
+  rating: 4.7,
+  image: "https://m.media-amazon.com/images/I/814L+W9ougL._AC_SL1500_.jpg",
+  category: "decor",
+  badge: "🌿 Bestseller",
+  short: "Handwoven rattan baskets for stylish kitchen and dining organization.",
+  description: "Upgrade your home with this beautifully handwoven natural rattan fruit basket set of 3. Perfect for storing fruits, bread, or serving essentials while adding a warm boho, farmhouse, or coastal aesthetic to your kitchen or dining space. A functional yet elegant décor piece designed for modern minimalist homes.",
+  tags: ["rattan basket", "kitchen storage", "boho decor", "wicker organizer", "farmhouse kitchen"],
+  affiliate: "https://amzn.to/4e2XXYL"
+},
 
 /* =========================
    ⚡ GADGETS
