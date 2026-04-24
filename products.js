@@ -18,17 +18,17 @@ const products = [
 },
 
 {
-  id: "p2",
-  title: "Minimalist Ceramic Vase",
-  price: "$24.99",
-  rating: 4,
-  image: "PASTE_IMAGE_URL",
+  id: "vasagle-round-coffee-table-set-2",
+  title: "VASAGLE Round Coffee Table Set of 2",
+  price: "$49.82",
+  rating: 4.7,
+  image: "https://m.media-amazon.com/images/I/71HwRjWEjuL._AC_SL1500_.jpg",
   category: "decor",
-  badge: "✨ Trending",
-  short: "Elegant ceramic vase for modern home styling.",
-  description: "Perfect minimalist vase for flowers, desks, and aesthetic room decoration.",
-  tags: ["vase", "decor", "ceramic", "home"],
-  affiliate: "#"
+  badge: "✨ Bestseller",
+  short: "Modern nesting coffee tables with sleek minimalist design.",
+  description: "Stylish set of 2 round nesting coffee tables featuring a white tabletop and black steel frame. Includes a removable top for hidden storage—perfect for modern living rooms, apartments, and aesthetic home setups.",
+  tags: ["coffee table", "nesting table", "living room", "modern decor", "minimalist", "home furniture"],
+  affiliate: "https://amzn.to/4d2Xk0b"
 },
 
 /* =========================
