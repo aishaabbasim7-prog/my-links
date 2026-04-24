@@ -30,12 +30,34 @@ const products = [
   tags: ["coffee table", "nesting table", "living room", "modern decor", "minimalist", "home furniture"],
   affiliate: "https://amzn.to/4d2Xk0b"
 },
+{
+  id: "p4",
+  title: "Farmhouse Teal Cushion Covers Set of 4 (45x45 cm)",
+  price: "$20.19",
+  rating: 4.4,
+  image: "https://m.media-amazon.com/images/I/71YUzdszBmL._AC_SL1500_.jpg",
+  category: "decor",
+  badge: "✨ Amazon Choice",
+  short: "Elegant teal textured cushion covers for cozy modern interiors.",
+  description: "Set of 4 farmhouse-style cushion covers in a 45x45 cm size. Designed with textured patchwork fabric in a stylish teal tone, perfect for sofas, beds, chairs, office spaces, and modern home styling. Adds a cozy, aesthetic upgrade to any room instantly.",
+  tags: [
+    "cushion covers",
+    "pillow covers",
+    "home decor",
+    "sofa decor",
+    "farmhouse style",
+    "modern living room",
+    "teal decor",
+    "interior styling"
+  ],
+   affiliate: "https://amzn.to/3QXvPws"
+},
 
 /* =========================
    ⚡ GADGETS
 ========================= */
 {
-  id: "p3",
+  id: "p5",
   title: "Coway Airmega AP-1512HH(W) Air Purifier",
   price: "$229.99",
   rating: 4.6,
@@ -49,7 +71,7 @@ const products = [
 },
 
 {
-  id: "p4",
+  id: "p6",
   title: "Portable Foldable Neck Fan – Rechargeable 1600mAh",
   price: "$13.82",
   rating: 4.7,
@@ -68,8 +90,7 @@ const products = [
     "sports accessories"
   ],
   affiliate: "https://s.click.aliexpress.com/e/_c3gyTc6f",
-  reviews: "291 Reviews",
-  sold: "2,000+ sold"
+ 
 }
 
 ];
