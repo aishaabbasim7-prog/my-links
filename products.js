@@ -113,6 +113,50 @@ const products = [
   ],
   affiliate: "https://s.click.aliexpress.com/e/_c3gyTc6f",
  
+},
+{
+  id: "p8",
+  title: "Smart Coffee Mug Warmer with Auto Shut Off – Desk Heater Plate",
+  price: "$32.31",
+  rating: 4.6,
+  image: "https://m.media-amazon.com/images/I/71sTNNKjANL._AC_SL1500_.jpg",
+  category: "gadgets",
+  badge: "☕ Amazon’s Choice",
+  short: "Keep your coffee, tea, or milk warm all day at your desk.",
+  description: "Smart coffee mug warmer with adjustable temperature settings and auto shut-off safety feature. Designed for desks, offices, and home use. Works with most cups and mugs, also doubles as a candle wax warmer. Perfect for work-from-home comfort and cozy productivity.",
+  tags: [
+    "coffee mug warmer",
+    "desk gadget",
+    "home office",
+    "coffee accessories",
+    "tea warmer",
+    "work from home",
+    "gift idea",
+    "kitchen gadget"
+  ],
+  affiliate: "https://amzn.to/3QZ7Ug7"
+},
+   {
+  id: "p9",
+  title: "Ultenic 3-in-1 Robot Vacuum & Mop with LiDAR Navigation",
+  price: "$188.52",
+  rating: 4.7,
+  image: "https://m.media-amazon.com/images/I/81TDmHmWJbL._AC_SL1500_.jpg",
+  category: "gadgets",
+  badge: "🤖 Smart Home Upgrade",
+  short: "Automatic robot vacuum & mop with powerful 8000Pa suction.",
+  description: "Advanced 3-in-1 robot vacuum cleaner with sweeping, vacuuming, and mopping functions. Features 8000Pa suction power, 200-minute runtime, and precision LiDAR navigation for smart mapping. Supports multiple floor maps, no-go zones, and app control. Ideal for carpets, hard floors, and pet hair cleaning.",
+  tags: [
+    "robot vacuum",
+    "smart home",
+    "floor cleaner",
+    "mop robot",
+    "pet hair cleaner",
+    "home automation",
+    "cleaning gadget",
+    "AI vacuum"
+  ],
+  affiliate: "https://amzn.to/4eFygxy"
 }
 
 ];
