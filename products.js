@@ -221,13 +221,13 @@ const products = [
   title: "AMACOOL Portable Waist Clip-On Fan (10000mAh Rechargeable)",
   price: "Check Latest Price on Amazon",
   rating: 4.6,
-  image: "https://m.media-amazon.com/images/I/71z8xUFnOEL._AC_SL1500_.jpg",
+  image: "https://m.media-amazon.com/images/I/61SQgVl99eL._AC_SL1500_.jpg",
   category: "gadgets",
   badge: "❄️ Amazon’s Choice",
   short: "Powerful wearable waist fan for cooling comfort on the go.",
   description: "Stay cool anywhere with the AMACOOL Portable Waist Clip-On Fan featuring a powerful 10000mAh rechargeable battery. Designed for hands-free cooling, it easily clips onto your belt or shirt—perfect for outdoor work, travel, camping, hiking, or hot summer days. A must-have personal cooling gadget for men and women who need strong airflow on the move.",
   tags: ["portable fan", "waist fan", "rechargeable fan", "summer gadget", "outdoor cooling", "travel essentials"],
-  affiliate: "https://amzn.to/4ubdr1J"
+  affiliate: "https://amzn.to/3P0qQdV"
 }
    
 
