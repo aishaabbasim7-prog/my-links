@@ -6,6 +6,7 @@ const products = [
 {
   id: "p1",
   title: "Modern Gold Bird Sculptures",
+  price: "Check Latest Price on Amazon",
   rating: 4.7,
   image: "https://m.media-amazon.com/images/I/71SKqRaBtwL._AC_SL1500_.jpg",
   category: "decor",
