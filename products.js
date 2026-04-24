@@ -50,16 +50,26 @@ const products = [
 
 {
   id: "p4",
-  title: "Mini Portable Bluetooth Speaker",
-  price: "$29.99",
-  rating: 5,
-  image: "PASTE_IMAGE_URL",
+  title: "Portable Foldable Neck Fan – Rechargeable 1600mAh",
+  price: "$13.82",
+  rating: 4.7,
+  image: "https://ae-pic-a1.aliexpress-media.com/kf/S38ae55f73653480d85b5f9e005fdf310Q.jpg_220x220q75.jpg_.avif",
   category: "gadgets",
   badge: "🔥 Best Seller",
-  short: "Powerful sound in a compact design.",
-  description: "High-quality bass portable speaker perfect for travel and home use.",
-  tags: ["speaker", "bluetooth", "music", "portable"],
-  affiliate: "#"
+  short: "Hands-free cooling neck fan for summer comfort & outdoor sports.",
+  description: "Portable foldable neck fan with powerful 1600mAh rechargeable battery. Designed for hands-free cooling during sports, travel, commuting, and hot summer days. Lightweight, silent airflow, and modern wearable design.",
+  tags: [
+    "neck fan",
+    "portable fan",
+    "summer gadget",
+    "cooling device",
+    "rechargeable fan",
+    "travel gadget",
+    "sports accessories"
+  ],
+  affiliate: "https://s.click.aliexpress.com/e/_c3gyTc6f",
+  reviews: "291 Reviews",
+  sold: "2,000+ sold"
 }
 
 ];
