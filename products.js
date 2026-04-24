@@ -6,7 +6,6 @@ const products = [
 {
   id: "p1",
   title: "Modern Gold Bird Sculptures",
-  price: "$14.99",
   rating: 4.7,
   image: "https://m.media-amazon.com/images/I/71SKqRaBtwL._AC_SL1500_.jpg",
   category: "decor",
@@ -20,7 +19,6 @@ const products = [
 {
   id: "vasagle-round-coffee-table-set-2",
   title: "VASAGLE Round Coffee Table Set of 2",
-  price: "$49.82",
   rating: 4.7,
   image: "https://m.media-amazon.com/images/I/71HwRjWEjuL._AC_SL1500_.jpg",
   category: "decor",
@@ -33,7 +31,6 @@ const products = [
 {
   id: "p4",
   title: "Farmhouse Teal Cushion Covers Set of 4 (45x45 cm)",
-  price: "$20.19",
   rating: 4.4,
   image: "https://m.media-amazon.com/images/I/71YUzdszBmL._AC_SL1500_.jpg",
   category: "decor",
@@ -55,7 +52,6 @@ const products = [
 {
   id: "p5",
   title: "Sunflower Paper Towel Holder – Farmhouse Kitchen Decor",
-  price: "$21.55",
   rating: 4.4,
   image: "https://m.media-amazon.com/images/I/61EouKc6UrL._AC_SL1200_.jpg",
   category: "decor",
@@ -77,7 +73,6 @@ const products = [
 {
   id: "p6",
   title: "Modern Black & Gold 3-Light Bathroom Vanity Fixture with Glass Shades",
-  price: "$89.14",
   rating: 4.6,
   image: "https://m.media-amazon.com/images/I/71V+5NXFouL._AC_SL1500_.jpg",
   category: "decor",
@@ -103,7 +98,6 @@ const products = [
 {
   id: "p7",
   title: "Coway Airmega AP-1512HH(W) Air Purifier",
-  price: "$229.99",
   rating: 4.6,
   image: "https://m.media-amazon.com/images/I/61Cgh4ol4oL._AC_SL1500_.jpg",
   category: "gadgets",
@@ -117,7 +111,6 @@ const products = [
 {
   id: "p8",
   title: "Portable Foldable Neck Fan – Rechargeable 1600mAh",
-  price: "$13.82",
   rating: 4.7,
   image: "https://ae-pic-a1.aliexpress-media.com/kf/S38ae55f73653480d85b5f9e005fdf310Q.jpg_220x220q75.jpg_.avif",
   category: "gadgets",
@@ -139,7 +132,6 @@ const products = [
 {
   id: "p9",
   title: "Smart Coffee Mug Warmer with Auto Shut Off – Desk Heater Plate",
-  price: "$32.31",
   rating: 4.6,
   image: "https://m.media-amazon.com/images/I/71sTNNKjANL._AC_SL1500_.jpg",
   category: "gadgets",
@@ -161,7 +153,6 @@ const products = [
    {
   id: "p10",
   title: "Ultenic 3-in-1 Robot Vacuum & Mop with LiDAR Navigation",
-  price: "$188.52",
   rating: 4.7,
   image: "https://m.media-amazon.com/images/I/81TDmHmWJbL._AC_SL1500_.jpg",
   category: "gadgets",
@@ -183,7 +174,6 @@ const products = [
 {
   id: "p11",
   title: "Fullstar 6-in-1 Vegetable Chopper & Mandoline Slicer",
-  price: "$33.65",
   rating: 4.4,
   image: "https://m.media-amazon.com/images/I/81ViXXJKNhL._AC_SL1500_.jpg",
   category: "gadgets",
