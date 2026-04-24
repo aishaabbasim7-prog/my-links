@@ -18,7 +18,7 @@ const products = [
 },
 
 {
-  id: "vasagle-round-coffee-table-set-2",
+  id: "2",
   title: "VASAGLE Round Coffee Table Set of 2",
   price: "Check Latest Price on Amazon",
   rating: 4.7,
@@ -31,7 +31,7 @@ const products = [
   affiliate: "https://amzn.to/4d2Xk0b"
 },
 {
-  id: "p4",
+  id: "p3",
   title: "Farmhouse Teal Cushion Covers Set of 4 (45x45 cm)",
   price: "Check Latest Price on Amazon",
   rating: 4.4,
@@ -53,7 +53,7 @@ const products = [
    affiliate: "https://amzn.to/3QXvPws"
 },
 {
-  id: "p5",
+  id: "p4",
   title: "Sunflower Paper Towel Holder – Farmhouse Kitchen Decor",
   price: "Check Latest Price on Amazon",
   rating: 4.4,
@@ -75,7 +75,7 @@ const products = [
   affiliate: "https://amzn.to/4sMaaod"
 },
 {
-  id: "p6",
+  id: "p5",
   title: "Modern Black & Gold 3-Light Bathroom Vanity Fixture with Glass Shades",
   price: "Check Latest Price on Amazon",
   rating: 4.6,
@@ -97,7 +97,7 @@ const products = [
    affiliate: "https://amzn.to/4mQg6eE"
 },
 {
-  id: "p2",
+  id: "p6",
   title: "Natural Rattan Fruit Basket Set (Set of 3)",
   price: "Check Latest Price on Amazon",
   rating: 4.7,
@@ -215,6 +215,19 @@ const products = [
   ],
  
   affiliate: "https://amzn.to/4u1NPnK"
+},
+{
+  id: "12",
+  title: "AMACOOL Portable Waist Clip-On Fan (10000mAh Rechargeable)",
+  price: "Check Latest Price on Amazon",
+  rating: 4.6,
+  image: "https://m.media-amazon.com/images/I/71z8xUFnOEL._AC_SL1500_.jpg",
+  category: "gadgets",
+  badge: "❄️ Amazon’s Choice",
+  short: "Powerful wearable waist fan for cooling comfort on the go.",
+  description: "Stay cool anywhere with the AMACOOL Portable Waist Clip-On Fan featuring a powerful 10000mAh rechargeable battery. Designed for hands-free cooling, it easily clips onto your belt or shirt—perfect for outdoor work, travel, camping, hiking, or hot summer days. A must-have personal cooling gadget for men and women who need strong airflow on the move.",
+  tags: ["portable fan", "waist fan", "rechargeable fan", "summer gadget", "outdoor cooling", "travel essentials"],
+  affiliate: "https://amzn.to/4ubdr1J"
 }
    
 
