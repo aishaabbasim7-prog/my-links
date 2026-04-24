@@ -52,12 +52,34 @@ const products = [
   ],
    affiliate: "https://amzn.to/3QXvPws"
 },
+{
+  id: "p5",
+  title: "Sunflower Paper Towel Holder – Farmhouse Kitchen Decor",
+  price: "$21.55",
+  rating: 4.4,
+  image: "https://m.media-amazon.com/images/I/61EouKc6UrL._AC_SL1200_.jpg",
+  category: "decor",
+  badge: "🌻 Best Gift Idea",
+  short: "Rustic sunflower paper towel holder for warm farmhouse kitchens.",
+  description: "Beautiful sunflower-themed paper towel holder designed for farmhouse and rustic kitchen aesthetics. Made with durable black metal and detailed sunflower accents, it adds a cozy country charm to countertops. Perfect as a housewarming or gift item for kitchen lovers.",
+  tags: [
+    "kitchen decor",
+    "paper towel holder",
+    "farmhouse kitchen",
+    "sunflower decor",
+    "rustic home",
+    "country style",
+    "kitchen accessories",
+    "gift idea"
+  ],
+  affiliate: "https://amzn.to/4sMaaod"
+},
 
 /* =========================
    ⚡ GADGETS
 ========================= */
 {
-  id: "p5",
+  id: "p6",
   title: "Coway Airmega AP-1512HH(W) Air Purifier",
   price: "$229.99",
   rating: 4.6,
@@ -71,7 +93,7 @@ const products = [
 },
 
 {
-  id: "p6",
+  id: "p7",
   title: "Portable Foldable Neck Fan – Rechargeable 1600mAh",
   price: "$13.82",
   rating: 4.7,
