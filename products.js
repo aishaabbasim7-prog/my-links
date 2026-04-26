@@ -109,6 +109,32 @@ const products = [
   tags: ["rattan basket", "kitchen storage", "boho decor", "wicker organizer", "farmhouse kitchen"],
   affiliate: "https://amzn.to/4e2XXYL"
 },
+{
+  "id": "potato-estudiosa-motivation",
+  "title": "Potato Estudiosa® Student Motivation Gift",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/71GTkmeD8FL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "📚 Study Must-Have",
+  "short": "Cute motivational potato decor for study desks.",
+  "description": "Transform your study space into a focused, aesthetic zone with this adorable Potato Estudiosa® figurine. Designed to spark motivation and bring a smile during long study sessions, it's the perfect desk companion for students, teens, and exam warriors. A small detail that creates a big productivity vibe—ideal for aesthetic study setups and cozy desk styling.",
+  "tags": ["study decor", "student gift", "desk aesthetic", "motivation decor", "study room ideas"],
+  "affiliate": "https://amzn.to/3P5Yor3"
+},
+{
+  "id": "mixed-beach-seashells-starfish-decor",
+  "title": "Mixed Beach Seashells & Starfish Set (9 Types)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/81ZRnZAoqgL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🏖️ Summer Favorite",
+  "short": "Natural seashells & starfish for coastal home styling.",
+  "description": "Bring effortless coastal elegance into your space with this mixed seashell and starfish set. Featuring 9 varieties of natural shells, this collection is perfect for styling glass vases, coffee tables, or beach-themed decor. Instantly create that breezy, seaside vibe—whether you're decorating a summer apartment, hosting a coastal party, or curating a Pinterest-worthy shelf.",
+  "tags": ["coastal decor", "beach house decor", "summer styling", "seashell decor", "vase fillers"],
+  "affiliate": "https://amzn.to/4mP5Z9U"
+},
 
 /* =========================
    ⚡ GADGETS
