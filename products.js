@@ -135,6 +135,46 @@ const products = [
   "tags": ["coastal decor", "beach house decor", "summer styling", "seashell decor", "vase fillers"],
   "affiliate": "https://amzn.to/4mP5Z9U"
 },
+{
+  "id": "smuxee-nesting-coffee-table-set",
+  "title": "Smuxee Nesting Coffee Table Set of 2",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91EfC6N5JWL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Best Seller",
+  "short": "Modern nesting coffee tables for stylish small spaces.",
+  "description": "Upgrade your living room instantly with this elegant nesting coffee table set. Featuring warm wood-grain tops and sleek industrial metal frames, these round tables bring designer style without the designer price tag. Use them together for a layered luxury look or separately as side tables in apartments, bedrooms, balconies, or cozy reading corners. Perfect for modern, minimalist, and Pinterest-inspired interiors.",
+  "tags": ["coffee table", "small living room decor", "modern furniture", "nesting table", "luxury apartment decor"],
+  "affiliate": "https://amzn.to/4eNyMJV"
+},
+{
+  "id": "aubcee-faux-pink-dahlia-vase",
+  "title": "Aubcee Faux Pink Dahlia Flowers with Vase",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81BQdMXAkoL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌸 Trending",
+  "short": "Elegant pink faux flowers in vase for chic home styling.",
+  "description": "Add instant softness and elegance to your space with these faux pink dahlia flowers in a decorative vase. Designed to look fresh year-round, this stylish arrangement brings a romantic, luxury feel to coffee tables, bathroom counters, entryways, and shelves. Perfect for creating that polished Pinterest home aesthetic without the upkeep of real flowers.",
+  "tags": ["faux flowers", "pink decor", "coffee table decor", "feminine home decor", "luxury vase decor"],
+  "affiliate": "https://amzn.to/4sZDSpV"
+},
+{
+  "id": "nacome-solar-turtle-garden-statue",
+  "title": "Nacome Solar Turtle Garden Statue with LED Lights",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71Mq0xq6M4L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🐢 #1 Best Seller",
+  "short": "Whimsical solar turtle statue with glowing garden lights.",
+  "description": "Bring charm and warmth to your outdoor space with this adorable solar turtle garden statue. Featuring a succulent-style shell and 7 soft LED lights, it automatically glows at night to create a magical garden atmosphere. Perfect for patios, balconies, porches, flower beds, or as a thoughtful gift for moms, grandmas, and nature lovers.",
+  "tags": ["garden decor", "solar lights", "patio decor", "gift for mom", "outdoor statue"],
+  "affiliate": "https://amzn.to/4d26nh0"
+},
+   
 
 /* =========================
    ⚡ GADGETS
