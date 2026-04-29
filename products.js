@@ -213,6 +213,58 @@ const products = [
   "tags": ["pink room decor", "girls bedroom", "fluffy rug", "dorm decor", "cute room aesthetic"],
   "affiliate": "https://amzn.to/4uc8c1v"
 },
+{
+  "id": "uvvyui-blue-velvet-shell-pillow",
+  "title": "Uvvyui Blue Velvet Sea Shell Throw Pillow",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71wKhH2fkML._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌊 Amazon's Choice",
+  "short": "Chic velvet shell pillow for coastal luxe spaces.",
+  "description": "Bring elegant coastal charm into your home with this blue velvet sea shell shaped throw pillow. Featuring a plush cotton fill and rich velvet texture, it adds softness, style, and a designer touch to sofas, beds, accent chairs, or reading nooks. Perfect for beach-inspired interiors, feminine bedrooms, and modern spaces needing a unique statement accent.",
+  "tags": ["coastal decor", "throw pillow", "beach room decor", "blue velvet pillow", "luxury home decor"],
+  "affiliate": "https://amzn.to/49hCLuF"
+},
+{
+  "id": "phantoscope-pink-faux-fur-pillow-covers",
+  "title": "Phantoscope Pink Faux Fur Throw Pillow Covers (Set of 2)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81QDkoaSYrL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "💗 Cozy Favorite",
+  "short": "Luxury faux fur pillow covers for chic cozy spaces.",
+  "description": "Add instant softness and glamour to your home with these blush pink faux fur throw pillow covers. Designed to bring warmth, texture, and a luxurious cozy vibe, they’re perfect for beds, sofas, accent chairs, dorm rooms, or festive holiday styling. The plush fuzzy finish creates that designer layered look every stylish space needs.",
+  "tags": ["pink pillow covers", "cozy decor", "bedroom aesthetic", "faux fur pillows", "luxury home decor"],
+  "affiliate": "https://m.media-amazon.com/images/I/81QDkoaSYrL._AC_SL1500_.jpg"
+},
+{
+  "id": "bignosedeer-kawaii-cat-tea-mug-infuser",
+  "title": "BigNoseDeer Kawaii Cat Tea Cup with Infuser (13oz)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.8,
+  "image": "https://m.media-amazon.com/images/I/61Tb5j081mL._AC_SL1000_.jpg",
+  "category": "decor",
+  "badge": "🐱 Amazon's Choice",
+  "short": "Cute pink cat mug with tea infuser for cozy drink moments.",
+  "description": "Bring adorable charm to your daily tea or coffee routine with this kawaii cat tea mug. Featuring a built-in infuser and a soft pastel pink design, it’s perfect for brewing loose-leaf tea or enjoying cozy coffee moments. Ideal for cat lovers, aesthetic kitchen setups, dorm rooms, or thoughtful gifts for women who love cute, preppy-style essentials.",
+  "tags": ["cute mug", "cat lover gift", "tea mug", "kawaii kitchen", "aesthetic drinkware"],
+  "affiliate": "https://amzn.to/4mYZzFn"
+},
+{
+  "id": "dcoriuntg-3d-crystal-ball-night-light",
+  "title": "3D Crystal Ball Night Light with Remote (16 Colors)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/8113ZAZqSiL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌙 Amazon's Choice",
+  "short": "Color-changing crystal ball night light for magical room vibes.",
+  "description": "Create a dreamy, glowing atmosphere with this 3D crystal ball night light featuring 16 color modes and remote control. The elegant glass sphere design casts soft ambient light, making it perfect for bedrooms, desks, bedside tables, or cozy aesthetic setups. Ideal for kids, teens, and adults who love magical, calming decor or unique gift ideas.",
+  "tags": ["night light", "room decor", "LED lamp", "aesthetic lighting", "gift idea"],
+  "affiliate": "https://amzn.to/4cRUt9j"
+},
    
 
 /* =========================
