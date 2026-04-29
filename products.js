@@ -265,6 +265,32 @@ const products = [
   "tags": ["night light", "room decor", "LED lamp", "aesthetic lighting", "gift idea"],
   "affiliate": "https://amzn.to/4cRUt9j"
 },
+{
+  "id": "nourison-passion-ivory-fuchsia-area-rug-7x10",
+  "title": "Nourison Home Passion Ivory/Fuchsia Area Rug 7x10",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91FTndISD4L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Elegant ivory & fuchsia rug for vibrant modern interiors.",
+  "description": "Transform any space instantly with this Nourison Passion area rug in ivory and fuchsia. Designed to blend modern elegance with bold color accents, it adds warmth, personality, and designer appeal to bedrooms, living rooms, dining areas, or apartments. The soft, easy-clean, non-shedding texture makes it both stylish and practical for everyday living while elevating your entire room aesthetic.",
+  "tags": ["area rug", "living room decor", "modern home decor", "colorful rug", "apartment styling"],
+  "affiliate": "https://amzn.to/4eOchVd"
+},
+{
+  "id": "dovdov-handblown-glass-conch-sculpture-green",
+  "title": "Hand-Blown Green Glass Conch Shell Sculpture",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/61Kgi-V5nDL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌊 Amazon's Choice",
+  "short": "Elegant sea glass conch sculpture for coastal luxury decor.",
+  "description": "Elevate your space with this hand-blown green glass conch sculpture, designed to bring a refined coastal elegance into modern interiors. Its smooth sea-glass finish and artistic shell form make it a striking statement piece for TV cabinets, coffee tables, office desks, and shelving displays. Perfect for creating a calm, ocean-inspired luxury aesthetic in any room.",
+  "tags": ["coastal decor", "glass sculpture", "luxury home decor", "shell decor", "modern aesthetic"],
+  "affiliate": "https://amzn.to/3QD1Xpc"
+},
    
 
 /* =========================
@@ -392,7 +418,7 @@ const products = [
   "price": "Check Latest Price on Amazon",
   "rating": 4.3,
   "image": "https://m.media-amazon.com/images/I/71DDe-wo6wL._AC_SL1500_.jpg",
-  "category": "gadget",
+  "category": "gadgets",
   "badge": "☕ Amazon's Choice",
   "short": "Barista-style coffee at home with milk frother included.",
   "description": "Turn your kitchen into a chic café with the Nespresso Vertuo Next by Breville. This sleek machine brews rich coffee and smooth espresso at the touch of a button, while the included Aeroccino milk frother creates creamy lattes, cappuccinos, and iced coffee drinks at home. Perfect for busy mornings, apartment kitchens, and anyone who wants luxury coffee moments without leaving home.",
@@ -405,7 +431,7 @@ const products = [
   "price": "Check Latest Price on Amazon",
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71GTPDTsoPL._AC_SL1500_.jpg",
-  "category": "kitchen",
+  "category": "gadgets",
   "badge": "🔪 Amazon's Choice",
   "short": "Safe slicing tool for onions, tomatoes, eggs & veggies.",
   "description": "Make meal prep faster, safer, and more precise with this stainless steel onion holder slicer. Designed to firmly grip onions, tomatoes, avocados, eggs, and other vegetables, it helps you achieve even cuts while protecting your fingers. A must-have kitchen tool for home cooks who want efficiency, cleanliness, and professional-looking slices in seconds.",
@@ -418,7 +444,7 @@ const products = [
   "price": "Check Latest Price on Amazon",
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/81qZCY1PGiL._AC_SL1500_.jpg",
-  "category": "kitchen",
+  "category": "gadgets",
   "badge": "🥡 Amazon's Choice",
   "short": "Compact vacuum sealer for fresher food & meal prep storage.",
   "description": "Keep your food fresher for longer with this portable handheld vacuum sealer. Designed with a powerful suction system and visible liquid tank, it locks in freshness up to 6x longer while reducing food waste. Perfect for meal prep, fridge organization, leftovers, snacks, and travel storage. Includes reusable bags for an eco-friendly, budget-saving kitchen upgrade.",
