@@ -398,6 +398,32 @@ const products = [
   "description": "Turn your kitchen into a chic café with the Nespresso Vertuo Next by Breville. This sleek machine brews rich coffee and smooth espresso at the touch of a button, while the included Aeroccino milk frother creates creamy lattes, cappuccinos, and iced coffee drinks at home. Perfect for busy mornings, apartment kitchens, and anyone who wants luxury coffee moments without leaving home.",
   "tags": ["coffee maker", "nespresso machine", "espresso maker", "kitchen upgrade", "home cafe"],
   "affiliate": "https://amzn.to/4cVOH6y"
+},
+{
+  "id": "qpey-stainless-steel-onion-holder-slicer",
+  "title": "Stainless Steel Onion Holder & Vegetable Slicer Tool",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71GTPDTsoPL._AC_SL1500_.jpg",
+  "category": "kitchen",
+  "badge": "🔪 Amazon's Choice",
+  "short": "Safe slicing tool for onions, tomatoes, eggs & veggies.",
+  "description": "Make meal prep faster, safer, and more precise with this stainless steel onion holder slicer. Designed to firmly grip onions, tomatoes, avocados, eggs, and other vegetables, it helps you achieve even cuts while protecting your fingers. A must-have kitchen tool for home cooks who want efficiency, cleanliness, and professional-looking slices in seconds.",
+  "tags": ["kitchen gadget", "onion slicer", "cooking tools", "meal prep", "kitchen hacks"],
+  "affiliate": "https://amzn.to/4t8Tzep"
+},
+{
+  "id": "owkar-portable-handheld-vacuum-sealer-kit",
+  "title": "Portable Handheld Food Vacuum Sealer (32 Reusable Bags)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81qZCY1PGiL._AC_SL1500_.jpg",
+  "category": "kitchen",
+  "badge": "🥡 Amazon's Choice",
+  "short": "Compact vacuum sealer for fresher food & meal prep storage.",
+  "description": "Keep your food fresher for longer with this portable handheld vacuum sealer. Designed with a powerful suction system and visible liquid tank, it locks in freshness up to 6x longer while reducing food waste. Perfect for meal prep, fridge organization, leftovers, snacks, and travel storage. Includes reusable bags for an eco-friendly, budget-saving kitchen upgrade.",
+  "tags": ["food storage", "kitchen gadget", "meal prep", "food saver", "kitchen organization"],
+  "affiliate": "https://amzn.to/4cVt9ag"
 }
    
 
