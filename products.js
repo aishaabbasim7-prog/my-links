@@ -174,6 +174,45 @@ const products = [
   "tags": ["garden decor", "solar lights", "patio decor", "gift for mom", "outdoor statue"],
   "affiliate": "https://amzn.to/4d26nh0"
 },
+{
+  "id": "asmad-solar-firefly-lights-4pack",
+  "title": "ASMAD Solar Firefly Garden Lights (4 Pack)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/815Gp83CG4L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Limited Time Deal",
+  "short": "Magical swaying solar lights for dreamy outdoor spaces.",
+  "description": "Transform your patio, garden, or balcony into an enchanting nighttime escape with these solar firefly lights. Featuring 32 warm LEDs and flexible stems that sway beautifully in the breeze, they create a whimsical glow that feels straight out of a luxury garden retreat. Perfect for pathways, flower beds, patios, and thoughtful gifts for moms or grandmas who love beautiful outdoor spaces.",
+  "tags": ["solar lights", "garden decor", "patio lighting", "gift for grandma", "backyard ideas"],
+  "affiliate": "https://amzn.to/48rhwq3"
+},
+{
+  "id": "qocnam-solar-watering-can-lantern",
+  "title": "QOCNAM Solar Watering Can Fairy Lantern",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81DC8QbOm0L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Enchanting solar watering can light for magical gardens.",
+  "description": "Create a storybook glow in your outdoor space with this charming solar watering can lantern. Designed with cascading fairy lights and crackle glass detail, it looks like sparkling water pouring from the can after sunset. Perfect for patios, balconies, lawns, porches, and garden corners that need a whimsical designer touch. A beautiful gift idea for anyone who loves gardening and cozy evenings outdoors.",
+  "tags": ["garden decor", "solar lantern", "patio lights", "gift for gardener", "outdoor decor"],
+  "affiliate": "https://amzn.to/3P6kl9s"
+},
+{
+  "id": "amdrebio-pink-round-fluffy-rug-4ft",
+  "title": "Amdrebio Light Pink Round Fluffy Rug 4Ft",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/81doeAtY-bS._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "💗 Amazon's Choice",
+  "short": "Soft pink fluffy rug for dreamy bedrooms & dorms.",
+  "description": "Add instant softness and charm to your space with this light pink round fluffy rug. Designed to create a cozy, stylish vibe, this plush shag rug is perfect for girls’ bedrooms, dorm rooms, nurseries, playrooms, or reading corners. The soft texture and sweet blush tone make any room feel warmer, prettier, and Pinterest-worthy in minutes.",
+  "tags": ["pink room decor", "girls bedroom", "fluffy rug", "dorm decor", "cute room aesthetic"],
+  "affiliate": "https://amzn.to/4uc8c1v"
+},
    
 
 /* =========================
@@ -294,6 +333,19 @@ const products = [
   description: "Stay cool anywhere with the AMACOOL Portable Waist Clip-On Fan featuring a powerful 10000mAh rechargeable battery. Designed for hands-free cooling, it easily clips onto your belt or shirt—perfect for outdoor work, travel, camping, hiking, or hot summer days. A must-have personal cooling gadget for men and women who need strong airflow on the move.",
   tags: ["portable fan", "waist fan", "rechargeable fan", "summer gadget", "outdoor cooling", "travel essentials"],
   affiliate: "https://amzn.to/3P0qQdV"
+},
+{
+  "id": "nespresso-vertuo-next-breville-frother",
+  "title": "Nespresso Vertuo Next Coffee & Espresso Maker with Frother",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.3,
+  "image": "https://m.media-amazon.com/images/I/71DDe-wo6wL._AC_SL1500_.jpg",
+  "category": "gadget",
+  "badge": "☕ Amazon's Choice",
+  "short": "Barista-style coffee at home with milk frother included.",
+  "description": "Turn your kitchen into a chic café with the Nespresso Vertuo Next by Breville. This sleek machine brews rich coffee and smooth espresso at the touch of a button, while the included Aeroccino milk frother creates creamy lattes, cappuccinos, and iced coffee drinks at home. Perfect for busy mornings, apartment kitchens, and anyone who wants luxury coffee moments without leaving home.",
+  "tags": ["coffee maker", "nespresso machine", "espresso maker", "kitchen upgrade", "home cafe"],
+  "affiliate": "https://amzn.to/4cVOH6y"
 }
    
 
