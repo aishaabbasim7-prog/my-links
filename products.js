@@ -291,6 +291,32 @@ const products = [
   "tags": ["coastal decor", "glass sculpture", "luxury home decor", "shell decor", "modern aesthetic"],
   "affiliate": "https://amzn.to/3QD1Xpc"
 },
+{
+  "id": "wongs-boho-grey-floral-comforter-set",
+  "title": "WONGS Bohemian Grey Floral Comforter Set (Queen)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/91as647raBL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌿 Boho Favorite",
+  "short": "Vintage floral boho bedding for cozy, aesthetic bedrooms.",
+  "description": "Transform your bedroom into a cozy bohemian retreat with this grey floral patchwork comforter set by WONGS. Featuring a soft microfiber fabric and vintage-inspired striped floral design, it adds warmth, texture, and effortless style to your space. Perfect for creating that Pinterest-worthy boho bedroom aesthetic in apartments, guest rooms, or modern homes.",
+  "tags": ["boho bedding", "floral bedroom", "vintage bedding", "bedroom aesthetic", "cozy decor"],
+  "affiliate": "https://amzn.to/4w2i5Rh"
+},
+{
+  "id": "wongs-boho-yellow-patchwork-comforter-set",
+  "title": "WONGS Bohemian Yellow Floral Comforter Set (Queen)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81kBpIBoEEL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌞 Boho Cozy Favorite",
+  "short": "Warm bohemian yellow bedding for cozy aesthetic bedrooms.",
+  "description": "Brighten your bedroom instantly with this WONGS bohemian comforter set in a warm yellow floral patchwork design. Made with soft microfiber and paired with matching pillow shams, it creates a cozy, sunlit, Pinterest-worthy bedroom atmosphere. Perfect for apartments, guest rooms, or anyone wanting a cheerful boho aesthetic that feels both relaxed and stylish.",
+  "tags": ["boho bedding", "yellow bedroom", "cozy decor", "floral bedding", "aesthetic bedroom"],
+  "affiliate": "https://amzn.to/4n3NDCn"
+},
    
 
 /* =========================
