@@ -476,6 +476,32 @@ const products = [
   "description": "Keep your food fresher for longer with this portable handheld vacuum sealer. Designed with a powerful suction system and visible liquid tank, it locks in freshness up to 6x longer while reducing food waste. Perfect for meal prep, fridge organization, leftovers, snacks, and travel storage. Includes reusable bags for an eco-friendly, budget-saving kitchen upgrade.",
   "tags": ["food storage", "kitchen gadget", "meal prep", "food saver", "kitchen organization"],
   "affiliate": "https://amzn.to/4cVt9ag"
+},
+{
+  "id": "vaydeer-m4-mouse-mover-device",
+  "title": "VAYDEER M4 Undetectable Mouse Motion Device",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/718MR7D1T9L._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "⚡ Amazon's Choice",
+  "short": "Auto mouse mover device for active screen & productivity support.",
+  "description": "Keep your computer active effortlessly with the VAYDEER M4 Mouse Motion Device. Designed with a quiet motor and simple on/off switch, it simulates natural mouse movement to prevent screen sleep during work sessions, meetings, or long downloads. Compact and easy to use, it's a popular productivity tool for remote workers, office setups, and multitasking professionals.",
+  "tags": ["productivity tool", "work from home", "tech gadget", "office setup", "computer accessory"],
+  "affiliate": "https://amzn.to/3ODhaGd"
+},
+{
+  "id": "biib-multifunction-led-pen-gift",
+  "title": "BIIB Multifunction LED Tactical Pen (Gift for Men)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71cN-yH7HQL._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "🎁 Top Gift Pick",
+  "short": "Multifunction LED pen tool for everyday carry & gifting.",
+  "description": "Give a practical and stylish gift with the BIIB multifunction LED tactical pen. Designed for everyday carry, it combines writing, lighting, and utility features in one compact tool. Perfect for Father’s Day, birthdays, camping trips, or office use, this gadget-style pen is both functional and impressive—making it a memorable gift for men who love smart tools.",
+  "tags": ["men gift", "father's day gift", "tactical pen", "EDC gadget", "camping tool"],
+  "affiliate": "https://amzn.to/4eUrx2R"
 }
    
 
