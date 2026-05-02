@@ -317,6 +317,32 @@ const products = [
   "tags": ["boho bedding", "yellow bedroom", "cozy decor", "floral bedding", "aesthetic bedroom"],
   "affiliate": "https://amzn.to/4n3NDCn"
 },
+{
+  "id": "dfxsz-spring-summer-yellow-floral-pillow-covers",
+  "title": "DFXSZ Spring Summer Yellow Floral Pillow Covers (Set of 2)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81sg2p2skmL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌼 Seasonal Favorite",
+  "short": "Bright farmhouse floral pillow covers for spring/summer decor.",
+  "description": "Refresh your home for the season with these cheerful DFXSZ farmhouse pillow covers featuring sunflower and floral heart designs in warm yellow tones. Soft plush faux fur jacquard texture adds cozy comfort while instantly brightening sofas, beds, and living spaces. Perfect for spring and summer home styling, farmhouse decor lovers, and seasonal room refreshes.",
+  "tags": ["spring decor", "summer home decor", "farmhouse pillows", "sunflower decor", "cozy living room"],
+  "affiliate": "https://amzn.to/3Phoc3B"
+},
+{
+  "id": "releany-pink-vintage-medallion-area-rug-5x7",
+  "title": "RELEANY Pink Vintage Medallion Area Rug 5x7 Washable",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81XqHlWWIbL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌸 Amazon's Choice",
+  "short": "Washable vintage floral rug for cozy pink aesthetic spaces.",
+  "description": "Elevate your space instantly with this RELEANY vintage floral medallion area rug in soft pink and grey tones. Designed with a distressed print pattern, it brings a cozy, lived-in elegance to living rooms, bedrooms, dining areas, or apartments. The washable, non-slip design makes it both stylish and practical—perfect for creating a feminine, Pinterest-worthy home aesthetic.",
+  "tags": ["pink rug", "vintage decor", "area rug", "home aesthetic", "cozy room decor"],
+  "affiliate": "https://amzn.to/4tl13vi"
+},
    
 
 /* =========================
