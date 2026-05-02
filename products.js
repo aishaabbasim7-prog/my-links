@@ -528,7 +528,21 @@ const products = [
   "description": "Give a practical and stylish gift with the BIIB multifunction LED tactical pen. Designed for everyday carry, it combines writing, lighting, and utility features in one compact tool. Perfect for Father’s Day, birthdays, camping trips, or office use, this gadget-style pen is both functional and impressive—making it a memorable gift for men who love smart tools.",
   "tags": ["men gift", "father's day gift", "tactical pen", "EDC gadget", "camping tool"],
   "affiliate": "https://amzn.to/4eUrx2R"
+},
+{
+  "id": "trendplain-glass-olive-oil-sprayer-16oz",
+  "title": "TrendPlain Glass Olive Oil Sprayer 2-in-1 Dispenser (470ml)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/716HuBmcRsL._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "🫒 #1 Best Seller",
+  "short": "Healthy oil control sprayer for cooking, BBQ & air fryer use.",
+  "description": "Upgrade your cooking routine with this sleek 2-in-1 glass olive oil sprayer. Designed for precision control, it lets you spray or pour oil evenly for air frying, salads, grilling, and everyday cooking. The modern black design fits perfectly in any kitchen aesthetic while helping reduce oil usage for a healthier lifestyle.",
+  "tags": ["olive oil sprayer", "kitchen gadget", "air fryer accessory", "healthy cooking", "meal prep tools"],
+  "affiliate": "https://amzn.to/4tPA9wz"
 }
+   
    
 
 ];
