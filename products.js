@@ -541,6 +541,19 @@ const products = [
   "description": "Upgrade your cooking routine with this sleek 2-in-1 glass olive oil sprayer. Designed for precision control, it lets you spray or pour oil evenly for air frying, salads, grilling, and everyday cooking. The modern black design fits perfectly in any kitchen aesthetic while helping reduce oil usage for a healthier lifestyle.",
   "tags": ["olive oil sprayer", "kitchen gadget", "air fryer accessory", "healthy cooking", "meal prep tools"],
   "affiliate": "https://amzn.to/4tPA9wz"
+},
+{
+  "id": "pidinuk-magnetic-selfie-light-magsafe",
+  "title": "PIDINUK Magnetic Selfie Light for iPhone MagSafe",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61zvqZ9ZoYL._AC_SL1000_.jpg",
+  "category": "tech",
+  "badge": "✨ Amazon's Choice",
+  "short": "Portable MagSafe selfie light for flawless photos & videos.",
+  "description": "Level up your content instantly with this magnetic selfie light designed for MagSafe-compatible iPhones. Featuring rechargeable LED brightness, a built-in mirror, 5 adjustable color temperatures, and a foldable ring light design, it helps you capture clear, flattering photos and videos anywhere. Perfect for TikTok, Instagram, Zoom calls, makeup touch-ups, and on-the-go creators.",
+  "tags": ["selfie light", "iphone accessory", "content creator", "ring light", "phone gadget"],
+  "affiliate": "https://amzn.to/3Ppiug5"
 }
    
    
