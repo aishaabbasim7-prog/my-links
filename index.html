@@ -176,37 +176,32 @@ function renderStore(){
   const decorBox = document.getElementById("decorList");
   const gadgetBox = document.getElementById("gadgetsList");
 
-  products.forEach(p=>{
+  decorBox.innerHTML = "";
+  gadgetBox.innerHTML = "";
 
+  products.forEach(p => {
 
+    const fullStars = Math.floor(p.rating);
+    const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
+    const emptyStars = 5 - fullStars - halfStar;
 
-const fullStars = Math.floor(p.rating);
-const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
-const emptyStars = 5 - fullStars - halfStar;
-
-const ratingStars = `
-<span style="color:#f0c14b;">
-  ${"★".repeat(fullStars)}
-  ${halfStar ? "⯪" : ""}
-  ${"☆".repeat(emptyStars)}
-</span>
-<span style="color:#555;font-size:12px;">(${p.rating})</span>
-`;
+    const ratingStars = `
+    <span style="color:#f0c14b;">
+      ${"★".repeat(fullStars)}
+      ${halfStar ? "⯪" : ""}
+      ${"☆".repeat(emptyStars)}
+    </span>
+    <span style="color:#555;font-size:12px;">(${p.rating})</span>
+    `;
 
     const card = `
       <a href="product.html?id=${p.id}" style="text-decoration:none;color:inherit;" target="_blank">
         <div class="card">
-
           <img src="${p.image}">
-
           <div class="title">${p.title}</div>
-
           <div class="rating">${ratingStars}</div>
-
           <div class="price">${p.price}</div>
-
           <div class="btn">Buy Now</div>
-
         </div>
       </a>
     `;
@@ -221,7 +216,6 @@ const ratingStars = `
 
   });
 }
-
 renderStore();
 
 /* SEARCH → Shopify style redirect */
