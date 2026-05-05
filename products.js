@@ -343,6 +343,19 @@ const products = [
   "tags": ["pink rug", "vintage decor", "area rug", "home aesthetic", "cozy room decor"],
   "affiliate": "https://amzn.to/4tl13vi"
 },
+{
+  "id": "crocon-amethyst-crystal-tree-of-life",
+  "title": "Crocon Amethyst Crystal Tree of Life Decor Gift",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81WPf6mWQzL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "💜 Gift Favorite",
+  "short": "Elegant amethyst crystal tree for healing vibes & home decor.",
+  "description": "Bring beauty and positive energy into any space with this Crocon Amethyst Crystal Tree of Life decor piece. Designed with sparkling amethyst-style stones and an artistic wire tree shape, it adds a calming, luxurious touch to desks, shelves, bedside tables, and meditation corners. A thoughtful gift idea for moms, sisters, friends, housewarmings, or anyone who loves meaningful decor.",
+  "tags": ["crystal decor", "gift for mom", "spiritual decor", "amethyst tree", "home aesthetic"],
+  "affiliate": "https://amzn.to/4tksJ3k"
+},
    
 
 /* =========================
