@@ -237,7 +237,7 @@ const products = [
   "short": "Luxury faux fur pillow covers for chic cozy spaces.",
   "description": "Add instant softness and glamour to your home with these blush pink faux fur throw pillow covers. Designed to bring warmth, texture, and a luxurious cozy vibe, they’re perfect for beds, sofas, accent chairs, dorm rooms, or festive holiday styling. The plush fuzzy finish creates that designer layered look every stylish space needs.",
   "tags": ["pink pillow covers", "cozy decor", "bedroom aesthetic", "faux fur pillows", "luxury home decor"],
-  "affiliate": "https://m.media-amazon.com/images/I/81QDkoaSYrL._AC_SL1500_.jpg"
+  "affiliate": "https://amzn.to/4f2I8S8"
 },
 {
   "id": "bignosedeer-kawaii-cat-tea-mug-infuser",
