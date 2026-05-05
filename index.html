@@ -50,8 +50,12 @@ body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial
 
 /* PRODUCTS */
 .row{background:#fff;padding:15px;border-radius:12px;margin-bottom:20px}
-.scroll{display:flex;gap:15px;overflow-x:auto}
-
+.scroll{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  overflow: visible;
+}
 .card{
   min-width:200px;
   max-width:200px; /* 🔥 THIS STOPS FULL WIDTH ISSUE */
