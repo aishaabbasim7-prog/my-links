@@ -548,12 +548,25 @@ const products = [
   "price": "Check Latest Price on Amazon",
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/61zvqZ9ZoYL._AC_SL1000_.jpg",
-  "category": "tech",
+  "category": "gadgets",
   "badge": "✨ Amazon's Choice",
   "short": "Portable MagSafe selfie light for flawless photos & videos.",
   "description": "Level up your content instantly with this magnetic selfie light designed for MagSafe-compatible iPhones. Featuring rechargeable LED brightness, a built-in mirror, 5 adjustable color temperatures, and a foldable ring light design, it helps you capture clear, flattering photos and videos anywhere. Perfect for TikTok, Instagram, Zoom calls, makeup touch-ups, and on-the-go creators.",
   "tags": ["selfie light", "iphone accessory", "content creator", "ring light", "phone gadget"],
   "affiliate": "https://amzn.to/3Ppiug5"
+},
+{
+  "id": "portable-mini-foldable-cleaning-mop",
+  "title": "Portable Mini Foldable Cleaning Mop",
+  "price": "Check Latest Price",
+  "rating": 4.9,
+  "image": "https://ae-pic-a1.aliexpress-media.com/kf/S3adcd64937234010b7cc98d8f56100b3C.jpg_220x220q75.jpg_.avif",
+  "category": "gadgets",
+  "badge": "🧼 Viral Cleaning Find",
+  "short": "Compact foldable mini mop for quick mess cleanups anywhere.",
+  "description": "Make everyday cleaning faster and easier with this portable mini foldable mop. Designed for desktops, kitchen counters, bathroom surfaces, mirrors, glass, living rooms, and even car interiors, it tackles spills and dust in seconds. Lightweight, space-saving, and easy to store, it’s the smart cleaning tool every organized home needs.",
+  "tags": ["cleaning gadget", "mini mop", "home hacks", "kitchen cleaning", "viral products"],
+  "affiliate": "https://s.click.aliexpress.com/e/_c4kw49Ix"
 }
    
    
