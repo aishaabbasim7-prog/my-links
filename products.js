@@ -582,5 +582,4 @@ const products = [
   "affiliate": "https://s.click.aliexpress.com/e/_c4kw49Ix"
 }
    
-
 ];
