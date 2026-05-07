@@ -356,6 +356,19 @@ const products = [
   "tags": ["crystal decor", "gift for mom", "spiritual decor", "amethyst tree", "home aesthetic"],
   "affiliate": "https://amzn.to/4tksJ3k"
 },
+{
+  "id": "lifewit-perfume-organizer-clear-display-stand",
+  "title": "Lifewit Clear Perfume Organizer Display Stand",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/7124+y43fpL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ #1 Best Seller",
+  "short": "Elegant clear display stand for perfumes & beauty storage.",
+  "description": "Turn your vanity into a boutique-style beauty space with this Lifewit clear perfume organizer. Designed with tiered shelves for stylish visibility, it beautifully displays perfumes, skincare, makeup, or cologne while keeping counters neat and clutter-free. Perfect for vanities, bathroom counters, dressers, and clean girl aesthetic setups that feel polished and luxurious.",
+  "tags": ["perfume organizer", "vanity decor", "makeup storage", "beauty organizer", "clean girl aesthetic"],
+  "affiliate": "https://amzn.to/4dc8MWs"
+},
    
 
 /* =========================
