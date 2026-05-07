@@ -593,6 +593,19 @@ const products = [
   "description": "Make everyday cleaning faster and easier with this portable mini foldable mop. Designed for desktops, kitchen counters, bathroom surfaces, mirrors, glass, living rooms, and even car interiors, it tackles spills and dust in seconds. Lightweight, space-saving, and easy to store, it’s the smart cleaning tool every organized home needs.",
   "tags": ["cleaning gadget", "mini mop", "home hacks", "kitchen cleaning", "viral products"],
   "affiliate": "https://s.click.aliexpress.com/e/_c4kw49Ix"
+},
+{
+  "id": "yunzii-c75-cake-wireless-mechanical-keyboard",
+  "title": "YUNZII C75 Wireless Mechanical Keyboard - Cute Cake Design",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.8,
+  "image": "https://m.media-amazon.com/images/I/81QEYhLu80L._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "⌨️ Amazon's Choice",
+  "short": "Cute wireless mechanical keyboard for stylish desks & gaming.",
+  "description": "Upgrade your desk setup with the YUNZII C75 wireless mechanical keyboard featuring an adorable cake-inspired design and premium typing feel. With Bluetooth, 2.4G, and USB-C connectivity, RGB lighting, hot-swappable switches, and soft MOA keycaps, it blends performance with personality. Perfect for gamers, students, creators, and anyone building a dreamy aesthetic workspace.",
+  "tags": ["mechanical keyboard", "desk setup", "gaming keyboard", "cute tech", "wireless keyboard"],
+  "affiliate": "https://amzn.to/42Vvzkk"
 }
    
 ];
