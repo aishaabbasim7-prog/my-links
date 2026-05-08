@@ -406,7 +406,7 @@ const products = [
   title: "Portable Foldable Neck Fan – Rechargeable 1600mAh",
   price: "Check Latest Price",
   rating: 4.7,
-  image: "https://ae-pic-a1.aliexpress-media.com/kf/S23fb5c6997334ab9a3dd60dfcc8f985bg.jpg_220x220q75.jpg_.avif",
+  image: "https://ae-pic-a1.aliexpress-media.com/kf/S38ae55f73653480d85b5f9e005fdf310Q.jpg_220x220q75.jpg_.avif",
   category: "gadgets",
   badge: "🔥 Best Seller",
   short: "Hands-free cooling neck fan for summer comfort & outdoor sports.",
