@@ -391,7 +391,7 @@ const products = [
 {
   id: "p8",
   title: "Portable Foldable Neck Fan – Rechargeable 1600mAh",
-  price: "Check Latest Price on Amazon",
+  price: "Check Latest Price",
   rating: 4.7,
   image: "https://ae-pic-a1.aliexpress-media.com/kf/S23fb5c6997334ab9a3dd60dfcc8f985bg.jpg_220x220q75.jpg_.avif",
   category: "gadgets",
@@ -606,6 +606,32 @@ const products = [
   "description": "Upgrade your desk setup with the YUNZII C75 wireless mechanical keyboard featuring an adorable cake-inspired design and premium typing feel. With Bluetooth, 2.4G, and USB-C connectivity, RGB lighting, hot-swappable switches, and soft MOA keycaps, it blends performance with personality. Perfect for gamers, students, creators, and anyone building a dreamy aesthetic workspace.",
   "tags": ["mechanical keyboard", "desk setup", "gaming keyboard", "cute tech", "wireless keyboard"],
   "affiliate": "https://amzn.to/42Vvzkk"
+},
+{
+  "id": "niasso-portable-travel-steamer-purple",
+  "title": "NIASSO Portable Travel Steamer 1200W (Purple)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/71MLXfgxUGL._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "Amazon's Choice",
+  "short": "Fast-heating handheld steamer for wrinkle-free clothes anywhere.",
+  "description": "Stay polished at home or on the go with the NIASSO portable travel steamer. Featuring 1200W power, 10-second fast heat-up, 4 steam modes, LCD display, and a 180° swivel handle, it quickly removes wrinkles from clothes, curtains, and fabrics with ease. Compact yet powerful, it’s the perfect travel companion for vacations, business trips, dorms, and busy mornings.",
+  "tags": ["travel steamer", "clothes steamer", "packing essentials", "home gadget", "wrinkle remover"],
+  "affiliate": "https://amzn.to/3P643xs"
+},
+{
+  "id": "portable-rechargeable-window-glass-cleaner",
+  "title": "Rechargeable Automatic Portable Window Glass Cleaner",
+  "price": "Check Latest Price",
+  "rating": 4.7,
+  "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sd038833a957249a5b9069f23d473637cL.jpeg_220x220q75.jpeg_.avif",
+  "category": "gadgets",
+  "badge": "🪟 Viral Cleaning Gadget",
+  "short": "One-button glass cleaner for mirrors, cars & shiny surfaces.",
+  "description": "Make cleaning faster and easier with this rechargeable automatic portable window glass cleaner. Designed with simple one-button operation, it helps remove dust, smudges, and streaks from mirrors, windows, car glass, shower doors, and other smooth surfaces. Compact, cordless, and easy to handle, it’s the smart gadget every modern home needs for effortless sparkle.",
+  "tags": ["window cleaner", "cleaning gadget", "glass cleaner", "home hacks", "car accessory"],
+  "affiliate": "https://s.click.aliexpress.com/e/_c3Qj1Xwf"
 }
    
 ];
