@@ -369,6 +369,19 @@ const products = [
   "tags": ["perfume organizer", "vanity decor", "makeup storage", "beauty organizer", "clean girl aesthetic"],
   "affiliate": "https://amzn.to/4dc8MWs"
 },
+{
+  "id": "hallmark-harry-potter-hogwarts-perpetual-calendar",
+  "title": "Hallmark Harry Potter Hogwarts Perpetual Calendar",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.8,
+  "image": "https://m.media-amazon.com/images/I/91fUzhvpYwL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "⚡ Fan Favorite",
+  "short": "Hogwarts-themed perpetual calendar for magical desk decor.",
+  "description": "Bring a touch of magic to your workspace with this Hallmark Harry Potter Hogwarts perpetual calendar. Designed with iconic wizarding world details, it combines functionality and fandom in one elegant desk piece. Perfect for offices, study desks, classrooms, or gifting, it helps you stay organized while adding a nostalgic, magical aesthetic to your daily routine.",
+  "tags": ["harry potter decor", "desk accessories", "office decor", "gift idea", "hogwarts aesthetic"],
+  "affiliate": "https://amzn.to/4dBp8Ir"
+},
    
 
 /* =========================
