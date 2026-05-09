@@ -382,6 +382,19 @@ const products = [
   "tags": ["harry potter decor", "desk accessories", "office decor", "gift idea", "hogwarts aesthetic"],
   "affiliate": "https://amzn.to/4dBp8Ir"
 },
+{
+  "id": "hyh-american-flag-led-net-lights-420",
+  "title": "HYH American Flag LED Net Lights (420 LEDs)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71+0I5IzTvS._AC_SL1000_.jpg",
+  "category": "decor",
+  "badge": "🇺🇸 Amazon's Choice",
+  "short": "Bright American flag lights for patriotic outdoor celebrations.",
+  "description": "Celebrate in style with these HYH American Flag LED net lights featuring 420 super bright LEDs and a bold patriotic design. Perfect for decorating yards, gardens, porches, fences, parties, and holiday gatherings, these waterproof lights create a stunning nighttime display. Ideal for Independence Day, Memorial Day, Veterans Day, summer events, and festive outdoor celebrations.",
+  "tags": ["american flag lights", "4th of july decor", "patriotic decor", "outdoor lights", "yard decorations"],
+  "affiliate": "https://amzn.to/4wgPyHK"
+},
    
 
 /* =========================
