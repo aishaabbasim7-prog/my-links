@@ -16,7 +16,19 @@ const products = [
   tags: ["gold decor", "bird figurine", "modern decor", "luxury home"],
   affiliate: "https://amzn.to/4tZ44BX"
 },
-
+{
+  "id": "rushmore-rose-usa-premium-american-flag-3x5",
+  "title": "Premium American Flag 3x5 Heavy Duty Outdoor (Made in USA)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71UQDvGqskL._AC_SL1024_.jpg",
+  "category": "decor",
+  "badge": "🇺🇸 Amazon's Choice",
+  "short": "Heavy-duty embroidered American flag for outdoor display.",
+  "description": "Show your patriotic pride with this premium 3x5 American flag made in the USA. Crafted with embroidered stars and sewn stripes, it’s designed for long-lasting outdoor use in all weather conditions. Perfect for homes, gardens, porches, offices, and national holidays, this durable flag delivers a bold, respectful, and high-quality display of American spirit.",
+  "tags": ["american flag", "patriotic decor", "outdoor flag", "usa pride", "home exterior decor"],
+  "affiliate": "https://amzn.to/4wsETtN"
+},
 {
   id: "2",
   title: "VASAGLE Round Coffee Table Set of 2",
