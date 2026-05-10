@@ -658,6 +658,32 @@ const products = [
   "description": "Make cleaning faster and easier with this rechargeable automatic portable window glass cleaner. Designed with simple one-button operation, it helps remove dust, smudges, and streaks from mirrors, windows, car glass, shower doors, and other smooth surfaces. Compact, cordless, and easy to handle, it’s the smart gadget every modern home needs for effortless sparkle.",
   "tags": ["window cleaner", "cleaning gadget", "glass cleaner", "home hacks", "car accessory"],
   "affiliate": "https://s.click.aliexpress.com/e/_c3Qj1Xwf"
+},
+{
+  "id": "cheftick-touchless-digital-soap-dispenser",
+  "title": "Cheftick Automatic Touchless Soap Dispenser with Digital Display",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/51Rew0iHpBL._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "🧼 Amazon's Choice",
+  "short": "Smart touchless soap dispenser for cleaner, modern spaces.",
+  "description": "Upgrade your sink area with this Cheftick automatic liquid soap dispenser featuring a digital display and 9 adjustable dispensing levels. Designed for touchless convenience, it helps reduce mess while adding a sleek modern look to bathrooms, kitchens, hotels, or offices. USB rechargeable and wall-mountable, it’s the perfect blend of hygiene, style, and everyday practicality.",
+  "tags": ["soap dispenser", "bathroom upgrade", "kitchen gadget", "smart home", "touchless dispenser"],
+  "affiliate": "https://amzn.to/4eEpZdu"
+},
+{
+  "id": "bolonmi-wireless-induction-speaker-phone-stand",
+  "title": "BOLONMI Wireless Bluetooth Induction Speaker with Lights",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/61q5A7-7J2L._AC_SL1500_.jpg",
+  "category": "gadgets",
+  "badge": "🔊 Amazon's Choice",
+  "short": "Portable speaker + phone stand with colorful mood lights.",
+  "description": "Upgrade your entertainment setup with this BOLONMI wireless Bluetooth induction speaker featuring colorful lights, a built-in phone stand, and long-lasting 3500mAh battery power. Designed for music, videos, calls, and hands-free viewing, it’s compatible with iPhone, iPad, Android, and Samsung devices. Perfect for bedrooms, desks, dorm rooms, kitchens, and travel.",
+  "tags": ["bluetooth speaker", "phone stand", "desk gadget", "portable speaker", "tech gift"],
+  "affiliate": "https://amzn.to/4whTTKM"
 }
    
 ];
