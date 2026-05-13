@@ -43,6 +43,19 @@ const products = [
   "affiliate": "https://amzn.to/4wsETtN"
 },
 {
+  "id": "jonronboci-blue-donut-vase-set-2",
+  "title": "Blue Donut Vase Set of 2 – Matte Navy Coastal Decor",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81D60LpazdL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "💙 Trending Decor",
+  "short": "Modern navy ceramic vases for coastal luxury styling.",
+  "description": "Elevate your space with this stunning set of two matte navy blue donut vases. Designed with a modern sculptural silhouette, these ceramic pieces bring effortless coastal elegance to coffee tables, bookshelves, consoles, mantels, and living room shelves. Perfect for styling alone or with dried stems, they add a designer-curated touch to any modern home.",
+  "tags": ["blue vase", "coastal decor", "modern home decor", "shelf styling", "living room decor"],
+  "affiliate": "https://amzn.to/4uOrz1d"
+},
+{
   id: "2",
   title: "VASAGLE Round Coffee Table Set of 2",
   price: "Check Latest Price on Amazon",
