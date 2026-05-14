@@ -43,6 +43,58 @@ const products = [
   "affiliate": "https://amzn.to/4wsETtN"
 },
 {
+  "id": "lumi-coastal-beach-bathroom-rug-blue",
+  "title": "LUMI Coastal Beach Bathroom Rug Blue 22x34",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81dBptIt91L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌊 Amazon's Choice",
+  "short": "Soft non-slip beach rug for bathrooms, kitchens & entryways.",
+  "description": "Bring seaside serenity into your home with this LUMI soft and absorbent beach bathroom rug featuring starfish and shell-inspired coastal artwork. Designed with a non-slip backing for everyday practicality, it adds comfort, color, and ocean charm to bathrooms, kitchens, laundry rooms, or entryways. Perfect for creating a fresh beach house vibe in any space.",
+  "tags": ["bathroom rug", "coastal decor", "beach bathroom", "blue rug", "home refresh"],
+  "affiliate": "https://amzn.to/48YTXFp"
+},
+{
+  "id": "cubesland-scalloped-toilet-paper-storage-basket",
+  "title": "CubesLand Scalloped Edge Storage Basket with Wooden Handles",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.8,
+  "image": "https://m.media-amazon.com/images/I/71i7WY03iyL._AC_SL1454_.jpg",
+  "category": "decor",
+  "badge": "🤍 Amazon's Choice",
+  "short": "Chic scalloped basket for stylish bathroom & shelf storage.",
+  "description": "Add charm and organization to your space with this CubesLand scalloped edge storage basket in a soft beige finish. Crafted from woven paper rope with elegant wooden handles, it’s perfect for storing toilet paper, towels, toiletries, blankets, or everyday essentials. Ideal for bathrooms, living rooms, shelves, end tables, and cozy neutral homes that love beautiful storage.",
+  "tags": ["storage basket", "bathroom decor", "neutral home decor", "shelf styling", "organized home"],
+  "affiliate": "https://amzn.to/4dlTrmd"
+},
+{
+  "id": "tritard-coastal-throw-pillow-covers-set-blue",
+  "title": "Tritard Coastal Throw Pillow Covers Set of 2 Blue 18x18",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71SHSbn9OJL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌊 Amazon's Choice",
+  "short": "Velvet beach-themed pillow covers for stylish coastal homes.",
+  "description": "Refresh your sofa or bedroom instantly with this set of two Tritard coastal throw pillow covers featuring seashell, coral, and starfish designs in calming blue tones. Made with soft velvet texture, these decorative covers add comfort and elegant seaside charm to couches, beds, patios, and reading corners. Perfect for beach house style or everyday coastal decor lovers.",
+  "tags": ["coastal pillows", "throw pillow covers", "beach decor", "living room decor", "blue home decor"],
+  "affiliate": "https://amzn.to/4dj5gJH"
+},
+{
+  "id": "velsyn-beach-flameless-led-candles-set",
+  "title": "Velsyn Beach Flameless LED Candles Set of 3",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81+dkkWPJQL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌊 Amazon's Choice",
+  "short": "Seashell flameless candles for cozy coastal ambiance.",
+  "description": "Create a warm seaside glow with this Velsyn set of 3 flameless LED candles featuring seashell and starfish coastal details. Crafted with real wax for a premium look, these unscented pillar candles include a remote control and timer for effortless ambiance. Perfect for bedrooms, bathrooms, weddings, beach houses, mantels, or relaxing evening decor.",
+  "tags": ["coastal candles", "beach decor", "led candles", "bedroom decor", "home ambiance"],
+  "affiliate": "https://amzn.to/42u47dv"
+},
+{
   "id": "nbeads-conch-shell-jewelry-tray-aqua",
   "title": "NBEADS Aqua Conch Shell Ceramic Jewelry Tray",
   "price": "Check Latest Price on Amazon",
