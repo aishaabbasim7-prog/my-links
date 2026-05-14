@@ -43,6 +43,19 @@ const products = [
   "affiliate": "https://amzn.to/4wsETtN"
 },
 {
+  "id": "funistree-pink-candle-warmer-lamp",
+  "title": "Funistree Pink Candle Warmer Lamp with Timer & Dimmer",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.8,
+  "image": "https://m.media-amazon.com/images/I/71ALeJcD-dL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌸 Gift Favorite",
+  "short": "Elegant pink candle warmer lamp for cozy luxury spaces.",
+  "description": "Add warmth and beauty to your home with this Funistree pink candle warmer lamp featuring a charming Lily of the Valley design. With dimmable brightness and built-in timer settings, it gently warms jar candles while creating a soft ambient glow. Perfect for bedrooms, living rooms, offices, and thoughtful gifts for moms, women, or anyone who loves cozy elegant decor.",
+  "tags": ["candle warmer lamp", "pink decor", "gift for mom", "cozy bedroom decor", "luxury home decor"],
+  "affiliate": "https://amzn.to/4nygaAg"
+},
+{
   "id": "lumi-coastal-beach-bathroom-rug-blue",
   "title": "LUMI Coastal Beach Bathroom Rug Blue 22x34",
   "price": "Check Latest Price on Amazon",
