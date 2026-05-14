@@ -43,6 +43,19 @@ const products = [
   "affiliate": "https://amzn.to/4wsETtN"
 },
 {
+  "id": "forbena-white-gold-bathroom-counter-organizer-2tier",
+  "title": "Forbena Bathroom Countertop Organizer 2-Tier White & Gold",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/61c35SZf7yL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🤍 Amazon's Choice",
+  "short": "Elegant white & gold 2-tier organizer for bathroom & vanity storage.",
+  "description": "Upgrade your bathroom or vanity with this Forbena 2-tier countertop organizer featuring a clean white finish with elegant gold accents. Designed for perfumes, skincare, makeup, and daily essentials, it creates a neat, aesthetic display while saving counter space. Perfect for bathrooms, bedrooms, kitchen corners, and vanity setups that need a touch of modern luxury organization.",
+  "tags": ["bathroom organizer", "vanity decor", "skincare storage", "white gold decor", "clean aesthetic"],
+  "affiliate": "https://amzn.to/3PmIpVB"
+},
+{
   "id": "vasagle-gold-bar-cart-mirrored-shelves",
   "title": "VASAGLE Gold Bar Cart with Mirrored Shelves",
   "price": "Check Latest Price on Amazon",
