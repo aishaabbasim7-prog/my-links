@@ -43,6 +43,19 @@ const products = [
   "affiliate": "https://amzn.to/4wsETtN"
 },
 {
+  "id": "fexia-boho-table-runner-tassels-72inch",
+  "title": "FEXIA Boho Farmhouse Table Runner with Tassels",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/819tlu7DkFL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🤎 Amazon's Choice",
+  "short": "Rustic boho table runner with tassels for cozy seasonal styling.",
+  "description": "Create a warm, designer-inspired dining space with this FEXIA boho farmhouse table runner featuring woven macrame texture and elegant tassel details. Perfect for Thanksgiving, Christmas, fall gatherings, or everyday rustic styling, it adds cozy charm to dining tables, coffee tables, consoles, and living room decor. Its neutral tones blend beautifully with modern farmhouse and bohemian interiors.",
+  "tags": ["boho decor", "table runner", "farmhouse decor", "fall home decor", "rustic table styling"],
+  "affiliate": "https://amzn.to/4uQjAR9"
+},
+{
   "id": "forbena-white-gold-bathroom-counter-organizer-2tier",
   "title": "Forbena Bathroom Countertop Organizer 2-Tier White & Gold",
   "price": "Check Latest Price on Amazon",
