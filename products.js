@@ -56,6 +56,19 @@ const products = [
   "affiliate": "https://amzn.to/4uQjAR9"
 },
 {
+  "id": "xxxflower-plant-terrarium-wooden-stand-3bulb",
+  "title": "XXXFLOWER Plant Terrarium with Wooden Stand (3 Bulb Vase)",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71GrAWYYDyL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌿 Best-Selling Plant Decor",
+  "short": "Retro glass bulb terrarium for elegant plant & hydroponic styling.",
+  "description": "Bring natural elegance into your space with this XXXFLOWER plant terrarium featuring three glass bulb vases, a rustic wooden stand, and a modern metal swivel holder. Perfect for hydroponic plants, fresh cuttings, or minimalist greenery displays, it adds a calming botanical touch to desks, shelves, coffee tables, offices, and cozy home corners.",
+  "tags": ["plant terrarium", "hydroponic planter", "desk decor", "minimalist home decor", "plant aesthetic"],
+  "affiliate": "https://amzn.to/4nNh8Zh"
+},
+{
   "id": "forbena-white-gold-bathroom-counter-organizer-2tier",
   "title": "Forbena Bathroom Countertop Organizer 2-Tier White & Gold",
   "price": "Check Latest Price on Amazon",
