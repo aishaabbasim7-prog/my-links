@@ -73,13 +73,13 @@ const products = [
   "title": "Hausattire Hand-Woven Jute Braided Rug",
   "price": "Check Latest Price on Amazon",
   "rating": 4.5,
-  "image": "https://m.media-amazon.com/images/I/91+BkXDNDIL._AC_SL1500_.jpg",
+  "image": "https://m.media-amazon.com/images/I/91YvYueA5+L._AC_SL1500_.jpg",
   "category": "decor",
   "badge": "🌿 Organic Modern",
   "short": "Natural braided jute rug for farmhouse and boho interiors.",
   "description": "Bring warmth and texture into your home with this hand-woven jute braided rug. Its natural fibers and reversible design make it ideal for entryways, kitchens, living rooms, and covered outdoor spaces. Perfect for organic modern, coastal, farmhouse, and bohemian interiors.",
   "tags": ["jute rug", "farmhouse decor", "boho rug", "entryway rug", "natural home decor"],
-  "affiliate": "https://amzn.to/4og98jJ"
+  "affiliate": "https://amzn.to/4fzjPvE"
 },
 {
   "id": "uionml-patriotic-front-door-wreath",
