@@ -14,8 +14,8 @@ const products = [
   "short": "Handwoven wall basket set for stunning boho statement walls.",
   "description": "Transform blank walls into designer-inspired focal points with this set of 8 handwoven boho wall baskets. Featuring natural rattan, wicker, seagrass textures, and macrame-inspired details, these decorative pieces add warmth, depth, and artisanal charm to living rooms, bedrooms, entryways, and apartments.",
   "tags": ["boho wall decor", "basket wall art", "rattan decor", "neutral home", "gallery wall"],
-  "affiliate": "https://amzn.to/43ZZU1K"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/43ZZU1K",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "bambusi-personalized-bamboo-bath-caddy",
@@ -24,12 +24,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/818lS-nCfsL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🎁 Amazon's Choice",
+  "badge": "🎁 Amazon"s Choice",
   "short": "Custom engraved bath tray for spa-like relaxation at home.",
   "description": "Turn bath time into a luxury experience with this personalized bamboo bath caddy. Designed with an expandable fit and custom engraving option, it provides space for books, candles, drinks, tablets, and self-care essentials while creating the ultimate at-home spa atmosphere.",
   "tags": ["bath caddy", "spa decor", "gift for mom", "bathroom luxury", "self care gifts"],
-  "affiliate": "https://amzn.to/4dWu5Ne"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dWu5Ne",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "all-fortune-cordless-rattan-table-lamps",
@@ -38,12 +38,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/71baiYXGHvL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌿 Amazon's Choice",
+  "badge": "🌿 Amazon"s Choice",
   "short": "Rechargeable boho lamps for cozy indoor and outdoor ambiance.",
   "description": "Add warm bohemian charm anywhere with these cordless rechargeable rattan table lamps. Their woven texture and soft lighting create a cozy atmosphere on patios, balconies, bedside tables, shelves, and living room spaces without the hassle of cords.",
   "tags": ["rattan lamp", "boho lighting", "outdoor decor", "bedside lamp", "cozy home"],
-  "affiliate": "https://amzn.to/4argQSr"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4argQSr"x,
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "vasagle-c-shaped-end-table-rustic-brown",
@@ -52,12 +52,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71210jqH2-L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🏡 Amazon's Choice",
+  "badge": "🏡 Amazon"s Choice",
   "short": "Space-saving side table perfect for modern living.",
   "description": "Designed to slide effortlessly beside sofas and beds, this VASAGLE C-shaped end table combines rustic wood tones with a sleek metal frame. Ideal for holding coffee, books, laptops, or decor accents, it adds both functionality and style to compact spaces.",
   "tags": ["side table", "small space furniture", "living room decor", "bedside table", "rustic furniture"],
-  "affiliate": "https://amzn.to/3SdzhUo"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3SdzhUo",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "qiyizm-amber-glass-pendant-light",
@@ -66,12 +66,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71F+x+Y9kmL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant amber glass pendant light with vintage charm.",
   "description": "Create a warm designer look with this amber glass pendant light featuring a beautiful flower-inspired shade and gold accents. Perfect for kitchens, bedrooms, reading corners, apartments, and boho interiors, it delivers a cozy glow and timeless vintage appeal.",
   "tags": ["pendant light", "vintage lighting", "boho decor", "amber glass", "home lighting"],
-  "affiliate": "https://amzn.to/3Sdz1oo"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3Sdz1oo",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "kimode-farmhouse-kitchen-mat-set",
@@ -84,8 +84,8 @@ const products = [
   "short": "Comfortable cushioned kitchen mats for stylish everyday living.",
   "description": "Make cooking and cleaning more comfortable with this KIMODE farmhouse kitchen mat set. Featuring anti-fatigue cushioning, waterproof construction, and a non-slip design, these mats provide comfort and support while complementing modern farmhouse and cozy kitchen aesthetics.",
   "tags": ["kitchen mat", "farmhouse kitchen", "anti fatigue mat", "home essentials", "kitchen decor"],
-  "affiliate": "https://amzn.to/3PPIp0U"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3PPIp0U",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "aliwiner-blue-clam-shell-bowl",
@@ -98,8 +98,8 @@ const products = [
   "short": "Charming blue clam shell bowl for coastal and beach-inspired homes.",
   "description": "Bring seaside elegance indoors with this decorative blue clam shell bowl. Perfect for styling coffee tables, bathroom counters, entryway consoles, and coastal-themed shelves, it adds a refreshing ocean-inspired touch while serving as a beautiful catchall for jewelry, keys, or decorative accents.",
   "tags": ["coastal decor", "shell bowl", "beach house decor", "nautical decor", "ocean inspired home"],
-  "affiliate": "https://amzn.to/4exHmff"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4exHmff",
+   btnText: "Buy on Amazon →"
 },
 {
   id: "p1",
@@ -112,8 +112,8 @@ const products = [
   short: "Elegant gold bird statues for modern luxury spaces.",
   description: "Elevate your home with these modern gold bird sculptures—perfect for styling shelves, coffee tables, or office desks. A minimalist yet luxurious accent that instantly makes your space feel designer-curated.",
   tags: ["gold decor", "bird figurine", "modern decor", "luxury home"],
-  affiliate: "https://amzn.to/4tZ44BX"
-  btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/4tZ44BX",
+  btnText: "Buy on Amazon →"
 },
 {
   "id": "onebeat-led-desk-lamp-power-strip",
@@ -126,8 +126,8 @@ const products = [
   "short": "Space-saving desk lamp with built-in charging station.",
   "description": "Upgrade your workspace with this multifunctional One Beat LED desk lamp featuring 3 outlets, 4 USB ports, touch controls, adjustable brightness levels, and multiple lighting modes. Ideal for home offices, dorm rooms, study desks, and bedside tables, it combines lighting and charging in one sleek solution.",
   "tags": ["desk lamp", "home office", "study essentials", "college dorm", "workspace organization"],
-  "affiliate": "https://amzn.to/3Sqre6F"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3Sqre6F",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "cethom-boho-striped-pillow-covers-set",
@@ -140,8 +140,8 @@ const products = [
   "short": "Classic blue and beige pillow covers for cozy farmhouse style.",
   "description": "Refresh your living space with these textured boho throw pillow covers featuring timeless blue and beige stripes. Designed to add warmth, texture, and designer-inspired charm, they are perfect for sofas, beds, accent chairs, and layered seasonal decorating.",
   "tags": ["pillow covers", "boho decor", "farmhouse style", "living room decor", "sofa styling"],
-  "affiliate": "https://amzn.to/4vtmc7H"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4vtmc7H",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "zormon-heart-shaped-ceramic-vases-set",
@@ -150,12 +150,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/71JtaPbww0L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🤍 Amazon's Choice",
+  "badge": "🤍 Amazon"s Choice",
   "short": "Minimalist heart-shaped vases for modern romantic decor.",
   "description": "Add a touch of modern elegance with this set of two Nordic-inspired heart-shaped ceramic vases. Their sculptural design creates a beautiful statement on dining tables, shelves, coffee tables, office desks, and wedding displays while complementing minimalist and contemporary interiors.",
   "tags": ["ceramic vase", "heart vase", "minimalist decor", "table centerpiece", "modern home decor"],
-  "affiliate": "https://amzn.to/43XzjlO"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/43XzjlO",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "hananona-patriotic-babys-breath-flowers",
@@ -166,10 +166,10 @@ const products = [
   "category": "decor",
   "badge": "🇺🇸 Seasonal Favorite",
   "short": "Red, white, and blue floral stems for festive centerpieces.",
-  "description": "Create eye-catching patriotic arrangements with these artificial baby's breath flowers in red, white, and blue. Perfect for Independence Day tablescapes, party centerpieces, wreaths, vases, and seasonal decorating throughout the summer holiday season.",
+  "description": "Create eye-catching patriotic arrangements with these artificial baby"s breath flowers in red, white, and blue. Perfect for Independence Day tablescapes, party centerpieces, wreaths, vases, and seasonal decorating throughout the summer holiday season.",
   "tags": ["4th of july flowers", "patriotic decor", "table centerpiece", "holiday decorations", "summer decor"],
-  "affiliate": "https://amzn.to/4g6KyzH"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4g6KyzH",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "hausattire-jute-braided-rug-2x3",
@@ -182,8 +182,8 @@ const products = [
   "short": "Natural braided jute rug for farmhouse and boho interiors.",
   "description": "Bring warmth and texture into your home with this hand-woven jute braided rug. Its natural fibers and reversible design make it ideal for entryways, kitchens, living rooms, and covered outdoor spaces. Perfect for organic modern, coastal, farmhouse, and bohemian interiors.",
   "tags": ["jute rug", "farmhouse decor", "boho rug", "entryway rug", "natural home decor"],
-  "affiliate": "https://amzn.to/4fzjPvE"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4fzjPvE",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "uionml-patriotic-front-door-wreath",
@@ -196,8 +196,8 @@ const products = [
   "short": "Festive patriotic wreath for front door and porch decor.",
   "description": "Celebrate Independence Day in style with this patriotic welcome wreath featuring classic red, white, and blue accents. Perfect for front doors, porches, entryways, windows, and seasonal outdoor displays, it creates a warm and festive first impression for guests and neighbors.",
   "tags": ["4th of july decor", "patriotic wreath", "front door decor", "holiday decorations", "memorial day decor"],
-  "affiliate": "https://amzn.to/3RKoktt"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3RKoktt",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "snuggle-sac-checkered-throw-blanket-beige",
@@ -210,8 +210,8 @@ const products = [
   "short": "Ultra-soft checkered throw blanket for cozy modern living spaces.",
   "description": "Wrap your home in comfort with this Snuggle Sac checkered throw blanket. Crafted from plush faux fur microfiber, it adds warmth, texture, and a trendy checkerboard pattern to sofas, beds, reading nooks, and living rooms. The neutral beige color blends effortlessly with modern, minimalist, and cozy home aesthetics.",
   "tags": ["throw blanket", "cozy decor", "checkered blanket", "living room decor", "bedroom styling"],
-  "affiliate": "https://amzn.to/4uQaDHP"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uQaDHP",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "golianda-sage-green-botanical-pillow-covers-set",
@@ -220,12 +220,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/815knWAGn2L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌿 Amazon's Choice",
+  "badge": "🌿 Amazon"s Choice",
   "short": "Vintage botanical pillow covers for a cozy cottage-inspired home.",
   "description": "Refresh your space with these GOLIANDA sage green throw pillow covers featuring beautiful hydrangea and botanical herb illustrations. Designed with a charming vintage-inspired aesthetic, they bring a soft, nature-filled touch to sofas, beds, reading nooks, patios, and seasonal decor setups. Perfect for cottagecore, farmhouse, and botanical home styles.",
   "tags": ["sage green decor", "botanical pillows", "cottagecore decor", "farmhouse style", "living room decor"],
-  "affiliate": "https://amzn.to/4eeEfc4"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4eeEfc4",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "decrafts-round-rattan-storage-baskets-set-3",
@@ -238,8 +238,8 @@ const products = [
   "short": "Handwoven rattan baskets for stylish storage and tabletop decor.",
   "description": "Bring warmth and texture to your home with this DECRAFTS set of 3 round rattan baskets. Handwoven from natural materials, these versatile bowls are perfect for displaying fruit, organizing keys, storing small essentials, or styling coffee tables and kitchen counters. Their timeless organic look complements farmhouse, coastal, boho, and modern natural interiors.",
   "tags": ["rattan basket", "woven decor", "farmhouse decor", "kitchen organization", "organic modern style"],
-  "affiliate": "https://amzn.to/4fXbXnA"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4fXbXnA",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "brightever-100ft-outdoor-string-lights-2pack",
@@ -248,12 +248,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/71qK99LItDS._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Warm globe string lights for magical outdoor living spaces.",
   "description": "Transform your outdoor space into a cozy retreat with these Brightever 100FT LED string lights featuring 52 shatterproof G40 globe bulbs. Designed for patios, porches, balconies, gazebos, gardens, and backyard gatherings, these waterproof lights create a warm, inviting glow that makes every evening feel special. Perfect for outdoor entertaining, seasonal decor, and year-round ambiance.",
   "tags": ["outdoor string lights", "patio decor", "backyard lighting", "outdoor entertaining", "garden lights"],
-  "affiliate": "https://amzn.to/4ak8TON"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4ak8TON",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "lino-rosa-boho-beaded-door-curtain-cream",
@@ -266,8 +266,8 @@ const products = [
   "short": "Elegant beaded curtain for stylish room separation and boho charm.",
   "description": "Add texture, movement, and effortless bohemian style to your home with this Lino Rosa beaded doorway curtain. Featuring soft cream tones and decorative hanging beads, it creates a beautiful visual divider for closets, bedrooms, apartments, studios, and open living spaces. Perfect for adding privacy while maintaining an airy, designer-inspired look.",
   "tags": ["boho decor", "beaded curtain", "room divider", "apartment decor", "bohemian home"],
-  "affiliate": "https://amzn.to/4u8PRCh"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4u8PRCh",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "la-jolie-muse-wicker-storage-baskets-set-3",
@@ -276,12 +276,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71rZT-RGAjL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🤍 Amazon's Choice",
+  "badge": "🤍 Amazon"s Choice",
   "short": "Elegant woven storage baskets for stylish clutter-free organization.",
   "description": "Organize beautifully with this LA JOLIE MUSE set of 3 wicker storage baskets crafted from recycled paper rope. Designed to blend functionality with decor, these versatile square baskets are perfect for shelves, bathroom cupboards, drawers, vanities, and closets. Their natural woven texture adds warmth and charm while keeping everyday essentials neatly contained.",
   "tags": ["storage baskets", "home organization", "bathroom storage", "woven decor", "minimalist home"],
-  "affiliate": "https://amzn.to/4u5VKjy"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4u5VKjy",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "spwiy-natural-boho-linen-curtains-84inch",
@@ -294,8 +294,8 @@ const products = [
   "short": "Semi-sheer linen curtains with tassels for a soft, airy home aesthetic.",
   "description": "Transform your space with these SPWIY natural boho linen curtains featuring elegant tassel details and a beautiful cream-beige finish. Designed to gently filter natural light while maintaining privacy, these semi-sheer drapes create a warm, airy atmosphere in living rooms, bedrooms, apartments, and farmhouse-inspired interiors. Perfect for achieving that relaxed, designer-curated look seen across Pinterest and modern home magazines.",
   "tags": ["boho curtains", "linen curtains", "farmhouse decor", "neutral home decor", "living room curtains"],
-  "affiliate": "https://amzn.to/4dTmJZo"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dTmJZo",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "aoodu-rattan-chandelier-3light-pendant",
@@ -308,8 +308,8 @@ const products = [
   "short": "Handwoven rattan chandelier that brings warmth and designer style to any room.",
   "description": "Create a stunning focal point with this AOODU 3-light rattan chandelier featuring handwoven bamboo shades and timeless bohemian charm. The natural texture and warm glow make it perfect for kitchen islands, dining rooms, breakfast nooks, entryways, and farmhouse-inspired spaces. Blending boho, coastal, organic-modern, and mid-century influences, this pendant light instantly elevates the look of any home.",
   "tags": ["rattan chandelier", "boho lighting", "farmhouse lighting", "pendant light", "organic modern decor"],
-  "affiliate": "https://amzn.to/4uCy3QZ"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uCy3QZ",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "aibolyne-250-anniversary-usa-garden-flag",
@@ -318,12 +318,12 @@ const products = [
   "rating": 4.9,
   "image": "https://m.media-amazon.com/images/I/71FmWIiTHjL._AC_SL1429_.jpg",
   "category": "decor",
-  "badge": "🇺🇸 Amazon's Choice",
+  "badge": "🇺🇸 Amazon"s Choice",
   "short": "Double-sided 250th anniversary USA garden flag with eagle design.",
   "description": "Celebrate America’s 250th anniversary in style with this patriotic garden flag featuring a bold eagle design and commemorative 1776–2026 artwork. Made for outdoor display with waterproof, double-sided printing, it adds a proud festive touch to yards, gardens, porches, walkways, and Independence Day celebrations. A standout decor piece for honoring this historic milestone.",
   "tags": ["250 anniversary flag", "usa garden flag", "4th of july decor", "patriotic yard decor", "american flag"],
-  "affiliate": "https://amzn.to/4fh6Jmk"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4fh6Jmk",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "rushmore-rose-usa-premium-american-flag-3x5",
@@ -332,12 +332,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71UQDvGqskL._AC_SL1024_.jpg",
   "category": "decor",
-  "badge": "🇺🇸 Amazon's Choice",
+  "badge": "🇺🇸 Amazon"s Choice",
   "short": "Heavy-duty embroidered American flag for outdoor display.",
   "description": "Show your patriotic pride with this premium 3x5 American flag made in the USA. Crafted with embroidered stars and sewn stripes, it’s designed for long-lasting outdoor use in all weather conditions. Perfect for homes, gardens, porches, offices, and national holidays, this durable flag delivers a bold, respectful, and high-quality display of American spirit.",
   "tags": ["american flag", "patriotic decor", "outdoor flag", "usa pride", "home exterior decor"],
-  "affiliate": "https://amzn.to/4wsETtN"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4wsETtN",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "ysagi-leather-desk-pad-eggshell",
@@ -350,8 +350,8 @@ const products = [
   "short": "Elegant waterproof leather desk pad for clean minimalist workspaces.",
   "description": "Transform your workspace with this YSAGi PU leather desk pad in a soft eggshell tone. Designed to protect desks while creating a sleek, organized aesthetic, it works as a mouse pad, writing surface, and desk blotter all in one. Perfect for home offices, study setups, and minimalist desk styling that feels modern, clean, and productive.",
   "tags": ["desk setup", "office decor", "minimalist workspace", "desk pad", "clean aesthetic"],
-  "affiliate": "https://amzn.to/4vcCa6h"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4vcCa6h",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "qeeig-floating-shelves-white-set-3",
@@ -364,8 +364,8 @@ const products = [
   "short": "Modern floating shelves for stylish wall storage & decor.",
   "description": "Style your walls beautifully with this QEEIG set of 3 floating shelves in a clean white farmhouse finish. Perfect for bathrooms, bedrooms, kitchens, and living rooms, these shelves help display candles, books, plants, frames, and decor accents while maximizing vertical space with a cozy designer look.",
   "tags": ["floating shelves", "farmhouse decor", "wall storage", "bathroom shelves", "home styling"],
-  "affiliate": "https://amzn.to/3Q2ByB7"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3Q2ByB7",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "seealle-touch-table-lamp-white-glass",
@@ -378,8 +378,8 @@ const products = [
   "short": "Modern dimmable bedside lamp for cozy elegant spaces.",
   "description": "Create a warm and relaxing atmosphere with this Seealle touch table lamp featuring a sleek white glass shade and 3-way dimmable lighting. Perfect for nightstands, bedrooms, reading corners, and minimalist living rooms, it adds soft modern elegance while saving space in smaller interiors.",
   "tags": ["bedside lamp", "cozy decor", "minimalist lighting", "nightstand decor", "modern home"],
-  "affiliate": "https://amzn.to/3RHzyP8"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3RHzyP8",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "skydue-purple-rotating-desk-organizer",
@@ -392,8 +392,8 @@ const products = [
   "short": "Rotating pastel organizer for pens, markers & art supplies.",
   "description": "Keep your desk stylish and clutter-free with this SKYDUE rotating purple desk organizer featuring five spacious compartments for pens, brushes, stationery, and art supplies. Its 360° spinning design makes everything easy to reach while adding a playful aesthetic touch to study desks, offices, and creative workspaces.",
   "tags": ["desk organizer", "study setup", "cute office decor", "art supply storage", "purple aesthetic"],
-  "affiliate": "https://amzn.to/4utbJJk"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4utbJJk",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "homelux-theory-over-door-organizer-ivory",
@@ -406,8 +406,8 @@ const products = [
   "short": "Heavy-duty over-the-door organizer with huge storage capacity.",
   "description": "Maximize small spaces beautifully with this HOMELUX THEORY over-the-door organizer featuring 6 large storage tiers and 12 side mesh pockets. Designed in a soft ivory tone, it keeps shoes, skincare, toys, accessories, and household essentials neatly organized while maintaining a clean aesthetic look.",
   "tags": ["home organization", "storage solution", "closet organizer", "small space ideas", "organized home"],
-  "affiliate": "https://amzn.to/4a74DlD"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4a74DlD",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "large-boho-macrame-wall-hanging",
@@ -420,8 +420,8 @@ const products = [
   "short": "Handmade macrame tapestry for cozy bohemian interiors.",
   "description": "Create a warm boho atmosphere with this oversized handmade macrame wall hanging featuring elegant woven textures and flowing beige fringe. Perfect for bedrooms, apartments, living rooms, weddings, or creative studio spaces, it instantly makes walls feel cozy, artistic, and designer-inspired.",
   "tags": ["macrame decor", "boho wall art", "apartment decor", "neutral home", "bohemian style"],
-  "affiliate": "https://amzn.to/4u3QPzO"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4u3QPzO",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "gold-round-sunburst-wall-mirror-set",
@@ -434,8 +434,8 @@ const products = [
   "short": "Elegant gold sunburst mirrors for luxury wall styling.",
   "description": "Add depth and designer charm to your home with this set of 3 gold round sunburst mirrors. Perfect for living rooms, bedrooms, entryways, dining spaces, and bathrooms, these decorative wall accents reflect light beautifully while creating a chic boho-luxury aesthetic.",
   "tags": ["wall mirror", "gold decor", "boho decor", "living room ideas", "luxury wall art"],
-  "affiliate": "https://amzn.to/4uxEVz8"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uxEVz8",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "fexia-boho-table-runner-tassels-72inch",
@@ -444,12 +444,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/819tlu7DkFL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🤎 Amazon's Choice",
+  "badge": "🤎 Amazon"s Choice",
   "short": "Rustic boho table runner with tassels for cozy seasonal styling.",
   "description": "Create a warm, designer-inspired dining space with this FEXIA boho farmhouse table runner featuring woven macrame texture and elegant tassel details. Perfect for Thanksgiving, Christmas, fall gatherings, or everyday rustic styling, it adds cozy charm to dining tables, coffee tables, consoles, and living room decor. Its neutral tones blend beautifully with modern farmhouse and bohemian interiors.",
   "tags": ["boho decor", "table runner", "farmhouse decor", "fall home decor", "rustic table styling"],
-  "affiliate": "https://amzn.to/4uQjAR9"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uQjAR9",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "xxxflower-plant-terrarium-wooden-stand-3bulb",
@@ -462,8 +462,8 @@ const products = [
   "short": "Retro glass bulb terrarium for elegant plant & hydroponic styling.",
   "description": "Bring natural elegance into your space with this XXXFLOWER plant terrarium featuring three glass bulb vases, a rustic wooden stand, and a modern metal swivel holder. Perfect for hydroponic plants, fresh cuttings, or minimalist greenery displays, it adds a calming botanical touch to desks, shelves, coffee tables, offices, and cozy home corners.",
   "tags": ["plant terrarium", "hydroponic planter", "desk decor", "minimalist home decor", "plant aesthetic"],
-  "affiliate": "https://amzn.to/4nNh8Zh"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4nNh8Zh",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "forbena-white-gold-bathroom-counter-organizer-2tier",
@@ -472,12 +472,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/61c35SZf7yL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🤍 Amazon's Choice",
+  "badge": "🤍 Amazon"s Choice",
   "short": "Elegant white & gold 2-tier organizer for bathroom & vanity storage.",
   "description": "Upgrade your bathroom or vanity with this Forbena 2-tier countertop organizer featuring a clean white finish with elegant gold accents. Designed for perfumes, skincare, makeup, and daily essentials, it creates a neat, aesthetic display while saving counter space. Perfect for bathrooms, bedrooms, kitchen corners, and vanity setups that need a touch of modern luxury organization.",
   "tags": ["bathroom organizer", "vanity decor", "skincare storage", "white gold decor", "clean aesthetic"],
-  "affiliate": "https://amzn.to/3PmIpVB"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3PmIpVB",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "vasagle-gold-bar-cart-mirrored-shelves",
@@ -486,12 +486,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/81lxzen1gAL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant gold bar cart with mirrored shelves for stylish hosting.",
   "description": "Upgrade your home entertaining experience with this VASAGLE gold bar cart featuring elegant mirrored shelves, wine holders, and glass storage. Designed for modern apartments, dining rooms, kitchens, and living spaces, it blends luxury aesthetics with practical serving functionality. Perfect for hosting guests, displaying drinks, or styling as a chic decor piece.",
   "tags": ["bar cart", "gold decor", "home hosting", "luxury decor", "apartment style"],
-  "affiliate": "https://amzn.to/4eLgNnI"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4eLgNnI",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "libbey-ascent-glass-tumbler-rocks-set-16",
@@ -500,12 +500,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/816OkvqapZL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant curved glassware set for everyday use & entertaining.",
   "description": "Upgrade your dining and entertaining experience with this Libbey Ascent glassware set of 16, featuring beautifully curved tumbler and rocks glasses. Designed for versatility, it’s perfect for water, juice, cocktails, or party serving. The modern silhouette adds a refined touch to kitchens, dining tables, and home bars, making everyday moments feel more elevated and stylish.",
   "tags": ["glassware set", "kitchen essentials", "home entertaining", "modern dining", "minimalist decor"],
-  "affiliate": "https://amzn.to/4nsGlrG"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4nsGlrG",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "mikasa-cheers-martini-glasses-set-4",
@@ -514,12 +514,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/61l4OfgFaML._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant etched martini glasses perfect for parties & gifting.",
   "description": "Elevate your hosting experience with this Mikasa Cheers set of 4 martini glasses featuring fun etched designs and a refined clear glass finish. Designed for durability and style, these 10-ounce cocktail glasses bring personality and elegance to any gathering. Perfect for home bars, dinner parties, celebrations, or thoughtful gifts for cocktail lovers.",
   "tags": ["martini glasses", "cocktail glassware", "home bar", "party essentials", "gift idea"],
-  "affiliate": "https://amzn.to/4twZiec"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4twZiec",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "joyjolt-afina-stemless-martini-glasses-set-4",
@@ -528,12 +528,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/71Hv-ethdeL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant stemless martini glasses for cocktails, margaritas & desserts.",
   "description": "Upgrade your entertaining experience with the JoyJolt Afina stemless martini glasses set of 4. Designed with a modern, stable stemless silhouette, these 8.5 oz glasses are perfect for cocktails, margaritas, desserts, or stylish serving. Their crystal-clear finish adds a refined touch to home bars, dinner parties, and everyday luxury sipping moments.",
   "tags": ["martini glasses", "cocktail glassware", "home bar", "modern kitchen", "gift idea"],
-  "affiliate": "https://amzn.to/4uafnHV"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uafnHV",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "wututuee-velvet-vanity-chair-storage-burgundy",
@@ -546,8 +546,8 @@ const products = [
   "short": "Velvet swivel vanity chair with hidden storage & elegant wave back.",
   "description": "Upgrade your beauty space with this WUTUTUEE velvet vanity chair featuring a soft wave-back design, hidden storage compartment, and smooth 360° swivel function. Designed for bedrooms, dressing areas, and stylish living spaces, it combines comfort with elegant aesthetics. The rich burgundy velvet adds a luxurious touch, making any vanity corner feel boutique-inspired and polished.",
   "tags": ["vanity chair", "makeup chair", "bedroom decor", "velvet furniture", "beauty room setup"],
-  "affiliate": "https://amzn.to/4uazeHf"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uazeHf",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "yiwanfw-black-gold-vanity-organizer-2tier",
@@ -556,12 +556,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/71y0sfd-YAL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant 2-tier black & gold organizer for perfumes & skincare.",
   "description": "Elevate your vanity or bathroom counter with this chic black and gold 2-tier organizer designed for perfumes, skincare, and cosmetics. Its modern open-frame design creates a boutique-style display while keeping essentials neatly arranged and easy to access. Perfect for dressers, vanities, and bathroom countertops, it instantly adds a luxurious, organized aesthetic to any space.",
   "tags": ["vanity organizer", "perfume display", "bathroom decor", "makeup storage", "luxury aesthetic"],
-  "affiliate": "https://amzn.to/4tJn4UM"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4tJn4UM",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "funistree-pink-candle-warmer-lamp",
@@ -574,8 +574,8 @@ const products = [
   "short": "Elegant pink candle warmer lamp for cozy luxury spaces.",
   "description": "Add warmth and beauty to your home with this Funistree pink candle warmer lamp featuring a charming Lily of the Valley design. With dimmable brightness and built-in timer settings, it gently warms jar candles while creating a soft ambient glow. Perfect for bedrooms, living rooms, offices, and thoughtful gifts for moms, women, or anyone who loves cozy elegant decor.",
   "tags": ["candle warmer lamp", "pink decor", "gift for mom", "cozy bedroom decor", "luxury home decor"],
-  "affiliate": "https://amzn.to/4nygaAg"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4nygaAg",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "lumi-coastal-beach-bathroom-rug-blue",
@@ -584,12 +584,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/81dBptIt91L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Soft non-slip beach rug for bathrooms, kitchens & entryways.",
   "description": "Bring seaside serenity into your home with this LUMI soft and absorbent beach bathroom rug featuring starfish and shell-inspired coastal artwork. Designed with a non-slip backing for everyday practicality, it adds comfort, color, and ocean charm to bathrooms, kitchens, laundry rooms, or entryways. Perfect for creating a fresh beach house vibe in any space.",
   "tags": ["bathroom rug", "coastal decor", "beach bathroom", "blue rug", "home refresh"],
-  "affiliate": "https://amzn.to/48YTXFp"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/48YTXFp",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "cubesland-scalloped-toilet-paper-storage-basket",
@@ -598,12 +598,12 @@ const products = [
   "rating": 4.8,
   "image": "https://m.media-amazon.com/images/I/71i7WY03iyL._AC_SL1454_.jpg",
   "category": "decor",
-  "badge": "🤍 Amazon's Choice",
+  "badge": "🤍 Amazon"s Choice",
   "short": "Chic scalloped basket for stylish bathroom & shelf storage.",
   "description": "Add charm and organization to your space with this CubesLand scalloped edge storage basket in a soft beige finish. Crafted from woven paper rope with elegant wooden handles, it’s perfect for storing toilet paper, towels, toiletries, blankets, or everyday essentials. Ideal for bathrooms, living rooms, shelves, end tables, and cozy neutral homes that love beautiful storage.",
   "tags": ["storage basket", "bathroom decor", "neutral home decor", "shelf styling", "organized home"],
-  "affiliate": "https://amzn.to/4dlTrmd"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dlTrmd",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "tritard-coastal-throw-pillow-covers-set-blue",
@@ -612,12 +612,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/71SHSbn9OJL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Velvet beach-themed pillow covers for stylish coastal homes.",
   "description": "Refresh your sofa or bedroom instantly with this set of two Tritard coastal throw pillow covers featuring seashell, coral, and starfish designs in calming blue tones. Made with soft velvet texture, these decorative covers add comfort and elegant seaside charm to couches, beds, patios, and reading corners. Perfect for beach house style or everyday coastal decor lovers.",
   "tags": ["coastal pillows", "throw pillow covers", "beach decor", "living room decor", "blue home decor"],
-  "affiliate": "https://amzn.to/4dj5gJH"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dj5gJH",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "velsyn-beach-flameless-led-candles-set",
@@ -626,12 +626,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/81+dkkWPJQL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Seashell flameless candles for cozy coastal ambiance.",
   "description": "Create a warm seaside glow with this Velsyn set of 3 flameless LED candles featuring seashell and starfish coastal details. Crafted with real wax for a premium look, these unscented pillar candles include a remote control and timer for effortless ambiance. Perfect for bedrooms, bathrooms, weddings, beach houses, mantels, or relaxing evening decor.",
   "tags": ["coastal candles", "beach decor", "led candles", "bedroom decor", "home ambiance"],
-  "affiliate": "https://amzn.to/42u47dv"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/42u47dv",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "nbeads-conch-shell-jewelry-tray-aqua",
@@ -644,8 +644,8 @@ const products = [
   "short": "Elegant shell trinket tray for jewelry & coastal decor.",
   "description": "Add a touch of seaside elegance to your vanity with this aqua conch shell ceramic jewelry tray. Designed to beautifully hold rings, earrings, bracelets, watches, keys, and small treasures, it combines practical storage with decorative coastal charm. Perfect for dressers, nightstands, bathroom counters, or gifting to anyone who loves ocean-inspired style.",
   "tags": ["jewelry tray", "coastal decor", "shell tray", "vanity decor", "beach aesthetic"],
-  "affiliate": "https://amzn.to/4ntTTDA"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4ntTTDA",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "design-toscano-pelicans-garden-statue",
@@ -654,12 +654,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/71+BfBFsJGL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Elegant pelican statue for coastal gardens & patios.",
   "description": "Bring seaside charm to your outdoor space with this Ocean’s Perch pelicans garden statue by Design Toscano. Crafted in durable cast stone resin with a full-color finish, this eye-catching piece adds character and coastal elegance to patios, porches, garden beds, balconies, or entryways. Perfect for beach house styling or anyone who loves ocean-inspired decor.",
   "tags": ["coastal decor", "garden statue", "pelican decor", "patio styling", "beach house decor"],
-  "affiliate": "https://amzn.to/4dHLSYd"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dHLSYd",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "elegondrar-blue-coral-resin-decor",
@@ -668,12 +668,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/81VaQ7uS9JL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Elegant blue coral statue for coastal shelf styling.",
   "description": "Bring refined seaside charm into your home with this blue coral decor statue by Elegondrar. Crafted in durable resin with a sculptural coral-inspired design, it adds a fresh coastal accent to cabinets, bookshelves, coffee tables, bathroom counters, or console styling. Perfect for beach homes, ocean-themed spaces, and modern interiors needing a pop of serene blue elegance.",
   "tags": ["coastal decor", "blue coral decor", "beach house decor", "shelf styling", "ocean theme"],
-  "affiliate": "https://amzn.to/49jRHZB"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/49jRHZB",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "tumbler-home-real-sea-shell-night-light",
@@ -682,12 +682,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/61hJHssz77L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Natural sea shell night light for calming coastal vibes.",
   "description": "Bring the soothing charm of the seaside into your home with this real sea shell beach night light. Crafted with natural shells and a soft ambient glow, it adds warmth and coastal elegance to bedrooms, bathrooms, hallways, nurseries, or beach house spaces. Perfect for creating a relaxing nighttime atmosphere or gifting to ocean lovers.",
   "tags": ["coastal decor", "night light", "beach house decor", "shell decor", "ocean aesthetic"],
-  "affiliate": "https://amzn.to/4uMHE7A"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uMHE7A",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "tideandtales-blue-seashell-starfish-wall-art-set",
@@ -696,12 +696,12 @@ const products = [
   "rating": 4.8,
   "image": "https://m.media-amazon.com/images/I/71+XD-w8P6L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Elegant coastal framed wall art set for beach-inspired rooms.",
   "description": "Refresh your space with this Tide and Tales framed set of 3 coastal wall art pieces featuring blue seashells and starfish in dimensional 3D detail. Perfect for bathrooms, coastal bedrooms, entryways, or beach house interiors, these charming frames add a calm seaside feel and designer-finished touch to any wall.",
   "tags": ["coastal wall decor", "beach wall art", "bathroom decor", "seashell decor", "beach house style"],
-  "affiliate": "https://amzn.to/4wuf9gw"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4wuf9gw",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "jonronboci-blue-donut-vase-set-2",
@@ -714,8 +714,8 @@ const products = [
   "short": "Modern navy ceramic vases for coastal luxury styling.",
   "description": "Elevate your space with this stunning set of two matte navy blue donut vases. Designed with a modern sculptural silhouette, these ceramic pieces bring effortless coastal elegance to coffee tables, bookshelves, consoles, mantels, and living room shelves. Perfect for styling alone or with dried stems, they add a designer-curated touch to any modern home.",
   "tags": ["blue vase", "coastal decor", "modern home decor", "shelf styling", "living room decor"],
-  "affiliate": "https://amzn.to/4uOrz1d"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uOrz1d",
+   btnText: "Buy on Amazon →"
 },
 {
   id: "2",
@@ -728,8 +728,8 @@ const products = [
   short: "Modern nesting coffee tables with sleek minimalist design.",
   description: "Stylish set of 2 round nesting coffee tables featuring a white tabletop and black steel frame. Includes a removable top for hidden storage—perfect for modern living rooms, apartments, and aesthetic home setups.",
   tags: ["coffee table", "nesting table", "living room", "modern decor", "minimalist", "home furniture"],
-  affiliate: "https://amzn.to/4d2Xk0b"
-   btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/4d2Xk0b",
+   btnText: "Buy on Amazon →"
 },
 {
   id: "p3",
@@ -751,8 +751,8 @@ const products = [
     "teal decor",
     "interior styling"
   ],
-   affiliate: "https://amzn.to/3QXvPws"
-   btnText: "Buy on Amazon →",
+   affiliate: "https://amzn.to/3QXvPws",
+   btnText: "Buy on Amazon →"
 },
 {
   id: "p4",
@@ -774,8 +774,8 @@ const products = [
     "kitchen accessories",
     "gift idea"
   ],
-  affiliate: "https://amzn.to/4sMaaod"
-  btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/4sMaaod",
+  btnText: "Buy on Amazon →"
 },
 {
   id: "p5",
@@ -797,8 +797,8 @@ const products = [
     "gold fixtures",
     "mirror lighting"
   ],
-   affiliate: "https://amzn.to/4mQg6eE"
-   btnText: "Buy on Amazon →",
+   affiliate: "https://amzn.to/4mQg6eE",
+   btnText: "Buy on Amazon →"
 },
 {
   id: "p6",
@@ -811,8 +811,8 @@ const products = [
   short: "Handwoven rattan baskets for stylish kitchen and dining organization.",
   description: "Upgrade your home with this beautifully handwoven natural rattan fruit basket set of 3. Perfect for storing fruits, bread, or serving essentials while adding a warm boho, farmhouse, or coastal aesthetic to your kitchen or dining space. A functional yet elegant décor piece designed for modern minimalist homes.",
   tags: ["rattan basket", "kitchen storage", "boho decor", "wicker organizer", "farmhouse kitchen"],
-  affiliate: "https://amzn.to/4e2XXYL"
-   btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/4e2XXYL",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "potato-estudiosa-motivation",
@@ -823,10 +823,10 @@ const products = [
   "category": "decor",
   "badge": "📚 Study Must-Have",
   "short": "Cute motivational potato decor for study desks.",
-  "description": "Transform your study space into a focused, aesthetic zone with this adorable Potato Estudiosa® figurine. Designed to spark motivation and bring a smile during long study sessions, it's the perfect desk companion for students, teens, and exam warriors. A small detail that creates a big productivity vibe—ideal for aesthetic study setups and cozy desk styling.",
+  "description": "Transform your study space into a focused, aesthetic zone with this adorable Potato Estudiosa® figurine. Designed to spark motivation and bring a smile during long study sessions, it"s the perfect desk companion for students, teens, and exam warriors. A small detail that creates a big productivity vibe—ideal for aesthetic study setups and cozy desk styling.",
   "tags": ["study decor", "student gift", "desk aesthetic", "motivation decor", "study room ideas"],
-  "affiliate": "https://amzn.to/3P5Yor3"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3P5Yor3",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "mixed-beach-seashells-starfish-decor",
@@ -837,10 +837,10 @@ const products = [
   "category": "decor",
   "badge": "🏖️ Summer Favorite",
   "short": "Natural seashells & starfish for coastal home styling.",
-  "description": "Bring effortless coastal elegance into your space with this mixed seashell and starfish set. Featuring 9 varieties of natural shells, this collection is perfect for styling glass vases, coffee tables, or beach-themed decor. Instantly create that breezy, seaside vibe—whether you're decorating a summer apartment, hosting a coastal party, or curating a Pinterest-worthy shelf.",
+  "description": "Bring effortless coastal elegance into your space with this mixed seashell and starfish set. Featuring 9 varieties of natural shells, this collection is perfect for styling glass vases, coffee tables, or beach-themed decor. Instantly create that breezy, seaside vibe—whether you"re decorating a summer apartment, hosting a coastal party, or curating a Pinterest-worthy shelf.",
   "tags": ["coastal decor", "beach house decor", "summer styling", "seashell decor", "vase fillers"],
-  "affiliate": "https://amzn.to/4mP5Z9U"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4mP5Z9U",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "smuxee-nesting-coffee-table-set",
@@ -853,8 +853,8 @@ const products = [
   "short": "Modern nesting coffee tables for stylish small spaces.",
   "description": "Upgrade your living room instantly with this elegant nesting coffee table set. Featuring warm wood-grain tops and sleek industrial metal frames, these round tables bring designer style without the designer price tag. Use them together for a layered luxury look or separately as side tables in apartments, bedrooms, balconies, or cozy reading corners. Perfect for modern, minimalist, and Pinterest-inspired interiors.",
   "tags": ["coffee table", "small living room decor", "modern furniture", "nesting table", "luxury apartment decor"],
-  "affiliate": "https://amzn.to/4eNyMJV"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4eNyMJV",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "aubcee-faux-pink-dahlia-vase",
@@ -867,8 +867,8 @@ const products = [
   "short": "Elegant pink faux flowers in vase for chic home styling.",
   "description": "Add instant softness and elegance to your space with these faux pink dahlia flowers in a decorative vase. Designed to look fresh year-round, this stylish arrangement brings a romantic, luxury feel to coffee tables, bathroom counters, entryways, and shelves. Perfect for creating that polished Pinterest home aesthetic without the upkeep of real flowers.",
   "tags": ["faux flowers", "pink decor", "coffee table decor", "feminine home decor", "luxury vase decor"],
-  "affiliate": "https://amzn.to/4sZDSpV"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4sZDSpV",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "nacome-solar-turtle-garden-statue",
@@ -881,8 +881,8 @@ const products = [
   "short": "Whimsical solar turtle statue with glowing garden lights.",
   "description": "Bring charm and warmth to your outdoor space with this adorable solar turtle garden statue. Featuring a succulent-style shell and 7 soft LED lights, it automatically glows at night to create a magical garden atmosphere. Perfect for patios, balconies, porches, flower beds, or as a thoughtful gift for moms, grandmas, and nature lovers.",
   "tags": ["garden decor", "solar lights", "patio decor", "gift for mom", "outdoor statue"],
-  "affiliate": "https://amzn.to/4d26nh0"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4d26nh0",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "asmad-solar-firefly-lights-4pack",
@@ -895,8 +895,8 @@ const products = [
   "short": "Magical swaying solar lights for dreamy outdoor spaces.",
   "description": "Transform your patio, garden, or balcony into an enchanting nighttime escape with these solar firefly lights. Featuring 32 warm LEDs and flexible stems that sway beautifully in the breeze, they create a whimsical glow that feels straight out of a luxury garden retreat. Perfect for pathways, flower beds, patios, and thoughtful gifts for moms or grandmas who love beautiful outdoor spaces.",
   "tags": ["solar lights", "garden decor", "patio lighting", "gift for grandma", "backyard ideas"],
-  "affiliate": "https://amzn.to/48rhwq3"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/48rhwq3",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "qocnam-solar-watering-can-lantern",
@@ -905,12 +905,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/81DC8QbOm0L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Enchanting solar watering can light for magical gardens.",
   "description": "Create a storybook glow in your outdoor space with this charming solar watering can lantern. Designed with cascading fairy lights and crackle glass detail, it looks like sparkling water pouring from the can after sunset. Perfect for patios, balconies, lawns, porches, and garden corners that need a whimsical designer touch. A beautiful gift idea for anyone who loves gardening and cozy evenings outdoors.",
   "tags": ["garden decor", "solar lantern", "patio lights", "gift for gardener", "outdoor decor"],
-  "affiliate": "https://amzn.to/3P6kl9s"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3P6kl9s",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "amdrebio-pink-round-fluffy-rug-4ft",
@@ -919,12 +919,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/81doeAtY-bS._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "💗 Amazon's Choice",
+  "badge": "💗 Amazon"s Choice",
   "short": "Soft pink fluffy rug for dreamy bedrooms & dorms.",
   "description": "Add instant softness and charm to your space with this light pink round fluffy rug. Designed to create a cozy, stylish vibe, this plush shag rug is perfect for girls’ bedrooms, dorm rooms, nurseries, playrooms, or reading corners. The soft texture and sweet blush tone make any room feel warmer, prettier, and Pinterest-worthy in minutes.",
   "tags": ["pink room decor", "girls bedroom", "fluffy rug", "dorm decor", "cute room aesthetic"],
-  "affiliate": "https://amzn.to/4uc8c1v"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4uc8c1v",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "uvvyui-blue-velvet-shell-pillow",
@@ -933,12 +933,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/71wKhH2fkML._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Chic velvet shell pillow for coastal luxe spaces.",
   "description": "Bring elegant coastal charm into your home with this blue velvet sea shell shaped throw pillow. Featuring a plush cotton fill and rich velvet texture, it adds softness, style, and a designer touch to sofas, beds, accent chairs, or reading nooks. Perfect for beach-inspired interiors, feminine bedrooms, and modern spaces needing a unique statement accent.",
   "tags": ["coastal decor", "throw pillow", "beach room decor", "blue velvet pillow", "luxury home decor"],
-  "affiliate": "https://amzn.to/49hCLuF"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/49hCLuF",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "phantoscope-pink-faux-fur-pillow-covers",
@@ -951,8 +951,8 @@ const products = [
   "short": "Luxury faux fur pillow covers for chic cozy spaces.",
   "description": "Add instant softness and glamour to your home with these blush pink faux fur throw pillow covers. Designed to bring warmth, texture, and a luxurious cozy vibe, they’re perfect for beds, sofas, accent chairs, dorm rooms, or festive holiday styling. The plush fuzzy finish creates that designer layered look every stylish space needs.",
   "tags": ["pink pillow covers", "cozy decor", "bedroom aesthetic", "faux fur pillows", "luxury home decor"],
-  "affiliate": "https://amzn.to/4f2I8S8"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4f2I8S8",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "bignosedeer-kawaii-cat-tea-mug-infuser",
@@ -961,12 +961,12 @@ const products = [
   "rating": 4.8,
   "image": "https://m.media-amazon.com/images/I/61Tb5j081mL._AC_SL1000_.jpg",
   "category": "decor",
-  "badge": "🐱 Amazon's Choice",
+  "badge": "🐱 Amazon"s Choice",
   "short": "Cute pink cat mug with tea infuser for cozy drink moments.",
   "description": "Bring adorable charm to your daily tea or coffee routine with this kawaii cat tea mug. Featuring a built-in infuser and a soft pastel pink design, it’s perfect for brewing loose-leaf tea or enjoying cozy coffee moments. Ideal for cat lovers, aesthetic kitchen setups, dorm rooms, or thoughtful gifts for women who love cute, preppy-style essentials.",
   "tags": ["cute mug", "cat lover gift", "tea mug", "kawaii kitchen", "aesthetic drinkware"],
-  "affiliate": "https://amzn.to/4mYZzFn"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4mYZzFn",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "dcoriuntg-3d-crystal-ball-night-light",
@@ -975,12 +975,12 @@ const products = [
   "rating": 4.4,
   "image": "https://m.media-amazon.com/images/I/8113ZAZqSiL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌙 Amazon's Choice",
+  "badge": "🌙 Amazon"s Choice",
   "short": "Color-changing crystal ball night light for magical room vibes.",
   "description": "Create a dreamy, glowing atmosphere with this 3D crystal ball night light featuring 16 color modes and remote control. The elegant glass sphere design casts soft ambient light, making it perfect for bedrooms, desks, bedside tables, or cozy aesthetic setups. Ideal for kids, teens, and adults who love magical, calming decor or unique gift ideas.",
   "tags": ["night light", "room decor", "LED lamp", "aesthetic lighting", "gift idea"],
-  "affiliate": "https://amzn.to/4cRUt9j"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4cRUt9j",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "nourison-passion-ivory-fuchsia-area-rug-7x10",
@@ -989,12 +989,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/91FTndISD4L._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Elegant ivory & fuchsia rug for vibrant modern interiors.",
   "description": "Transform any space instantly with this Nourison Passion area rug in ivory and fuchsia. Designed to blend modern elegance with bold color accents, it adds warmth, personality, and designer appeal to bedrooms, living rooms, dining areas, or apartments. The soft, easy-clean, non-shedding texture makes it both stylish and practical for everyday living while elevating your entire room aesthetic.",
   "tags": ["area rug", "living room decor", "modern home decor", "colorful rug", "apartment styling"],
-  "affiliate": "https://amzn.to/4eOchVd"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4eOchVd",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "dovdov-handblown-glass-conch-sculpture-green",
@@ -1003,12 +1003,12 @@ const products = [
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/61Kgi-V5nDL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌊 Amazon's Choice",
+  "badge": "🌊 Amazon"s Choice",
   "short": "Elegant sea glass conch sculpture for coastal luxury decor.",
   "description": "Elevate your space with this hand-blown green glass conch sculpture, designed to bring a refined coastal elegance into modern interiors. Its smooth sea-glass finish and artistic shell form make it a striking statement piece for TV cabinets, coffee tables, office desks, and shelving displays. Perfect for creating a calm, ocean-inspired luxury aesthetic in any room.",
   "tags": ["coastal decor", "glass sculpture", "luxury home decor", "shell decor", "modern aesthetic"],
-  "affiliate": "https://amzn.to/3QD1Xpc"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3QD1Xpc",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "wongs-boho-grey-floral-comforter-set",
@@ -1021,8 +1021,8 @@ const products = [
   "short": "Vintage floral boho bedding for cozy, aesthetic bedrooms.",
   "description": "Transform your bedroom into a cozy bohemian retreat with this grey floral patchwork comforter set by WONGS. Featuring a soft microfiber fabric and vintage-inspired striped floral design, it adds warmth, texture, and effortless style to your space. Perfect for creating that Pinterest-worthy boho bedroom aesthetic in apartments, guest rooms, or modern homes.",
   "tags": ["boho bedding", "floral bedroom", "vintage bedding", "bedroom aesthetic", "cozy decor"],
-  "affiliate": "https://amzn.to/4w2i5Rh"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4w2i5Rh",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "wongs-boho-yellow-patchwork-comforter-set",
@@ -1035,8 +1035,8 @@ const products = [
   "short": "Warm bohemian yellow bedding for cozy aesthetic bedrooms.",
   "description": "Brighten your bedroom instantly with this WONGS bohemian comforter set in a warm yellow floral patchwork design. Made with soft microfiber and paired with matching pillow shams, it creates a cozy, sunlit, Pinterest-worthy bedroom atmosphere. Perfect for apartments, guest rooms, or anyone wanting a cheerful boho aesthetic that feels both relaxed and stylish.",
   "tags": ["boho bedding", "yellow bedroom", "cozy decor", "floral bedding", "aesthetic bedroom"],
-  "affiliate": "https://amzn.to/4n3NDCn"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4n3NDCn",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "dfxsz-spring-summer-yellow-floral-pillow-covers",
@@ -1049,8 +1049,8 @@ const products = [
   "short": "Bright farmhouse floral pillow covers for spring/summer decor.",
   "description": "Refresh your home for the season with these cheerful DFXSZ farmhouse pillow covers featuring sunflower and floral heart designs in warm yellow tones. Soft plush faux fur jacquard texture adds cozy comfort while instantly brightening sofas, beds, and living spaces. Perfect for spring and summer home styling, farmhouse decor lovers, and seasonal room refreshes.",
   "tags": ["spring decor", "summer home decor", "farmhouse pillows", "sunflower decor", "cozy living room"],
-  "affiliate": "https://amzn.to/3Phoc3B"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3Phoc3B",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "releany-pink-vintage-medallion-area-rug-5x7",
@@ -1059,12 +1059,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/81XqHlWWIbL._AC_SL1500_.jpg",
   "category": "decor",
-  "badge": "🌸 Amazon's Choice",
+  "badge": "🌸 Amazon"s Choice",
   "short": "Washable vintage floral rug for cozy pink aesthetic spaces.",
   "description": "Elevate your space instantly with this RELEANY vintage floral medallion area rug in soft pink and grey tones. Designed with a distressed print pattern, it brings a cozy, lived-in elegance to living rooms, bedrooms, dining areas, or apartments. The washable, non-slip design makes it both stylish and practical—perfect for creating a feminine, Pinterest-worthy home aesthetic.",
   "tags": ["pink rug", "vintage decor", "area rug", "home aesthetic", "cozy room decor"],
-  "affiliate": "https://amzn.to/4tl13vi"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4tl13vi",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "crocon-amethyst-crystal-tree-of-life",
@@ -1077,8 +1077,8 @@ const products = [
   "short": "Elegant amethyst crystal tree for healing vibes & home decor.",
   "description": "Bring beauty and positive energy into any space with this Crocon Amethyst Crystal Tree of Life decor piece. Designed with sparkling amethyst-style stones and an artistic wire tree shape, it adds a calming, luxurious touch to desks, shelves, bedside tables, and meditation corners. A thoughtful gift idea for moms, sisters, friends, housewarmings, or anyone who loves meaningful decor.",
   "tags": ["crystal decor", "gift for mom", "spiritual decor", "amethyst tree", "home aesthetic"],
-  "affiliate": "https://amzn.to/4tksJ3k"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4tksJ3k",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "lifewit-perfume-organizer-clear-display-stand",
@@ -1091,8 +1091,8 @@ const products = [
   "short": "Elegant clear display stand for perfumes & beauty storage.",
   "description": "Turn your vanity into a boutique-style beauty space with this Lifewit clear perfume organizer. Designed with tiered shelves for stylish visibility, it beautifully displays perfumes, skincare, makeup, or cologne while keeping counters neat and clutter-free. Perfect for vanities, bathroom counters, dressers, and clean girl aesthetic setups that feel polished and luxurious.",
   "tags": ["perfume organizer", "vanity decor", "makeup storage", "beauty organizer", "clean girl aesthetic"],
-  "affiliate": "https://amzn.to/4dc8MWs"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dc8MWs",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "hallmark-harry-potter-hogwarts-perpetual-calendar",
@@ -1105,8 +1105,8 @@ const products = [
   "short": "Hogwarts-themed perpetual calendar for magical desk decor.",
   "description": "Bring a touch of magic to your workspace with this Hallmark Harry Potter Hogwarts perpetual calendar. Designed with iconic wizarding world details, it combines functionality and fandom in one elegant desk piece. Perfect for offices, study desks, classrooms, or gifting, it helps you stay organized while adding a nostalgic, magical aesthetic to your daily routine.",
   "tags": ["harry potter decor", "desk accessories", "office decor", "gift idea", "hogwarts aesthetic"],
-  "affiliate": "https://amzn.to/4dBp8Ir"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4dBp8Ir",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "hyh-american-flag-led-net-lights-420",
@@ -1115,12 +1115,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71+0I5IzTvS._AC_SL1000_.jpg",
   "category": "decor",
-  "badge": "🇺🇸 Amazon's Choice",
+  "badge": "🇺🇸 Amazon"s Choice",
   "short": "Bright American flag lights for patriotic outdoor celebrations.",
   "description": "Celebrate in style with these HYH American Flag LED net lights featuring 420 super bright LEDs and a bold patriotic design. Perfect for decorating yards, gardens, porches, fences, parties, and holiday gatherings, these waterproof lights create a stunning nighttime display. Ideal for Independence Day, Memorial Day, Veterans Day, summer events, and festive outdoor celebrations.",
   "tags": ["american flag lights", "4th of july decor", "patriotic decor", "outdoor lights", "yard decorations"],
-  "affiliate": "https://amzn.to/4wgPyHK"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4wgPyHK",
+   btnText: "Buy on Amazon →"
 },
    
 
@@ -1138,8 +1138,8 @@ const products = [
   short: "True HEPA air purifier with smart air quality monitoring.",
   description: "The Coway Airmega AP-1512HH(W) is a powerful True HEPA air purifier designed to improve indoor air quality. It features real-time air monitoring, auto mode, timer, filter indicator, and eco mode for energy efficiency. Ideal for modern homes seeking clean, fresh air.",
   tags: ["air purifier", "Coway", "HEPA filter", "home gadget", "clean air"],
-  affiliate: "https://amzn.to/3Qop1b4"
-   btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/3Qop1b4",
+   btnText: "Buy on Amazon →"
 },
 
 {
@@ -1161,8 +1161,8 @@ const products = [
     "travel gadget",
     "sports accessories"
   ],
-  affiliate: "https://s.click.aliexpress.com/e/_c3gyTc6f"
-  btnText: "Shop on AliExpress →",
+  affiliate: "https://s.click.aliexpress.com/e/_c3gyTc6f",
+  btnText: "Shop on AliExpress →"
  
 },
 {
@@ -1185,8 +1185,8 @@ const products = [
     "gift idea",
     "kitchen gadget"
   ],
-  affiliate: "https://amzn.to/3QZ7Ug7"
-  btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/3QZ7Ug7",
+  btnText: "Buy on Amazon →"
 },
    {
   id: "p10",
@@ -1208,8 +1208,8 @@ const products = [
     "cleaning gadget",
     "AI vacuum"
   ],
-  affiliate: "https://amzn.to/4eFygxy"
-  btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/4eFygxy",
+  btnText: "Buy on Amazon →"
 },
 {
   id: "p11",
@@ -1232,8 +1232,8 @@ const products = [
     "meal prep"
   ],
  
-  affiliate: "https://amzn.to/4u1NPnK"
-  btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/4u1NPnK",
+  btnText: "Buy on Amazon →"
 },
 {
   id: "12",
@@ -1246,8 +1246,8 @@ const products = [
   short: "Powerful wearable waist fan for cooling comfort on the go.",
   description: "Stay cool anywhere with the AMACOOL Portable Waist Clip-On Fan featuring a powerful 10000mAh rechargeable battery. Designed for hands-free cooling, it easily clips onto your belt or shirt—perfect for outdoor work, travel, camping, hiking, or hot summer days. A must-have personal cooling gadget for men and women who need strong airflow on the move.",
   tags: ["portable fan", "waist fan", "rechargeable fan", "summer gadget", "outdoor cooling", "travel essentials"],
-  affiliate: "https://amzn.to/3P0qQdV"
-  btnText: "Buy on Amazon →",
+  affiliate: "https://amzn.to/3P0qQdV",
+  btnText: "Buy on Amazon →"
 },
 {
   "id": "nespresso-vertuo-next-breville-frother",
@@ -1256,12 +1256,12 @@ const products = [
   "rating": 4.3,
   "image": "https://m.media-amazon.com/images/I/71DDe-wo6wL._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "☕ Amazon's Choice",
+  "badge": "☕ Amazon"s Choice",
   "short": "Barista-style coffee at home with milk frother included.",
   "description": "Turn your kitchen into a chic café with the Nespresso Vertuo Next by Breville. This sleek machine brews rich coffee and smooth espresso at the touch of a button, while the included Aeroccino milk frother creates creamy lattes, cappuccinos, and iced coffee drinks at home. Perfect for busy mornings, apartment kitchens, and anyone who wants luxury coffee moments without leaving home.",
   "tags": ["coffee maker", "nespresso machine", "espresso maker", "kitchen upgrade", "home cafe"],
-  "affiliate": "https://amzn.to/4cVOH6y"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4cVOH6y",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "qpey-stainless-steel-onion-holder-slicer",
@@ -1270,12 +1270,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/71GTPDTsoPL._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "🔪 Amazon's Choice",
+  "badge": "🔪 Amazon"s Choice",
   "short": "Safe slicing tool for onions, tomatoes, eggs & veggies.",
   "description": "Make meal prep faster, safer, and more precise with this stainless steel onion holder slicer. Designed to firmly grip onions, tomatoes, avocados, eggs, and other vegetables, it helps you achieve even cuts while protecting your fingers. A must-have kitchen tool for home cooks who want efficiency, cleanliness, and professional-looking slices in seconds.",
   "tags": ["kitchen gadget", "onion slicer", "cooking tools", "meal prep", "kitchen hacks"],
-  "affiliate": "https://amzn.to/4t8Tzep"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4t8Tzep",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "owkar-portable-handheld-vacuum-sealer-kit",
@@ -1284,12 +1284,12 @@ const products = [
   "rating": 4.5,
   "image": "https://m.media-amazon.com/images/I/81qZCY1PGiL._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "🥡 Amazon's Choice",
+  "badge": "🥡 Amazon"s Choice",
   "short": "Compact vacuum sealer for fresher food & meal prep storage.",
   "description": "Keep your food fresher for longer with this portable handheld vacuum sealer. Designed with a powerful suction system and visible liquid tank, it locks in freshness up to 6x longer while reducing food waste. Perfect for meal prep, fridge organization, leftovers, snacks, and travel storage. Includes reusable bags for an eco-friendly, budget-saving kitchen upgrade.",
   "tags": ["food storage", "kitchen gadget", "meal prep", "food saver", "kitchen organization"],
-  "affiliate": "https://amzn.to/4cVt9ag"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4cVt9ag",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "vaydeer-m4-mouse-mover-device",
@@ -1298,12 +1298,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/718MR7D1T9L._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "⚡ Amazon's Choice",
+  "badge": "⚡ Amazon"s Choice",
   "short": "Auto mouse mover device for active screen & productivity support.",
-  "description": "Keep your computer active effortlessly with the VAYDEER M4 Mouse Motion Device. Designed with a quiet motor and simple on/off switch, it simulates natural mouse movement to prevent screen sleep during work sessions, meetings, or long downloads. Compact and easy to use, it's a popular productivity tool for remote workers, office setups, and multitasking professionals.",
+  "description": "Keep your computer active effortlessly with the VAYDEER M4 Mouse Motion Device. Designed with a quiet motor and simple on/off switch, it simulates natural mouse movement to prevent screen sleep during work sessions, meetings, or long downloads. Compact and easy to use, it"s a popular productivity tool for remote workers, office setups, and multitasking professionals.",
   "tags": ["productivity tool", "work from home", "tech gadget", "office setup", "computer accessory"],
-  "affiliate": "https://amzn.to/3ODhaGd"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3ODhaGd",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "biib-multifunction-led-pen-gift",
@@ -1315,9 +1315,9 @@ const products = [
   "badge": "🎁 Top Gift Pick",
   "short": "Multifunction LED pen tool for everyday carry & gifting.",
   "description": "Give a practical and stylish gift with the BIIB multifunction LED tactical pen. Designed for everyday carry, it combines writing, lighting, and utility features in one compact tool. Perfect for Father’s Day, birthdays, camping trips, or office use, this gadget-style pen is both functional and impressive—making it a memorable gift for men who love smart tools.",
-  "tags": ["men gift", "father's day gift", "tactical pen", "EDC gadget", "camping tool"],
-  "affiliate": "https://amzn.to/4eUrx2R"
-   btnText: "Buy on Amazon →",
+  "tags": ["men gift", "father"s day gift", "tactical pen", "EDC gadget", "camping tool"],
+  "affiliate": "https://amzn.to/4eUrx2R",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "trendplain-glass-olive-oil-sprayer-16oz",
@@ -1330,8 +1330,8 @@ const products = [
   "short": "Healthy oil control sprayer for cooking, BBQ & air fryer use.",
   "description": "Upgrade your cooking routine with this sleek 2-in-1 glass olive oil sprayer. Designed for precision control, it lets you spray or pour oil evenly for air frying, salads, grilling, and everyday cooking. The modern black design fits perfectly in any kitchen aesthetic while helping reduce oil usage for a healthier lifestyle.",
   "tags": ["olive oil sprayer", "kitchen gadget", "air fryer accessory", "healthy cooking", "meal prep tools"],
-  "affiliate": "https://amzn.to/4tPA9wz"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4tPA9wz",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "pidinuk-magnetic-selfie-light-magsafe",
@@ -1340,12 +1340,12 @@ const products = [
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/61zvqZ9ZoYL._AC_SL1000_.jpg",
   "category": "gadgets",
-  "badge": "✨ Amazon's Choice",
+  "badge": "✨ Amazon"s Choice",
   "short": "Portable MagSafe selfie light for flawless photos & videos.",
   "description": "Level up your content instantly with this magnetic selfie light designed for MagSafe-compatible iPhones. Featuring rechargeable LED brightness, a built-in mirror, 5 adjustable color temperatures, and a foldable ring light design, it helps you capture clear, flattering photos and videos anywhere. Perfect for TikTok, Instagram, Zoom calls, makeup touch-ups, and on-the-go creators.",
   "tags": ["selfie light", "iphone accessory", "content creator", "ring light", "phone gadget"],
-  "affiliate": "https://amzn.to/3Ppiug5"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3Ppiug5",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "portable-mini-foldable-cleaning-mop",
@@ -1368,12 +1368,12 @@ const products = [
   "rating": 4.8,
   "image": "https://m.media-amazon.com/images/I/81QEYhLu80L._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "⌨️ Amazon's Choice",
+  "badge": "⌨️ Amazon"s Choice",
   "short": "Cute wireless mechanical keyboard for stylish desks & gaming.",
   "description": "Upgrade your desk setup with the YUNZII C75 wireless mechanical keyboard featuring an adorable cake-inspired design and premium typing feel. With Bluetooth, 2.4G, and USB-C connectivity, RGB lighting, hot-swappable switches, and soft MOA keycaps, it blends performance with personality. Perfect for gamers, students, creators, and anyone building a dreamy aesthetic workspace.",
   "tags": ["mechanical keyboard", "desk setup", "gaming keyboard", "cute tech", "wireless keyboard"],
-  "affiliate": "https://amzn.to/42Vvzkk"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/42Vvzkk",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "niasso-portable-travel-steamer-purple",
@@ -1382,12 +1382,12 @@ const products = [
   "rating": 4.4,
   "image": "https://m.media-amazon.com/images/I/71MLXfgxUGL._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "Amazon's Choice",
+  "badge": "Amazon"s Choice",
   "short": "Fast-heating handheld steamer for wrinkle-free clothes anywhere.",
   "description": "Stay polished at home or on the go with the NIASSO portable travel steamer. Featuring 1200W power, 10-second fast heat-up, 4 steam modes, LCD display, and a 180° swivel handle, it quickly removes wrinkles from clothes, curtains, and fabrics with ease. Compact yet powerful, it’s the perfect travel companion for vacations, business trips, dorms, and busy mornings.",
   "tags": ["travel steamer", "clothes steamer", "packing essentials", "home gadget", "wrinkle remover"],
-  "affiliate": "https://amzn.to/3P643xs"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/3P643xs",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "portable-rechargeable-window-glass-cleaner",
@@ -1400,8 +1400,8 @@ const products = [
   "short": "One-button glass cleaner for mirrors, cars & shiny surfaces.",
   "description": "Make cleaning faster and easier with this rechargeable automatic portable window glass cleaner. Designed with simple one-button operation, it helps remove dust, smudges, and streaks from mirrors, windows, car glass, shower doors, and other smooth surfaces. Compact, cordless, and easy to handle, it’s the smart gadget every modern home needs for effortless sparkle.",
   "tags": ["window cleaner", "cleaning gadget", "glass cleaner", "home hacks", "car accessory"],
-  "affiliate": "https://s.click.aliexpress.com/e/_c3Qj1Xwf"
-   btnText: "Shop on AliExpress →",
+  "affiliate": "https://s.click.aliexpress.com/e/_c3Qj1Xwf",
+   btnText: "Shop on AliExpress →"
 },
 {
   "id": "cheftick-touchless-digital-soap-dispenser",
@@ -1410,12 +1410,12 @@ const products = [
   "rating": 4.4,
   "image": "https://m.media-amazon.com/images/I/51Rew0iHpBL._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "🧼 Amazon's Choice",
+  "badge": "🧼 Amazon"s Choice",
   "short": "Smart touchless soap dispenser for cleaner, modern spaces.",
   "description": "Upgrade your sink area with this Cheftick automatic liquid soap dispenser featuring a digital display and 9 adjustable dispensing levels. Designed for touchless convenience, it helps reduce mess while adding a sleek modern look to bathrooms, kitchens, hotels, or offices. USB rechargeable and wall-mountable, it’s the perfect blend of hygiene, style, and everyday practicality.",
   "tags": ["soap dispenser", "bathroom upgrade", "kitchen gadget", "smart home", "touchless dispenser"],
-  "affiliate": "https://amzn.to/4eEpZdu"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4eEpZdu",
+   btnText: "Buy on Amazon →"
 },
 {
   "id": "bolonmi-wireless-induction-speaker-phone-stand",
@@ -1424,12 +1424,12 @@ const products = [
   "rating": 4.4,
   "image": "https://m.media-amazon.com/images/I/61q5A7-7J2L._AC_SL1500_.jpg",
   "category": "gadgets",
-  "badge": "🔊 Amazon's Choice",
+  "badge": "🔊 Amazon"s Choice",
   "short": "Portable speaker + phone stand with colorful mood lights.",
   "description": "Upgrade your entertainment setup with this BOLONMI wireless Bluetooth induction speaker featuring colorful lights, a built-in phone stand, and long-lasting 3500mAh battery power. Designed for music, videos, calls, and hands-free viewing, it’s compatible with iPhone, iPad, Android, and Samsung devices. Perfect for bedrooms, desks, dorm rooms, kitchens, and travel.",
   "tags": ["bluetooth speaker", "phone stand", "desk gadget", "portable speaker", "tech gift"],
-  "affiliate": "https://amzn.to/4whTTKM"
-   btnText: "Buy on Amazon →",
+  "affiliate": "https://amzn.to/4whTTKM",
+   btnText: "Buy on Amazon →"
 }
    
 ];
