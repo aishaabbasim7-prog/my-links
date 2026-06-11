@@ -15,7 +15,7 @@ const products = [
   "description": "Transform blank walls into designer-inspired focal points with this set of 8 handwoven boho wall baskets. Featuring natural rattan, wicker, seagrass textures, and macrame-inspired details, these decorative pieces add warmth, depth, and artisanal charm to living rooms, bedrooms, entryways, and apartments.",
   "tags": ["boho wall decor", "basket wall art", "rattan decor", "neutral home", "gallery wall"],
   "affiliate": "https://amzn.to/43ZZU1K",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "bambusi-personalized-bamboo-bath-caddy",
@@ -29,7 +29,7 @@ const products = [
   "description": "Turn bath time into a luxury experience with this personalized bamboo bath caddy. Designed with an expandable fit and custom engraving option, it provides space for books, candles, drinks, tablets, and self-care essentials while creating the ultimate at-home spa atmosphere.",
   "tags": ["bath caddy", "spa decor", "gift for mom", "bathroom luxury", "self care gifts"],
   "affiliate": "https://amzn.to/4dWu5Ne",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "all-fortune-cordless-rattan-table-lamps",
@@ -43,7 +43,7 @@ const products = [
   "description": "Add warm bohemian charm anywhere with these cordless rechargeable rattan table lamps. Their woven texture and soft lighting create a cozy atmosphere on patios, balconies, bedside tables, shelves, and living room spaces without the hassle of cords.",
   "tags": ["rattan lamp", "boho lighting", "outdoor decor", "bedside lamp", "cozy home"],
   "affiliate": "https://amzn.to/4argQSr"x,
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "vasagle-c-shaped-end-table-rustic-brown",
@@ -57,7 +57,7 @@ const products = [
   "description": "Designed to slide effortlessly beside sofas and beds, this VASAGLE C-shaped end table combines rustic wood tones with a sleek metal frame. Ideal for holding coffee, books, laptops, or decor accents, it adds both functionality and style to compact spaces.",
   "tags": ["side table", "small space furniture", "living room decor", "bedside table", "rustic furniture"],
   "affiliate": "https://amzn.to/3SdzhUo",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "qiyizm-amber-glass-pendant-light",
@@ -71,7 +71,7 @@ const products = [
   "description": "Create a warm designer look with this amber glass pendant light featuring a beautiful flower-inspired shade and gold accents. Perfect for kitchens, bedrooms, reading corners, apartments, and boho interiors, it delivers a cozy glow and timeless vintage appeal.",
   "tags": ["pendant light", "vintage lighting", "boho decor", "amber glass", "home lighting"],
   "affiliate": "https://amzn.to/3Sdz1oo",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "kimode-farmhouse-kitchen-mat-set",
@@ -85,7 +85,7 @@ const products = [
   "description": "Make cooking and cleaning more comfortable with this KIMODE farmhouse kitchen mat set. Featuring anti-fatigue cushioning, waterproof construction, and a non-slip design, these mats provide comfort and support while complementing modern farmhouse and cozy kitchen aesthetics.",
   "tags": ["kitchen mat", "farmhouse kitchen", "anti fatigue mat", "home essentials", "kitchen decor"],
   "affiliate": "https://amzn.to/3PPIp0U",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "aliwiner-blue-clam-shell-bowl",
@@ -99,7 +99,7 @@ const products = [
   "description": "Bring seaside elegance indoors with this decorative blue clam shell bowl. Perfect for styling coffee tables, bathroom counters, entryway consoles, and coastal-themed shelves, it adds a refreshing ocean-inspired touch while serving as a beautiful catchall for jewelry, keys, or decorative accents.",
   "tags": ["coastal decor", "shell bowl", "beach house decor", "nautical decor", "ocean inspired home"],
   "affiliate": "https://amzn.to/4exHmff",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   id: "p1",
@@ -113,7 +113,7 @@ const products = [
   description: "Elevate your home with these modern gold bird sculptures—perfect for styling shelves, coffee tables, or office desks. A minimalist yet luxurious accent that instantly makes your space feel designer-curated.",
   tags: ["gold decor", "bird figurine", "modern decor", "luxury home"],
   affiliate: "https://amzn.to/4tZ44BX",
-  btnText: "Buy on Amazon →"
+  "btnText": "Buy on Amazon →"
 },
 {
   "id": "onebeat-led-desk-lamp-power-strip",
@@ -127,7 +127,7 @@ const products = [
   "description": "Upgrade your workspace with this multifunctional One Beat LED desk lamp featuring 3 outlets, 4 USB ports, touch controls, adjustable brightness levels, and multiple lighting modes. Ideal for home offices, dorm rooms, study desks, and bedside tables, it combines lighting and charging in one sleek solution.",
   "tags": ["desk lamp", "home office", "study essentials", "college dorm", "workspace organization"],
   "affiliate": "https://amzn.to/3Sqre6F",
-   btnText: "Buy on Amazon →"
+   "btnText": "Buy on Amazon →"
 },
 {
   "id": "cethom-boho-striped-pillow-covers-set",
