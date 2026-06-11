@@ -119,7 +119,7 @@ const stars = `
     <div class="price">${product.price}</div>
 
     <a class="btn" href="${product.affiliate || '#'}" target="_blank">
-      🛒 Buy on Amazon →
+      🛒 ${product.btnText || 'Shop Now →'}
     </a>
     <p style="margin-top:16px;">${product.short || product.description || ""}</p>
     <ul>
