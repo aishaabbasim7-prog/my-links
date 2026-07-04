@@ -100,7 +100,7 @@ const products = [
   "tags": ["nesting tables", "coffee table", "living room decor", "botanical decor", "modern furniture"],
   "affiliate": "https://amzn.to/3QSHiOq",
   "btnText": "Buy on Amazon →"
-}
+},
 {
   "id": "homespice-cookie-dough-brown-jute-rug",
   "title": "Homespice Cookie Dough Brown Jute Rug 20x30",
