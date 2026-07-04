@@ -4,6 +4,104 @@ const products = [
    🛋️ HOME DECOR
 ========================= */
 {
+  "id": "peryiter-gold-wall-planters-pampas-set",
+  "title": "Peryiter Gold Wall Hanging Planters with Pampas Decor Set of 2",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71CJqVPaW6L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Modern gold wall planters with pampas accents for elegant boho homes.",
+  "description": "Elevate your walls with these geometric gold hanging planters featuring soft artificial pampas grass. Perfect for living rooms, bedrooms, bathrooms, and entryways, they add texture, warmth, and a designer-inspired boho touch without taking up floor space.",
+  "tags": ["wall decor", "gold wall art", "boho decor", "pampas decor", "modern home"],
+  "affiliate": "https://amzn.to/4wtHsuP"
+  "btnText": "Buy on Amazon →"
+},
+{
+  "id": "yangqihome-round-woven-placemats-set",
+  "title": "YANGQIHOME Round Woven Placemats Set of 6",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81m6WO8X2rL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌿 Amazon's Choice",
+  "short": "Natural woven placemats for farmhouse and organic-modern tablescapes.",
+  "description": "Bring warmth and texture to your dining table with these handwoven water hyacinth placemats. Their natural braided design creates an inviting atmosphere for everyday meals, holiday gatherings, and special occasions while complementing farmhouse, coastal, and boho interiors.",
+  "tags": ["placemats", "table decor", "farmhouse decor", "dining room", "natural home"],
+  "affiliate": "https://amzn.to/4eTQg5N"
+  "btnText": "Buy on Amazon →"
+},
+{
+  "id": "vasagle-maezo-round-side-table-honey-brown",
+  "title": "VASAGLE MAEZO 2-Tier Round Side Table",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71zuqWTc7jL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🏡 Small Space Favorite",
+  "short": "Elegant 2-tier side table for stylish and functional small spaces.",
+  "description": "Featuring a beautiful honey-brown finish, tapered legs, and a lower storage shelf, this MAEZO side table adds both warmth and practicality to living rooms, bedrooms, and apartments. Perfect for displaying decor, books, candles, or your morning coffee.",
+  "tags": ["side table", "small space furniture", "nightstand", "living room decor", "modern furniture"],
+  "affiliate": "https://amzn.to/4v5L5pr"
+  "btnText": "Buy on Amazon →"
+},
+{
+  "id": "furnimart-velvet-shell-vanity-chair-khaki",
+  "title": "Furnimart Velvet Shell Vanity Chair with Gold Legs",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61b6+n2DvOL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "💄 Amazon's Choice",
+  "short": "Luxury velvet shell chair for elegant vanity and bedroom spaces.",
+  "description": "Transform your beauty corner with this chic velvet shell accent chair featuring soft khaki upholstery and glamorous gold legs. Its sculptural silhouette instantly elevates vanities, dressing rooms, bedrooms, and office corners with a boutique-inspired look.",
+  "tags": ["vanity chair", "accent chair", "bedroom decor", "luxury furniture", "gold decor"],
+  "affiliate": "https://amzn.to/4b96WVT"
+  "btnText": "Buy on Amazon →"
+},
+{
+  "id": "der-rose-artificial-succulents-set",
+  "title": "Der Rose Artificial Succulent Plants Set of 2",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71Ie23Ty9nL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌱 Desk Favorite",
+  "short": "Realistic faux succulents for easy greenery anywhere.",
+  "description": "Bring fresh greenery into your space without maintenance. These artificial succulent plants are perfect for office desks, shelves, bathrooms, dorms, and coffee tables, adding a calming natural touch to any room.",
+  "tags": ["fake plants", "succulents", "desk decor", "minimalist decor", "office decor"],
+  "affiliate": "https://amzn.to/4vRBAM2"
+  "btnText": "Buy on Amazon →"
+},
+{
+  "id": "lccck-blue-gold-ceramic-donut-vase",
+  "title": "LCCCK Blue & Gold Ceramic Donut Vase",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71hX0yFbweL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "💙 Amazon's Choice",
+  "short": "Modern navy and gold donut vase for luxurious shelf styling.",
+  "description": "This sculptural ceramic vase combines rich navy blue with elegant gold accents to create a stunning decorative piece. Perfect for pampas grass, dried flowers, or standalone styling on shelves, coffee tables, and consoles.",
+  "tags": ["ceramic vase", "blue decor", "gold decor", "pampas vase", "modern home"],
+  "affiliate": "https://amzn.to/4vhmD4P"
+  "btnText": "Buy on Amazon →"
+},
+{
+  "id": "bameos-monstera-nesting-tables-set",
+  "title": "BAMEOS Monstera Leaf Nesting Tables Set of 2",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/91y+-PAsg-L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🍃 Nature-Inspired Favorite",
+  "short": "Stylish nesting tables with beautiful monstera leaf details.",
+  "description": "Bring organic elegance into your home with these modern nesting tables featuring unique leaf-vein patterns. Their versatile design works beautifully in living rooms, bedrooms, balconies, and apartments, offering extra surface space while adding botanical charm.",
+  "tags": ["nesting tables", "coffee table", "living room decor", "botanical decor", "modern furniture"],
+  "affiliate": "https://amzn.to/3QSHiOq"
+  "btnText": "Buy on Amazon →"
+},
+{
   "id": "homespice-cookie-dough-brown-jute-rug",
   "title": "Homespice Cookie Dough Brown Jute Rug 20x30",
   "price": "Check Latest Price on Amazon",
