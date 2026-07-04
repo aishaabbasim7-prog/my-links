@@ -14,7 +14,7 @@ const products = [
   "short": "Modern gold wall planters with pampas accents for elegant boho homes.",
   "description": "Elevate your walls with these geometric gold hanging planters featuring soft artificial pampas grass. Perfect for living rooms, bedrooms, bathrooms, and entryways, they add texture, warmth, and a designer-inspired boho touch without taking up floor space.",
   "tags": ["wall decor", "gold wall art", "boho decor", "pampas decor", "modern home"],
-  "affiliate": "https://amzn.to/4wtHsuP"
+  "affiliate": "https://amzn.to/4wtHsuP",
   "btnText": "Buy on Amazon →"
 },
 {
@@ -28,7 +28,7 @@ const products = [
   "short": "Natural woven placemats for farmhouse and organic-modern tablescapes.",
   "description": "Bring warmth and texture to your dining table with these handwoven water hyacinth placemats. Their natural braided design creates an inviting atmosphere for everyday meals, holiday gatherings, and special occasions while complementing farmhouse, coastal, and boho interiors.",
   "tags": ["placemats", "table decor", "farmhouse decor", "dining room", "natural home"],
-  "affiliate": "https://amzn.to/4eTQg5N"
+  "affiliate": "https://amzn.to/4eTQg5N",
   "btnText": "Buy on Amazon →"
 },
 {
@@ -42,7 +42,7 @@ const products = [
   "short": "Elegant 2-tier side table for stylish and functional small spaces.",
   "description": "Featuring a beautiful honey-brown finish, tapered legs, and a lower storage shelf, this MAEZO side table adds both warmth and practicality to living rooms, bedrooms, and apartments. Perfect for displaying decor, books, candles, or your morning coffee.",
   "tags": ["side table", "small space furniture", "nightstand", "living room decor", "modern furniture"],
-  "affiliate": "https://amzn.to/4v5L5pr"
+  "affiliate": "https://amzn.to/4v5L5pr",
   "btnText": "Buy on Amazon →"
 },
 {
@@ -56,7 +56,7 @@ const products = [
   "short": "Luxury velvet shell chair for elegant vanity and bedroom spaces.",
   "description": "Transform your beauty corner with this chic velvet shell accent chair featuring soft khaki upholstery and glamorous gold legs. Its sculptural silhouette instantly elevates vanities, dressing rooms, bedrooms, and office corners with a boutique-inspired look.",
   "tags": ["vanity chair", "accent chair", "bedroom decor", "luxury furniture", "gold decor"],
-  "affiliate": "https://amzn.to/4b96WVT"
+  "affiliate": "https://amzn.to/4b96WVT",
   "btnText": "Buy on Amazon →"
 },
 {
@@ -70,7 +70,7 @@ const products = [
   "short": "Realistic faux succulents for easy greenery anywhere.",
   "description": "Bring fresh greenery into your space without maintenance. These artificial succulent plants are perfect for office desks, shelves, bathrooms, dorms, and coffee tables, adding a calming natural touch to any room.",
   "tags": ["fake plants", "succulents", "desk decor", "minimalist decor", "office decor"],
-  "affiliate": "https://amzn.to/4vRBAM2"
+  "affiliate": "https://amzn.to/4vRBAM2",
   "btnText": "Buy on Amazon →"
 },
 {
@@ -84,7 +84,7 @@ const products = [
   "short": "Modern navy and gold donut vase for luxurious shelf styling.",
   "description": "This sculptural ceramic vase combines rich navy blue with elegant gold accents to create a stunning decorative piece. Perfect for pampas grass, dried flowers, or standalone styling on shelves, coffee tables, and consoles.",
   "tags": ["ceramic vase", "blue decor", "gold decor", "pampas vase", "modern home"],
-  "affiliate": "https://amzn.to/4vhmD4P"
+  "affiliate": "https://amzn.to/4vhmD4P",
   "btnText": "Buy on Amazon →"
 },
 {
@@ -98,9 +98,9 @@ const products = [
   "short": "Stylish nesting tables with beautiful monstera leaf details.",
   "description": "Bring organic elegance into your home with these modern nesting tables featuring unique leaf-vein patterns. Their versatile design works beautifully in living rooms, bedrooms, balconies, and apartments, offering extra surface space while adding botanical charm.",
   "tags": ["nesting tables", "coffee table", "living room decor", "botanical decor", "modern furniture"],
-  "affiliate": "https://amzn.to/3QSHiOq"
+  "affiliate": "https://amzn.to/3QSHiOq",
   "btnText": "Buy on Amazon →"
-},
+}
 {
   "id": "homespice-cookie-dough-brown-jute-rug",
   "title": "Homespice Cookie Dough Brown Jute Rug 20x30",
