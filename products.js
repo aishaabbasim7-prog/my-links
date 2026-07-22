@@ -14,7 +14,7 @@ const products = [
     "short": "Oversized plush pink reading chair with matching ottoman and side pocket.",
     "description": "Create the ultimate cozy reading corner with this oversized plush accent chair and ottoman. Featuring padded armrests, a convenient side pocket, and modern styling, it's perfect for bedrooms, living rooms, studies, apartments, and relaxation spaces.",
     "tags": ["accent chair", "reading chair", "pink chair", "modern furniture", "bedroom decor"],
-    "affiliate": "https://m.media-amazon.com/images/I/71fICYQoMpL._AC_SL1500_.jpg",
+    "affiliate": "https://amzn.to/4wbUMnD",
     "btnText": "Buy on Amazon →"
   },
   {
