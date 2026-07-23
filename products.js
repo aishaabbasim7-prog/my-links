@@ -5,6 +5,62 @@ const products = [
 ========================= */
  
   {
+    "id": "bedsure gentleSoft-beige-throw-blanket-rust",
+    "title": "Bedsure GentleSoft Beige Throw Blanke, 50x60 Inches",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/81fwAi33OeL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "🏆 Bestseller",
+    "short": "Ultra-soft chenille knit throw blanket with decorative fringe tassels.",
+    "description": "Wrap your home in warmth and texture with this luxurious chenille throw blanket. Featuring a soft knitted finish and elegant fringe tassels, it's perfect for draping over sofas, accent chairs, or beds to create a cozy, designer-inspired living space.",
+    "tags": ["throw blanket", "chenille blanket", "cozy decor", "living room decor", "boho home"],
+    "affiliate": "https://amzn.to/4yD01OX",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "paige-mcrae-decorative-linen-books",
+    "title": "Paige McRae Decorative Linen Faux Books Set of 2",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.9,
+    "image": "https://m.media-amazon.com/images/I/81Tik6wbTSL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "decor",
+    "badge": "🔥 Trending",
+    "short": "Neutral decorative faux books with hidden storage for stylish displays.",
+    "description": "Elevate your coffee table, shelves, or console with these elegant linen decorative books. Designed with hidden storage inside, they combine beautiful styling with practical functionality, making them a favorite for modern, minimalist, and farmhouse interiors.",
+    "tags": ["decorative books", "coffee table decor", "bookshelf styling", "neutral decor", "modern home"],
+    "affiliate": "https://amzn.to/4gN2sIi",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "oakoa-round-decorative-coffee-table-tray",
+    "title": "OAKOA Round Decorative Coffee Table Tray",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.8,
+    "image": "https://m.media-amazon.com/images/I/711YKI2MtUL._AC_SL1254_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Minimalist round decorative tray for elegant coffee table styling.",
+    "description": "Create a professionally styled centerpiece with this modern round decorative tray. Perfect for displaying candles, vases, books, and seasonal décor, it instantly adds balance and sophistication to coffee tables, consoles, and dining spaces.",
+    "tags": ["decorative tray", "coffee table decor", "centerpiece", "modern decor", "minimalist home"],
+    "affiliate": "https://amzn.to/4fqnjPb",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "girimax-swirl-flameless-led-candles",
+    "title": "Girimax Cream White Swirl Flameless LED Candles Set of 2",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/71xYAbvS3zL._AC_SX342_SY445_QL70_FMwebp_.jpg",
+    "category": "decor",
+    "badge": "✨ Cozy Pick",
+    "short": "Real wax flameless candles with remote control and flickering glow.",
+    "description": "Enjoy the warm ambiance of candlelight without the mess or open flame. These elegant swirl flameless candles feature a realistic wax coating, lifelike flickering LED flame, remote control, and timer function—perfect for shelves, coffee tables, bedrooms, and cozy living spaces.",
+    "tags": ["LED candles", "flameless candles", "home decor", "cozy lighting", "coffee table decor"],
+    "affiliate": "https://amzn.to/4bsSatx",
+    "btnText": "Buy on Amazon →"
+  },
+  {
     "id": "lomanto-artificial-olive-tree-6ft",
     "title": "LOMANTO 6 ft Artificial Olive Tree with White Planter",
     "price": "Check Latest Price on Amazon",
