@@ -5,6 +5,62 @@ const products = [
 ========================= */
  
   {
+    "id": "lomanto-artificial-olive-tree-6ft",
+    "title": "LOMANTO 6 ft Artificial Olive Tree with White Planter",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/61cUuYGXmWL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "🌿 Bestseller",
+    "short": "Realistic faux olive tree with elegant white planter for timeless interiors.",
+    "description": "Bring natural beauty into your home without the maintenance. This lifelike 6-foot artificial olive tree features realistic silk leaves, detailed branches, and a modern white planter, making it a perfect statement piece for living rooms, bedrooms, entryways, and offices.",
+    "tags": ["artificial olive tree", "faux plant", "olive tree", "living room decor", "modern home"],
+    "affiliate": "https://amzn.to/4vLHj4W",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "tinctotnic-ceramic-vase-set-white",
+    "title": "TINCTOTNIC Nordic Ceramic Vase Set of 3",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.7,
+    "image": "https://m.media-amazon.com/images/I/61hMrrJAkkL._AC_SL1157_.jpg",
+    "category": "decor",
+    "badge": "✨ Modern Pick",
+    "short": "Minimalist white ceramic vase set for modern farmhouse styling.",
+    "description": "Style shelves, coffee tables, consoles, or dining tables with this elegant set of three ceramic vases. Featuring clean Nordic-inspired lines and a timeless matte finish, they pair beautifully with pampas grass, dried florals, or fresh stems.",
+    "tags": ["ceramic vase", "modern vase", "farmhouse decor", "coffee table decor", "minimalist home"],
+    "affiliate": "https://amzn.to/44Jl84A",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "miulee-chenille-throw-pillow-covers",
+    "title": "MIULEE Chenille Throw Pillow Covers Set of 4",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/81LX00vRjRL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Soft chenille pillow covers in warm neutral farmhouse colors.",
+    "description": "Instantly refresh your sofa or bed with these textured chenille pillow covers. Featuring cozy beige, taupe, and brown tones, they blend seamlessly into modern, boho, Scandinavian, and farmhouse interiors while adding warmth and depth.",
+    "tags": ["pillow covers", "throw pillows", "boho decor", "farmhouse decor", "living room decor"],
+    "affiliate": "https://amzn.to/4bbJVBU",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "utopia-bedding-throw-pillows-set",
+    "title": "Utopia Bedding Decorative Throw Pillows Set of 4",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.7,
+    "image": "https://m.media-amazon.com/images/I/715BTRR6epL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Fluffy decorative pillow inserts for sofas, beds, and accent chairs.",
+    "description": "Complete your decorative pillow arrangement with this premium set of four down-alternative inserts. Soft, supportive, and long-lasting, they're designed to provide a full, plush look for couches, beds, benches, and accent chairs.",
+    "tags": ["throw pillows", "pillow inserts", "home essentials", "living room decor", "bedroom decor"],
+    "affiliate": "https://amzn.to/4ba2jem",
+    "btnText": "Buy on Amazon →"
+  },
+  {
     "id": "goebleson-floor-lamp-with-shelves",
     "title": "GOEBLESON 70.9\" Floor Lamp with Shelves and 3 Linen Shades",
     "price": "Check Latest Price on Amazon",
