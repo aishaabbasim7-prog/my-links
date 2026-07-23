@@ -3,7 +3,64 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
+ 
+ {
+    "id": "welzona-modular-cloud-sectional-sofa",
+    "title": "Welzona 103\" Modular Sectional Cloud Sofa with Ottoman",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.7,
+    "image": "https://m.media-amazon.com/images/I/71efUHVlWZL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "🔥 Trending",
+    "short": "Minimalist cloud sectional sofa with deep seating and matching ottoman.",
+    "description": "Transform your living room with this spacious modular cloud sectional featuring ultra-comfortable 22-inch deep chenille seats, a sturdy wood frame, and tool-free assembly. Its modern minimalist design creates a cozy, designer-inspired space perfect for relaxing, entertaining, or everyday family living.",
+    "tags": ["sectional sofa", "cloud couch", "living room furniture", "minimalist sofa", "modern home"],
+    "affiliate": "https://amzn.to/4wupsR6",
+    "btnText": "Buy on Amazon →"
+  },
   {
+    "id": "ifget-modern-coffee-table-natural-oak",
+    "title": "IFGET 48\" Modern Coffee Table with Storage Shelf",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.4,
+    "image": "https://m.media-amazon.com/images/I/715plE7FLIL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Modern Pick",
+    "short": "Minimalist oak coffee table with open storage shelf.",
+    "description": "Complete your living room with this elegant two-tier coffee table featuring a beautiful curved silhouette and spacious storage shelf. The natural oak finish blends effortlessly with Scandinavian, Japandi, and modern interiors while providing practical everyday storage.",
+    "tags": ["coffee table", "oak furniture", "living room table", "modern decor", "minimalist furniture"],
+    "affiliate": "https://amzn.to/4fuytTb",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "mopio-ensley-mid-century-tv-stand",
+    "title": "mopio Ensley Mid-Century Modern TV Stand",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/71DDMpA-HGL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "🏆 Bestseller",
+    "short": "Oak TV stand with slatted doors and hidden storage.",
+    "description": "Bring timeless mid-century style to your entertainment space with this elegant TV stand featuring slatted cabinet doors, adjustable shelves, rounded edges, and generous storage. Designed to beautifully organize media accessories while complementing modern and farmhouse interiors.",
+    "tags": ["tv stand", "media console", "mid century modern", "living room furniture", "oak furniture"],
+    "affiliate": "https://amzn.to/3Ra7cgR",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "vknow-cream-barrel-accent-chair",
+    "title": "VKNOW Modern Upholstered Barrel Accent Chair",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.9,
+    "image": "https://m.media-amazon.com/images/I/81yA7bUq3HL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "⭐ Top Rated",
+    "short": "Elegant cream barrel chair with solid wood legs.",
+    "description": "Create a warm and inviting reading corner with this beautifully upholstered barrel accent chair. Featuring supportive cushioning, sturdy solid wood legs, and a timeless cream finish, it effortlessly complements modern, minimalist, and farmhouse interiors.",
+    "tags": ["accent chair", "barrel chair", "cream chair", "living room furniture", "reading chair"],
+    "affiliate": "https://amzn.to/45i5BbV",
+    "btnText": "Buy on Amazon →"
+ },
+ {
     "id": "furlide-lazy-chair-ottoman-pink",
     "title": "Furlide Lazy Chair with Ottoman, Modern Plush Pink Accent Chair",
     "price": "Check Latest Price on Amazon",
