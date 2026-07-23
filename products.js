@@ -3,7 +3,26 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
- 
+ {
+  "id": "nordic-modern-led-pendant-light-cream",
+  "title": "Nordic Modern LED Pendant Light Cream Hanging Lamp",
+  "price": "Check Latest Price",
+  "rating": 4.9,
+  "image": "https://ae-pic-a1.aliexpress-media.com/kf/S7a18a8b543494ae9ad4f4a9cb5d7e0ebL.jpg_220x220q75.jpg_.avif",
+  "category": "decor",
+  "badge": "✨ Trending",
+  "short": "Elegant cream Nordic pendant light for warm, modern interiors.",
+  "description": "Elevate your space with this minimalist Nordic LED pendant light featuring a soft cream finish and contemporary silhouette. Perfect for bedrooms, living rooms, dining areas, bedside lighting, and cozy reading nooks, it creates a warm ambient glow while adding timeless Scandinavian style to any interior.",
+  "tags": [
+    "pendant light",
+    "nordic lighting",
+    "modern lighting",
+    "cream pendant lamp",
+    "scandinavian decor"
+  ],
+  "affiliate": "https://s.click.aliexpress.com/e/_c3QafKb5",
+  "btnText": "Shop on AliExpress →"
+  },
   {
     "id": "bedsure gentleSoft-beige-throw-blanket-rust",
     "title": "Bedsure GentleSoft Beige Throw Blanke, 50x60 Inches",
