@@ -4,7 +4,63 @@ const products = [
    🛋️ HOME DECOR
 ========================= */
  
- {
+  {
+    "id": "goebleson-floor-lamp-with-shelves",
+    "title": "GOEBLESON 70.9\" Floor Lamp with Shelves and 3 Linen Shades",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/71g9T1uKHDL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "🔥 Bestseller",
+    "short": "Modern floor lamp with built-in shelves for stylish lighting and storage.",
+    "description": "Brighten your home while maximizing storage with this multifunctional floor lamp. Featuring three linen shades, built-in display shelves, and a convenient foot switch, it's perfect for showcasing books, plants, candles, or décor in living rooms, bedrooms, and home offices.",
+    "tags": ["floor lamp", "living room lighting", "shelf lamp", "modern lighting", "home decor"],
+    "affiliate": "https://amzn.to/3RnOuSX",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "kakanuo-usb-bedside-table-lamp",
+    "title": "Kakanuo Bedside Table Lamp with USB-A & USB-C Charging Ports",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/81cFF-m+apL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Traditional bedside lamp with built-in USB charging ports.",
+    "description": "Keep your bedroom organized and your devices fully charged with this elegant bedside lamp. Featuring both USB-A and USB-C charging ports, it combines classic design with modern convenience, making it perfect for bedrooms, guest rooms, and living spaces.",
+    "tags": ["table lamp", "bedside lamp", "USB lamp", "living room lighting", "bedroom decor"],
+    "affiliate": "https://amzn.to/4pysbGR",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "tide-and-tales-3d-wooden-floral-wall-decor",
+    "title": "Tide and Tales 3D Wooden Floral Wall Decor Set of 4",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.7,
+    "image": "https://m.media-amazon.com/images/I/81Zgn5eG-5L._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Premium framed wooden floral wall art for modern boho interiors.",
+    "description": "Add warmth, texture, and artisan charm to your walls with this beautifully crafted set of four wooden floral artworks. Lightweight, ready to hang, and gift-boxed, they effortlessly elevate living rooms, bedrooms, offices, and entryways.",
+    "tags": ["wall decor", "wood wall art", "boho decor", "botanical wall art", "farmhouse decor"],
+    "affiliate": "https://amzn.to/44LF6LR",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "xoguibo-boho-blackout-curtains-84-inch",
+    "title": "XOGUIBO Boho Blackout Curtains 84 Inch Set of 2",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/81a9cu+vPGL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Beige linen-look blackout curtains with tassels and embroidered boho details.",
+    "description": "Refresh your home with these elegant blackout curtains featuring textured linen fabric, decorative tassels, and delicate cotton embroidery. Designed to block light while adding cozy farmhouse and boho charm to living rooms and bedrooms.",
+    "tags": ["blackout curtains", "boho curtains", "farmhouse decor", "window treatments", "living room decor"],
+    "affiliate": "https://amzn.to/4pKzc7p",
+    "btnText": "Buy on Amazon →"
+  },
+  {
     "id": "welzona-modular-cloud-sectional-sofa",
     "title": "Welzona 103\" Modular Sectional Cloud Sofa with Ottoman",
     "price": "Check Latest Price on Amazon",
