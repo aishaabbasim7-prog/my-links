@@ -3,7 +3,177 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
- 
+  
+  {
+    "id": "miulee-corduroy-throw-pillow-covers-brown",
+    "title": "MIULEE Corduroy Decorative Throw Pillow Covers Set of 4",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/81FeeBD2GZL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Soft brown corduroy pillow covers for cozy farmhouse and boho spaces.",
+    "description": "Refresh your sofa or bed with this elegant set of four corduroy throw pillow covers. Featuring a soft striped texture and warm neutral brown tones, they effortlessly complement farmhouse, boho, Scandinavian, and modern interiors while adding comfort and timeless style.",
+    "tags": ["pillow covers", "corduroy pillows", "boho decor", "farmhouse decor", "living room decor"],
+    "affiliate": "https://amzn.to/4yON1pD",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "exq-home-fleece-throw-blanket-beige",
+    "title": "EXQ Home Fleece Throw Blanket Beige 50 x 60",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/813Xn4eqjvL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Ultra-soft fleece throw blanket with elegant turtle shell jacquard texture.",
+    "description": "Add warmth and texture to your home with this plush fleece throw blanket. Featuring a luxurious 3D turtle shell jacquard pattern, it's lightweight, cozy, and perfect for sofas, beds, reading nooks, or relaxing evenings all year round.",
+    "tags": ["throw blanket", "fleece blanket", "cozy home", "living room decor", "bedroom decor"],
+    "affiliate": "https://amzn.to/4wvqGf7",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "qeeig-floating-wall-shelves-rustic-brown",
+    "title": "QEEIG Floating Wall Shelves Set of 2 Rustic Brown",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/814Jp-czaOL._AC_SL1500_.jpg",
+    "category": "storage",
+    "badge": "✨ Amazon's Choice",
+    "short": "Rustic floating shelves for stylish storage and decorative displays.",
+    "description": "Maximize wall space with this farmhouse-inspired floating shelf set. Ideal for bathrooms, living rooms, kitchens, and bedrooms, these sturdy shelves beautifully display plants, books, candles, and decorative accents while keeping your home organized.",
+    "tags": ["floating shelves", "wall shelves", "farmhouse decor", "bathroom storage", "rustic home"],
+    "affiliate": "https://amzn.to/4fRnYtl",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "uttcmk-reading-thinker-statue-beige",
+    "title": "UTTCMK Abstract Reading Thinker Statue Beige",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/61OVQe73t1L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Minimalist abstract thinker sculpture for modern shelf styling.",
+    "description": "Bring artistic sophistication to your home with this abstract reading thinker figurine. Its elegant beige finish and contemporary silhouette make it a perfect accent for bookshelves, coffee tables, office desks, consoles, and modern living spaces.",
+    "tags": ["thinker statue", "abstract sculpture", "bookshelf decor", "modern decor", "coffee table decor"],
+    "affiliate": "https://amzn.to/4wt3yxM",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "whonline-fake-hanging-plant",
+    "title": "Whonline Artificial Hanging Plant in Decorative Pot",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.2,
+    "image": "https://m.media-amazon.com/images/I/715DqNY9egL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "decor",
+    "badge": "🌿 Best Value",
+    "short": "Realistic faux hanging plant for effortless greenery indoors or outdoors.",
+    "description": "Add a refreshing touch of greenery without maintenance using this realistic artificial hanging plant. Perfect for shelves, offices, bathrooms, balconies, kitchens, and living rooms, it instantly creates a vibrant, welcoming atmosphere year-round.",
+    "tags": ["artificial plant", "fake hanging plant", "green decor", "office decor", "living room decor"],
+    "affiliate": "https://amzn.to/3TBpng4",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "cucumi-ceramic-vase-set-neutral",
+    "title": "CUCUMI Ceramic Vase Set of 5 Neutral Farmhouse Decor",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.8,
+    "image": "https://m.media-amazon.com/images/I/71Ih2GzSFcL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Handmade ceramic vase set in neutral tones for elegant home styling.",
+    "description": "Elevate your shelves, coffee tables, and entryways with this handcrafted set of five ceramic vases. Featuring soft neutral tones and timeless farmhouse charm, they're perfect for displaying pampas grass, dried flowers, or fresh blooms in modern, boho, and Scandinavian interiors.",
+    "tags": [
+      "ceramic vase",
+      "vase set",
+      "farmhouse decor",
+      "pampas grass vase",
+      "neutral home decor"
+    ],
+    "affiliate": "https://amzn.to/4w45FHr",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "la-jolie-muse-coconut-vanilla-candle",
+    "title": "LA JOLIE MUSE Island Coconut Vanilla Soy Candle",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/71U7iIZNj5L._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Luxury coconut vanilla scented soy candle with elegant decorative jar.",
+    "description": "Fill your home with the warm tropical fragrance of coconut and vanilla using this premium soy candle. Housed in a stylish decorative jar, it offers up to 40 hours of clean-burning ambiance, making it perfect for relaxing evenings, coffee table styling, or thoughtful gifting.",
+    "tags": [
+      "scented candle",
+      "soy candle",
+      "luxury candle",
+      "home fragrance",
+      "coffee table decor"
+    ],
+    "affiliate": "https://amzn.to/4fHUYpb",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "mxart-boho-sage-green-wall-art",
+    "title": "mxart Boho Sage Green Botanical Wall Art Set of 3",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.7,
+    "image": "https://m.media-amazon.com/images/I/81Gm8ENbcuL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Framed botanical canvas wall art with calming sage green tones.",
+    "description": "Refresh your walls with this elegant three-piece botanical canvas art set. Featuring minimalist leaf illustrations in sage green, beige, and gold accents, it's the perfect statement décor for living rooms, dining rooms, bedrooms, and home offices.",
+    "tags": [
+      "wall art",
+      "botanical decor",
+      "sage green decor",
+      "canvas art",
+      "boho wall decor"
+    ],
+    "affiliate": "https://amzn.to/4yU94et",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "ambimall-modern-floor-lamp-gold-black",
+    "title": "Ambimall 60\" Modern Floor Lamp with Fabric Shade",
+    "price": "Check Latest Price on Amazon",
+    "rating": 5.0,
+    "image": "https://m.media-amazon.com/images/I/71IdUF2IUAL._AC_SL1500_.jpg",
+    "category": "lighting",
+    "badge": "🏆 #1 Best Seller",
+    "short": "Modern gold and black floor lamp with elegant fabric shade.",
+    "description": "Bring contemporary elegance to your home with this stylish floor lamp featuring a sleek gold and black finish paired with a soft fabric shade. Ideal for living rooms, bedrooms, offices, and reading corners, it provides warm ambient lighting that complements modern interiors.",
+    "tags": [
+      "floor lamp",
+      "modern lighting",
+      "living room lamp",
+      "gold floor lamp",
+      "bedroom lighting"
+    ],
+    "affiliate": "https://amzn.to/4ySWSdS",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "chi-an-home-boho-wall-basket-set",
+    "title": "Chi An Home Boho Wicker Wall Basket Decor Set of 3",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/91Mm-daFNZL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "🌿 Artisan Pick",
+    "short": "Oversized woven wall baskets for beautiful coastal and boho interiors.",
+    "description": "Create a stunning feature wall with this handcrafted set of oversized water hyacinth baskets. Designed in natural woven textures, these statement pieces add warmth, depth, and artisan character to living rooms, bedrooms, entryways, and gallery walls.",
+    "tags": [
+      "wall basket decor",
+      "boho wall decor",
+      "woven baskets",
+      "coastal decor",
+      "natural wall art"
+    ],
+    "affiliate": "https://amzn.to/4pP3JRs",
+    "btnText": "Buy on Amazon →"
+  },
   {
     "id": "lomohoo-moon-sun-dream-catchers-set",
     "title": "LOMOHOO Moon Sun Dream Catchers Macrame Wall Hanging Set of 5",
