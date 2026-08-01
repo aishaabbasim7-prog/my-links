@@ -3,6 +3,47 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
+ 
+  {
+    "id": "lomohoo-moon-sun-dream-catchers-set",
+    "title": "LOMOHOO Moon Sun Dream Catchers Macrame Wall Hanging Set of 5",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.8,
+    "image": "https://m.media-amazon.com/images/I/81RvCDQXq5L._AC_SX679_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Handmade moon and sun macrame dream catcher set for beautiful boho walls.",
+    "description": "Transform blank walls into a cozy bohemian retreat with this handcrafted set of five moon and sun dream catchers. Featuring intricate macrame weaving, soft feathers, and celestial-inspired designs, they're perfect for bedrooms, nurseries, dorm rooms, living rooms, and gallery walls.",
+    "tags": [
+      "macrame wall decor",
+      "dream catcher",
+      "boho wall hanging",
+      "moon decor",
+      "bedroom decor"
+    ],
+    "affiliate": "https://amzn.to/4vZciKQ",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "yizzwtc-female-body-ceramic-vase",
+    "title": "Yizzwtc Female Body Ceramic Vase Matte White",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/510J2abmD-L._AC_SX679_.jpg",
+    "category": "decor",
+    "badge": "✨ Minimalist Pick",
+    "short": "Modern matte white body vase inspired by elegant sculptural art.",
+    "description": "Add an artistic touch to your home with this minimalist ceramic body vase. Featuring a smooth matte white finish and sculptural silhouette, it's perfect for displaying dried flowers, pampas grass, or standing alone as a statement piece on coffee tables, shelves, consoles, and bedside tables.",
+    "tags": [
+      "body vase",
+      "ceramic vase",
+      "minimalist decor",
+      "modern home decor",
+      "coffee table decor"
+    ],
+    "affiliate": "https://amzn.to/451bOcq",
+    "btnText": "Buy on Amazon →"
+ },
  {
   "id": "nordic-modern-led-pendant-light-cream",
   "title": "Nordic Modern LED Pendant Light Cream Hanging Lamp",
