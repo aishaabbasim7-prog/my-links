@@ -156,6 +156,18 @@ footer{
 </head>
 
 <body>
+    <div style="padding:15px 25px;background:#f3f4f6;">
+    <a href="index.html"
+       style="
+       background:#131921;
+       color:white;
+       padding:10px 18px;
+       border-radius:8px;
+       text-decoration:none;
+       font-weight:bold;">
+       ← Back to Store
+    </a>
+</div>
 
 <div class="header">
 
@@ -166,14 +178,40 @@ footer{
 </div>
 
 <div class="container">
+    <div style="
+background:#fff;
+padding:20px;
+border-radius:12px;
+margin-bottom:20px;
+text-align:center;
+box-shadow:0 2px 8px rgba(0,0,0,.08);">
+
+<h2 style="margin:0;color:#b12704;">
+💰 Total Budget
+</h2>
+
+<h1 style="margin:10px 0;">
+Under $150
+</h1>
+
+<p>
+10 Carefully Selected Amazon Finds
+</p>
+
+</div>
 
 <div class="description">
 
 <h2>🛒 Shop This Look</h2>
 
 <p>
-These are the exact products used to recreate this room.
-Each product has been carefully selected to achieve the same aesthetic while keeping the budget affordable.
+<p>
+
+Recreate this cozy living room using carefully selected budget-friendly home decor.
+
+Warm wood tones, textured fabrics, soft lighting and neutral accessories work together to create a designer-inspired space without replacing expensive furniture.
+
+</p>
 </p>
 
 </div>
@@ -234,7 +272,7 @@ if(!makeover){
     title.innerText = makeover.title;
     description.innerText = makeover.description;
 
-    makeover.products.forEach(productId=>{
+    makeover.products.forEach((productId,index)=>{
 
         const p = products.find(item=>item.id===productId);
 
@@ -252,11 +290,35 @@ if(!makeover){
         `;
 
         container.innerHTML += `
-        <div class="card">
+        <div class="card" style="position:relative;">
 
             <img src="${p.image}">
+            <div style="
+position:absolute;
+top:12px;
+left:12px;
+background:#131921;
+color:white;
+width:34px;
+height:34px;
+border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+font-weight:bold;
+font-size:15px;
+box-shadow:0 2px 8px rgba(0,0,0,.2);
+">
 
-            <div class="title">${p.title}</div>
+${index+1}
+
+</div>
+
+            <div class="title">
+
+${index+1}. ${p.title}
+
+</div>
 
             <div class="rating">${stars}</div>
 
@@ -266,7 +328,7 @@ if(!makeover){
                href="product.html?id=${p.id}"
                target="_blank">
 
-                🛒 View Product
+                🛒 View on Amazon
 
             </a>
 
