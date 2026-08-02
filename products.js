@@ -5,6 +5,66 @@ const products = [
 ========================= */
   
   {
+    "id": "loghot-bedside-caddy-organizer",
+    "title": "Loghot Bedside Caddy Hanging Storage Organizer",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.2,
+    "image": "https://m.media-amazon.com/images/I/819hTNM3DOL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Space-saving bedside caddy for dorm beds, bunk beds, and small spaces.",
+    "description": "Keep your nighttime essentials within easy reach with this versatile bedside caddy. Designed to hang securely on bunk beds, dorm beds, or bed rails, it provides organized storage for books, tablets, phones, remotes, tissues, water bottles, and other daily necessities without taking up valuable floor space.",
+    "tags": [
+      "bedside caddy",
+      "dorm essentials",
+      "bed organizer",
+      "bunk bed storage",
+      "college dorm"
+    ],
+    "affiliate": "https://link.amazon/B0hYSyBCE",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "blissblush-boho-coastal-lumbar-pillow-cover",
+    "title": "BlissBlush Boho Coastal Lumbar Throw Pillow Cover 14x24",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.8,
+    "image": "https://m.media-amazon.com/images/I/91q289lw5RL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Elegant coastal blue lumbar pillow cover with timeless boho charm.",
+    "description": "Refresh your sofa, bed, or accent chair with this beautifully textured lumbar pillow cover. Featuring calming coastal blue tones and boho-inspired detailing, it effortlessly complements farmhouse, coastal, Scandinavian, and modern interiors while adding comfort and style.",
+    "tags": [
+      "lumbar pillow",
+      "pillow cover",
+      "coastal decor",
+      "boho decor",
+      "farmhouse decor"
+    ],
+    "affiliate": "https://link.amazon/B09q62pZ2",
+    "btnText": "Buy on Amazon →"
+  },
+  {
+    "id": "fluxynara-large-felt-bulletin-board-sage",
+    "title": "Fluxynara Large Felt Bulletin Board Sage 48 x 36",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/71a4D1pK4RL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Modern sage felt bulletin board for organizing notes, photos, and inspiration.",
+    "description": "Stay organized in style with this oversized felt bulletin board featuring a modern sage finish and safe adhesive mounting tabs. Perfect for dorm rooms, home offices, classrooms, and creative spaces, it displays reminders, photos, schedules, and inspiration while serving as a decorative wall accent.",
+    "tags": [
+      "bulletin board",
+      "felt board",
+      "dorm decor",
+      "office organization",
+      "wall organizer"
+    ],
+    "affiliate": "https://link.amazon/B00anvmM9",
+    "btnText": "Buy on Amazon →"
+  },
+  {
     "id": "miulee-corduroy-throw-pillow-covers-brown",
     "title": "MIULEE Corduroy Decorative Throw Pillow Covers Set of 4",
     "price": "Check Latest Price on Amazon",
