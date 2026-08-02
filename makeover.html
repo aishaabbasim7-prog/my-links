@@ -215,12 +215,67 @@ Some links on this page are affiliate links, meaning I may earn a commission at 
 
 <script>
 
-/*
+const params = new URLSearchParams(window.location.search);
+const makeoverId = params.get("id");
 
-The JavaScript to load the makeover
-will be added in the next step.
+const makeover = makeovers.find(m => m.id === makeoverId);
 
-*/
+const title = document.getElementById("roomTitle");
+const description = document.getElementById("roomDescription");
+const container = document.getElementById("productsContainer");
+
+if(!makeover){
+
+    title.innerText = "Makeover Not Found";
+    description.innerText = "Sorry, this makeover does not exist.";
+
+}else{
+
+    title.innerText = makeover.title;
+    description.innerText = makeover.description;
+
+    makeover.products.forEach(productId=>{
+
+        const p = products.find(item=>item.id===productId);
+
+        if(!p) return;
+
+        const fullStars = Math.floor(p.rating);
+        const halfStar = p.rating % 1 >= 0.5 ? 1 : 0;
+        const emptyStars = 5 - fullStars - halfStar;
+
+        const stars = `
+            ${"★".repeat(fullStars)}
+            ${halfStar ? "⯪" : ""}
+            ${"☆".repeat(emptyStars)}
+            <span style="color:#555;font-size:12px;">(${p.rating})</span>
+        `;
+
+        container.innerHTML += `
+        <div class="card">
+
+            <img src="${p.image}">
+
+            <div class="title">${p.title}</div>
+
+            <div class="rating">${stars}</div>
+
+            <div class="price">${p.price}</div>
+
+            <a class="btn"
+               href="product.html?id=${p.id}"
+               target="_blank">
+
+                🛒 View Product
+
+            </a>
+
+        </div>
+        `;
+
+    });
+
+}
 
 </script>
 
