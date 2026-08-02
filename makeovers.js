@@ -7,16 +7,16 @@ const makeovers = [
     description: "Shop every product used in this makeover.",
 
     products: [
-        "product-id-1",
-        "product-id-2",
-        "product-id-3",
-        "product-id-4",
-        "product-id-5",
-        "product-id-6",
-        "product-id-7",
-        "product-id-8",
-        "product-id-9",
-        "product-id-10"
+        "miulee-corduroy-throw-pillow-covers-brown",
+        "exq-home-fleece-throw-blanket-beige",
+        "qeeig-floating-wall-shelves-rustic-brown",
+        "uttcmk-reading-thinker-statue-beige",
+        "whonline-fake-hanging-plant",
+        "cucumi-ceramic-vase-set-neutral",
+        "la-jolie-muse-coconut-vanilla-candle",
+        "mxart-boho-sage-green-wall-art",
+        "ambimall-modern-floor-lamp-gold-black",
+        "chi-an-home-boho-wall-basket-set"
     ]
 }
 ];
