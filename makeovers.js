@@ -2,7 +2,7 @@ const makeovers = [
 {
     id: "living-room-001",
 
-    title: "Budget Boho Living Room Under $150",
+    title: "Budget Boho Living Room Under $350",
 
     description: "Recreate this designer-inspired room using these carefully curated Amazon finds.",
 
