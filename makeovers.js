@@ -4,7 +4,7 @@ const makeovers = [
 
     title: "Budget Boho Living Room Under $150",
 
-    description: "Shop every product used in this makeover.",
+    description: "Recreate this designer-inspired room using these carefully curated Amazon finds.",
 
     products: [
         "miulee-corduroy-throw-pillow-covers-brown",
