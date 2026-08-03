@@ -3,7 +3,46 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
-  
+   {
+  "id": "hanobe-round-whitewashed-wood-tray",
+  "title": "Hanobe Round Whitewashed Decorative Wood Tray",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81k2Egkd-8L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Bestseller",
+  "short": "Rustic whitewashed wood tray for elegant coffee table and farmhouse styling.",
+  "description": "Add warmth and character to your home with this round whitewashed wooden tray. Perfect for styling candles, vases, books, and seasonal décor, it creates a beautiful centerpiece on coffee tables, kitchen islands, entryway consoles, and dining tables while complementing farmhouse, rustic, and modern interiors.",
+  "tags": [
+    "decorative tray",
+    "coffee table decor",
+    "farmhouse decor",
+    "wood tray",
+    "centerpiece decor"
+  ],
+  "affiliate": "https://link.amazon/B0ab70JG3",
+  "btnText": "Buy on Amazon →"
+   },
+   {
+  "id": "sicotas-round-modern-coffee-table",
+  "title": "SICOTAS Round Coffee Table for Living Room Modern",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81lst59lBiL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Modern Pick",
+  "short": "Modern round coffee table with a clean minimalist design and spacious tabletop.",
+  "description": "Bring contemporary elegance to your living room with this modern round coffee table from SICOTAS. Crafted with a durable engineered wood construction and a stylish matte finish, it offers a spacious tabletop for displaying décor, books, candles, or serving guests. Its clean silhouette complements modern, Japandi, Scandinavian, and minimalist interiors while creating a warm, inviting focal point.",
+  "tags": [
+    "round coffee table",
+    "modern coffee table",
+    "living room furniture",
+    "minimalist furniture",
+    "scandinavian decor"
+  ],
+  "affiliate": "https://www.anrdoezrs.net/click-101712405-17036274?url=https%3A%2F%2Fwww.sicotas.com%2Fproducts%2Fstria-round-coffee-table-living-room-mid-century-fluted-center-table                                                                                                                           ",
+  "btnText": "Buy Now →"
+  },
   {
     "id": "loghot-bedside-caddy-organizer",
     "title": "Loghot Bedside Caddy Hanging Storage Organizer",
