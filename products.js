@@ -5,6 +5,26 @@ const products = [
 ========================= */
 
    {
+  "id": "bofea-moon-floor-lamp-black-gold",
+  "title": "Bofea Moon Floor Lamp Black & Gold Mid-Century Standing Lamp",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61oU3YwcMdL._AC_SL1370_.jpg",
+  "category": "decor",
+  "badge": "🌙 Designer Pick",
+  "short": "Creative moon-inspired floor lamp with a black and gold finish and frosted 3D-printed shade.",
+  "description": "Make a bold design statement with the Bofea Moon Floor Lamp. Featuring a sculptural black and gold resin base paired with a unique 3D-printed frosted moon shade, this artistic standing lamp creates a soft, ambient glow that elevates living rooms, bedrooms, home offices, and reading corners. Its mid-century modern aesthetic blends functionality with eye-catching décor, making it a standout piece in any contemporary home.",
+  "tags": [
+    "moon floor lamp",
+    "modern floor lamp",
+    "mid century lighting",
+    "designer floor lamp",
+    "living room lighting"
+  ],
+  "affiliate": "https://amzn.to/455MBxv",
+  "btnText": "Buy on Amazon →"
+   },
+   {
   "id": "lumi-pink-flower-bathroom-rug-20x32",
   "title": "LUMI Pink Flower Bathroom Rug Soft Plush Microfiber Bath Mat 20x32",
   "price": "Check Latest Price on Amazon",
