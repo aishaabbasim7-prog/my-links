@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "niuash-golden-hourglass-timer-15-minute",
+  "title": "NIUASH 15-Minute Embossed Golden Hourglass Timer",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61AmYG-kK8L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Elegant embossed golden hourglass timer for timeless vintage-inspired décor.",
+  "description": "Add a touch of classic sophistication to your home or workspace with this beautifully crafted 15-minute golden hourglass. Featuring an embossed metal frame and elegant glass design, it serves as both a functional timer and a stylish decorative accent. Perfect for coffee tables, bookshelves, office desks, living rooms, home libraries, and thoughtful gift giving, it complements vintage, modern, and luxury interiors alike.",
+  "tags": [
+    "hourglass timer",
+    "gold home decor",
+    "vintage decor",
+    "desk decor",
+    "coffee table decor"
+  ],
+  "affiliate": "https://amzn.to/3TJTNga",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "norrclp-modern-abstract-ceramic-statue-black-gold",
   "title": "Norrclp Modern Abstract Art Ceramic Statue Black & Gold",
   "price": "Check Latest Price on Amazon",
@@ -29,7 +49,7 @@ const products = [
   "price": "Check Latest Price on Amazon",
   "rating": 4.7,
   "image": "https://m.media-amazon.com/images/I/61GtoN70+CL._AC_SL1500_.jpg",
-  "category": "lighting",
+  "category": "decor",
   "badge": "✨ Amazon's Choice",
   "short": "Vintage leaf table lamp with touch control, amber glass shade, and dual USB charging ports.",
   "description": "Bring timeless elegance and modern convenience to your home with this RORIANO vintage table lamp. Featuring a beautifully detailed leaf-inspired metal base, a warm amber glass shade, and 3-way touch dimming, it creates a cozy atmosphere for bedrooms, living rooms, and bedside tables. Built-in USB-C and USB-A charging ports let you conveniently charge your devices while the included LED bulb provides soft, energy-efficient lighting.",
