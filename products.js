@@ -3,8 +3,7 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
-
-   {
+  {
   "id": "norrclp-modern-abstract-ceramic-statue-black-gold",
   "title": "Norrclp Modern Abstract Art Ceramic Statue Black & Gold",
   "price": "Check Latest Price on Amazon",
