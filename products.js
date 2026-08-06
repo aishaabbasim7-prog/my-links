@@ -2,8 +2,8 @@ const products = [
 
 /* =========================
    🛋️ HOME DECOR
-========================= */
-  {
+========================= */ 
+ {
   "id": "norrclp-modern-abstract-ceramic-statue-black-gold",
   "title": "Norrclp Modern Abstract Art Ceramic Statue Black & Gold",
   "price": "Check Latest Price on Amazon",
@@ -22,8 +22,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/3RObbQs",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "roriano-touch-control-leaf-table-lamp",
   "title": "RORIANO Touch Control Vintage Leaf Table Lamp with USB Charging Ports",
   "price": "Check Latest Price on Amazon",
@@ -42,8 +42,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/4hiMypq",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "bofea-moon-floor-lamp-black-gold",
   "title": "Bofea Moon Floor Lamp Black & Gold Mid-Century Standing Lamp",
   "price": "Check Latest Price on Amazon",
@@ -62,8 +62,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/455MBxv",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "lumi-pink-flower-bathroom-rug-20x32",
   "title": "LUMI Pink Flower Bathroom Rug Soft Plush Microfiber Bath Mat 20x32",
   "price": "Check Latest Price on Amazon",
@@ -82,8 +82,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/4hebNsV",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "lumi-coastal-bathroom-rug-20x32",
   "title": "LUMI Coastal Bathroom Rug Soft Microfiber Bath Mat 20x32",
   "price": "Check Latest Price on Amazon",
@@ -102,8 +102,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/3TWymsk",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "vasagle-round-tambour-side-table-ulet295k101",
   "title": "VASAGLE Round Tambour Side Table Mid-Century Modern Nightstand",
   "price": "Check Latest Price on Amazon",
@@ -122,8 +122,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/4wHrZrf",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "vasagle-rustic-side-table-ulet273b01",
   "title": "VASAGLE Side Table with Steel Frame Rustic Brown & Ink Black",
   "price": "Check Latest Price on Amazon",
@@ -142,8 +142,8 @@ const products = [
   ],
   "affiliate": "https://amzn.to/4fWOwJN",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "hanobe-round-whitewashed-wood-tray",
   "title": "Hanobe Round Whitewashed Decorative Wood Tray",
   "price": "Check Latest Price on Amazon",
@@ -162,8 +162,8 @@ const products = [
   ],
   "affiliate": "https://link.amazon/B0ab70JG3",
   "btnText": "Buy on Amazon →"
-   },
-   {
+ },
+ {
   "id": "sicotas-round-modern-coffee-table",
   "title": "SICOTAS Round Coffee Table for Living Room Modern",
   "price": "Check Latest Price on Amazon",
