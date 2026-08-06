@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */
    {
+  "id": "vasagle-rustic-side-table-ulet273b01",
+  "title": "VASAGLE Side Table with Steel Frame Rustic Brown & Ink Black",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/710dzP6sR8L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Industrial-style side table with a sturdy steel frame for compact spaces.",
+  "description": "Complete your living room or bedroom with this versatile VASAGLE side table featuring a durable steel frame and a rustic brown wood finish. Its slim, space-saving design makes it perfect as an end table, nightstand, or accent table for displaying lamps, books, plants, and everyday essentials while adding modern industrial charm to any home.",
+  "tags": [
+    "side table",
+    "end table",
+    "nightstand",
+    "industrial furniture",
+    "living room furniture"
+  ],
+  "affiliate": "https://amzn.to/4fWOwJN",
+  "btnText": "Buy on Amazon →"
+   },
+   {
   "id": "hanobe-round-whitewashed-wood-tray",
   "title": "Hanobe Round Whitewashed Decorative Wood Tray",
   "price": "Check Latest Price on Amazon",
