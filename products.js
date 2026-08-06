@@ -3,6 +3,27 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
+   
+   {
+  "id": "vasagle-round-tambour-side-table-ulet295k101",
+  "title": "VASAGLE Round Tambour Side Table Mid-Century Modern Nightstand",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81UXlL5KcJL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Trending",
+  "short": "Mid-century round tambour side table with a natural wood finish for modern interiors.",
+  "description": "Bring timeless mid-century elegance to your home with this VASAGLE round side table. Featuring a stylish tambour design, warm natural brown finish, and compact footprint, it's ideal for small spaces. Use it as a nightstand, end table, or accent table to display lamps, books, plants, and decorative accessories while adding warmth and sophistication to your living room, bedroom, or home office.",
+  "tags": [
+    "round side table",
+    "tambour table",
+    "mid century modern",
+    "nightstand",
+    "small space furniture"
+  ],
+  "affiliate": "https://amzn.to/4wHrZrf",
+  "btnText": "Buy on Amazon →"
+   },
    {
   "id": "vasagle-rustic-side-table-ulet273b01",
   "title": "VASAGLE Side Table with Steel Frame Rustic Brown & Ink Black",
