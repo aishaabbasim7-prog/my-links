@@ -5,12 +5,32 @@ const products = [
 ========================= */
 
    {
+  "id": "lumi-pink-flower-bathroom-rug-20x32",
+  "title": "LUMI Pink Flower Bathroom Rug Soft Plush Microfiber Bath Mat 20x32",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81L9v3E+T5L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Cute pink flower bath rug with ultra-soft microfiber and non-slip backing.",
+  "description": "Add a playful floral touch to your bathroom with this adorable pink flower bath rug. Crafted from ultra-soft plush microfiber, it quickly absorbs moisture while providing a cozy, cushioned feel underfoot. The durable non-slip backing helps keep the rug securely in place, making it ideal for bathrooms, kids' rooms, bedrooms, vanity areas, and shower spaces. Machine washable for effortless everyday care.",
+  "tags": [
+    "flower bath rug",
+    "pink bathroom rug",
+    "microfiber bath mat",
+    "cute bathroom decor",
+    "non slip bath mat"
+  ],
+  "affiliate": "https://amzn.to/4hebNsV",
+  "btnText": "Buy on Amazon →"
+   },
+   {
   "id": "lumi-coastal-bathroom-rug-20x32",
   "title": "LUMI Coastal Bathroom Rug Soft Microfiber Bath Mat 20x32",
   "price": "Check Latest Price on Amazon",
   "rating": 4.6,
   "image": "https://m.media-amazon.com/images/I/81UlWhNsMXL._AC_SL1500_.jpg",
-  "category": "bathroom",
+  "category": "decor",
   "badge": "✨ Amazon's Choice",
   "short": "Soft coastal-inspired microfiber bath rug with a non-slip rubber backing.",
   "description": "Bring comfort and coastal charm to your bathroom with this ultra-soft microfiber bath rug. Designed with a highly absorbent surface and durable non-slip rubber backing, it helps keep your floors dry while adding a fresh, beach-inspired touch to showers, bathtubs, vanities, and powder rooms. Machine washable for effortless everyday care.",
