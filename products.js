@@ -5,6 +5,26 @@ const products = [
 ========================= */
 
    {
+  "id": "roriano-touch-control-leaf-table-lamp",
+  "title": "RORIANO Touch Control Vintage Leaf Table Lamp with USB Charging Ports",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/61GtoN70+CL._AC_SL1500_.jpg",
+  "category": "lighting",
+  "badge": "✨ Amazon's Choice",
+  "short": "Vintage leaf table lamp with touch control, amber glass shade, and dual USB charging ports.",
+  "description": "Bring timeless elegance and modern convenience to your home with this RORIANO vintage table lamp. Featuring a beautifully detailed leaf-inspired metal base, a warm amber glass shade, and 3-way touch dimming, it creates a cozy atmosphere for bedrooms, living rooms, and bedside tables. Built-in USB-C and USB-A charging ports let you conveniently charge your devices while the included LED bulb provides soft, energy-efficient lighting.",
+  "tags": [
+    "table lamp",
+    "vintage lamp",
+    "bedside lamp",
+    "touch control lamp",
+    "USB table lamp"
+  ],
+  "affiliate": "https://amzn.to/4hiMypq",
+  "btnText": "Buy on Amazon →"
+   },
+   {
   "id": "bofea-moon-floor-lamp-black-gold",
   "title": "Bofea Moon Floor Lamp Black & Gold Mid-Century Standing Lamp",
   "price": "Check Latest Price on Amazon",
