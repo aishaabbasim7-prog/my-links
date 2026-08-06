@@ -3,7 +3,27 @@ const products = [
 /* =========================
    🛋️ HOME DECOR
 ========================= */
-   
+
+   {
+  "id": "lumi-coastal-bathroom-rug-20x32",
+  "title": "LUMI Coastal Bathroom Rug Soft Microfiber Bath Mat 20x32",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/81UlWhNsMXL._AC_SL1500_.jpg",
+  "category": "bathroom",
+  "badge": "✨ Amazon's Choice",
+  "short": "Soft coastal-inspired microfiber bath rug with a non-slip rubber backing.",
+  "description": "Bring comfort and coastal charm to your bathroom with this ultra-soft microfiber bath rug. Designed with a highly absorbent surface and durable non-slip rubber backing, it helps keep your floors dry while adding a fresh, beach-inspired touch to showers, bathtubs, vanities, and powder rooms. Machine washable for effortless everyday care.",
+  "tags": [
+    "bathroom rug",
+    "bath mat",
+    "coastal decor",
+    "bathroom accessories",
+    "non slip bath rug"
+  ],
+  "affiliate": "https://amzn.to/3TWymsk",
+  "btnText": "Buy on Amazon →"
+   },
    {
   "id": "vasagle-round-tambour-side-table-ulet295k101",
   "title": "VASAGLE Round Tambour Side Table Mid-Century Modern Nightstand",
