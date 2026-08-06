@@ -5,6 +5,26 @@ const products = [
 ========================= */
 
    {
+  "id": "norrclp-modern-abstract-ceramic-statue-black-gold",
+  "title": "Norrclp Modern Abstract Art Ceramic Statue Black & Gold",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/51EAO-W1ykS._AC_SL1000_.jpg",
+  "category": "decor",
+  "badge": "✨ Modern Pick",
+  "short": "Elegant black and gold abstract ceramic sculpture for sophisticated home styling.",
+  "description": "Elevate your home with this contemporary abstract ceramic statue featuring a striking black and gold finish. Designed with clean artistic lines, this modern decorative accent adds a luxurious touch to coffee tables, dining tables, bookshelves, consoles, office desks, and entryways. Its minimalist aesthetic complements modern, contemporary, glam, and luxury-inspired interiors while creating an eye-catching focal point.",
+  "tags": [
+    "abstract sculpture",
+    "ceramic statue",
+    "modern home decor",
+    "black and gold decor",
+    "table centerpiece"
+  ],
+  "affiliate": "https://amzn.to/3RObbQs",
+  "btnText": "Buy on Amazon →"
+   },
+   {
   "id": "roriano-touch-control-leaf-table-lamp",
   "title": "RORIANO Touch Control Vintage Leaf Table Lamp with USB Charging Ports",
   "price": "Check Latest Price on Amazon",
