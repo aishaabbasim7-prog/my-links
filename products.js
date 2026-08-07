@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "tulup-organic-asymmetrical-wall-mirror-50x100",
+  "title": "Tulup Modern Organic Asymmetrical Wall Mirror 50 x 100 cm",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61H8DHSbSEL._AC_SL1000_.jpg",
+  "category": "decor",
+  "badge": "✨ Designer Pick",
+  "short": "Modern organic asymmetrical wall mirror that creates a bold designer statement.",
+  "description": "Elevate your interior with this contemporary Tulup organic wall mirror featuring a unique asymmetrical silhouette inspired by modern sculptural design. Perfect for bathrooms, living rooms, bedrooms, hallways, and entryways, this large decorative mirror reflects natural light to make any space feel brighter and more spacious while adding a luxurious, gallery-inspired focal point.",
+  "tags": [
+    "organic mirror",
+    "asymmetrical mirror",
+    "modern wall mirror",
+    "living room decor",
+    "bathroom mirror"
+  ],
+  "affiliate": "https://link.amazon/B0fUPP6Pa",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "sumtree-vintage-oval-double-sided-mirror-red-bronze",
   "title": "SUMTree Vintage Oval Double-Sided Rotatable Dressing Mirror",
   "price": "Check Latest Price on Amazon",
