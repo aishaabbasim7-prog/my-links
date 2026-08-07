@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "eosahr-beaded-acacia-wood-display-riser",
+  "title": "EOSAHR Beaded Acacia Wood Round Display Riser",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/817DrXvng6L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌿 Boho Favorite",
+  "short": "Handcrafted acacia wood display riser with decorative beaded trim for elevated styling.",
+  "description": "Elevate your home décor with this beautifully crafted EOSAHR round display riser made from premium acacia wood. Featuring an elegant beaded edge and warm natural finish, it's perfect for styling candles, soap dispensers, perfumes, plants, cakes, coffee table décor, and kitchen accessories. The raised pedestal design adds height, texture, and a designer-inspired touch to bathrooms, kitchens, vanities, coffee tables, and shelves while complementing boho, farmhouse, rustic, and modern interiors.",
+  "tags": [
+    "wood riser",
+    "display riser",
+    "coffee table decor",
+    "boho decor",
+    "acacia wood decor"
+  ],
+  "affiliate": "https://link.amazon/B01RZdLcm",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "luxspire-black-marble-bathroom-vanity-tray-2pack",
   "title": "Luxspire Black Marble Bathroom Vanity Tray Set of 2",
   "price": "Check Latest Price on Amazon",
