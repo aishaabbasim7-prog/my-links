@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "funistree-adjustable-candle-warmer-lamp",
+  "title": "Funistree Adjustable Candle Warmer Lamp with Timer & Dimmer",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/71eV45l-HCL._AC_SL1402_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Height-adjustable candle warmer lamp with dimmable lighting and built-in timer for a cozy atmosphere.",
+  "description": "Fill your home with beautiful fragrance while creating a warm, relaxing ambiance using the Funistree Candle Warmer Lamp. Designed with adjustable height, four-level dimming, and a convenient timer function, this flameless candle warmer safely melts your favorite jar candles for a long-lasting scent. Complete with two replacement bulbs, it's a stylish addition to bedrooms, living rooms, home offices, and reading nooks, making it an ideal gift for birthdays, housewarmings, and holidays.",
+  "tags": [
+    "candle warmer lamp",
+    "dimmable lamp",
+    "home fragrance",
+    "cozy lighting",
+    "home decor"
+  ],
+  "affiliate": "https://link.amazon/B0gmtkzr2",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "tantascent-vintage-electric-candle-warmer-lamp",
   "title": "Tantascent Vintage Electric Candle Warmer Lamp with Timer",
   "price": "Check Latest Price on Amazon",
