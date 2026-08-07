@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "decrafts-rattan-bathroom-vanity-tray-whitewash",
+  "title": "DECRAFTS Rattan Bathroom Vanity Tray Whitewash 16.3 x 6.1 Inch",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/71t+sdjlEfL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "🌿 Coastal Pick",
+  "short": "Whitewashed rattan vanity tray for elegant bathroom and countertop organization.",
+  "description": "Keep your bathroom beautifully organized with this handcrafted whitewashed rattan vanity tray. Designed with a slim, space-saving profile, it's perfect for displaying hand towels, soap dispensers, candles, perfume bottles, toiletries, and decorative accessories on vanity tops, toilet tanks, shelves, or countertops. The natural woven texture adds a warm coastal, farmhouse, and spa-inspired touch to any bathroom or powder room.",
+  "tags": [
+    "bathroom tray",
+    "rattan tray",
+    "vanity organizer",
+    "bathroom decor",
+    "coastal bathroom"
+  ],
+  "affiliate": "https://link.amazon/B01BvbCuv",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "songmics-wavy-full-length-floor-mirror-cloud-white",
   "title": "SONGMICS Wavy Full Length Floor Mirror 160 x 50 cm Cloud White",
   "price": "Check Latest Price on Amazon",
