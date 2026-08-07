@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "luxspire-black-marble-bathroom-vanity-tray-2pack",
+  "title": "Luxspire Black Marble Bathroom Vanity Tray Set of 2",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.5,
+  "image": "https://m.media-amazon.com/images/I/61kQt7S2FQL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Modern Pick",
+  "short": "Elegant black marble-look vanity trays with a non-slip silicone design.",
+  "description": "Organize your bathroom or kitchen in style with this set of two Luxspire vanity trays. Crafted from thickened, durable silicone with a sophisticated black marble finish, these trays provide a non-slip surface for neatly displaying soap dispensers, perfumes, skincare products, candles, jewelry, and other countertop essentials. Their minimalist design complements modern, luxury, Scandinavian, and contemporary interiors while keeping your space clean and organized.",
+  "tags": [
+    "bathroom vanity tray",
+    "marble tray",
+    "countertop organizer",
+    "bathroom decor",
+    "modern bathroom accessories"
+  ],
+  "affiliate": "https://link.amazon/B01N0C357",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "decrafts-rattan-bathroom-vanity-tray-whitewash",
   "title": "DECRAFTS Rattan Bathroom Vanity Tray Whitewash 16.3 x 6.1 Inch",
   "price": "Check Latest Price on Amazon",
