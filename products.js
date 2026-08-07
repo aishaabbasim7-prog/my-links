@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "ayrely-retro-analogue-alarm-clock-purple",
+  "title": "AYRELY 3.5-Inch Retro Analogue Alarm Clock Purple",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.2,
+  "image": "https://m.media-amazon.com/images/I/71bWXqqbhRL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Silent retro bedside alarm clock with an adjustable angle and soft night light.",
+  "description": "Add vintage charm to your bedside or workspace with this AYRELY analogue alarm clock. Featuring a quiet non-ticking movement, adjustable viewing angle, built-in night light, and elegant retro styling, it delivers peaceful sleep while enhancing your bedroom, office, or study with timeless character. Battery-operated for convenient placement anywhere in your home.",
+  "tags": [
+    "alarm clock",
+    "retro clock",
+    "bedside clock",
+    "desk decor",
+    "vintage home decor"
+  ],
+  "affiliate": "https://link.amazon/B0huLaWzW",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "niuash-golden-hourglass-timer-15-minute",
   "title": "NIUASH 15-Minute Embossed Golden Hourglass Timer",
   "price": "Check Latest Price on Amazon",
