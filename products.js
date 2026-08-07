@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "songmics-wavy-full-length-floor-mirror-cloud-white",
+  "title": "SONGMICS Wavy Full Length Floor Mirror 160 x 50 cm Cloud White",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.4,
+  "image": "https://m.media-amazon.com/images/I/61xiyriX8nL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Trending",
+  "short": "Modern wavy full-length floor mirror with a cloud white frame for a designer-inspired look.",
+  "description": "Make a bold statement with this contemporary SONGMICS full-length mirror featuring an eye-catching irregular wavy silhouette and elegant cloud white frame. Designed to brighten and visually expand any room, this versatile mirror can stand freely or be placed against a wall, making it perfect for bedrooms, living rooms, dressing areas, hallways, and entryways. Its sculptural organic design complements modern, minimalist, Scandinavian, and luxury interiors while creating a stylish focal point.",
+  "tags": [
+    "full length mirror",
+    "wavy mirror",
+    "floor mirror",
+    "modern mirror",
+    "bedroom decor"
+  ],
+  "affiliate": "https://link.amazon/B0gTfsghD",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "perfnique-gold-irregular-wall-mirror-85x52",
   "title": "PERFNIQUE Irregular Asymmetrical Gold Wall Mirror 85 x 52 cm",
   "price": "Check Latest Price on Amazon",
