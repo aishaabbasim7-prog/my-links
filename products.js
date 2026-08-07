@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "perfnique-gold-irregular-wall-mirror-85x52",
+  "title": "PERFNIQUE Irregular Asymmetrical Gold Wall Mirror 85 x 52 cm",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/81adSFmTjSL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Elegant gold asymmetrical wall mirror that brings modern luxury to any room.",
+  "description": "Transform your walls with this stunning PERFNIQUE irregular wall mirror featuring a sophisticated gold frame and an organic asymmetrical silhouette. Designed to reflect natural light and create the illusion of a larger space, it's perfect for bathrooms, living rooms, bedrooms, entryways, fireplaces, and hallways. The contemporary sculptural shape blends beautifully with modern, boho, minimalist, and luxury interiors, making it a striking focal point in any home.",
+  "tags": [
+    "gold wall mirror",
+    "asymmetrical mirror",
+    "modern mirror",
+    "boho wall decor",
+    "living room mirror"
+  ],
+  "affiliate": "https://link.amazon/B0jaH3fnq",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "tulup-organic-asymmetrical-wall-mirror-50x100",
   "title": "Tulup Modern Organic Asymmetrical Wall Mirror 50 x 100 cm",
   "price": "Check Latest Price on Amazon",
