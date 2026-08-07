@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "tantascent-vintage-electric-candle-warmer-lamp",
+  "title": "Tantascent Vintage Electric Candle Warmer Lamp with Timer",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.7,
+  "image": "https://m.media-amazon.com/images/I/71zfkstJ41L._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Cozy Pick",
+  "short": "Vintage-style candle warmer lamp with timer for flameless home fragrance and ambient lighting.",
+  "description": "Create a warm, inviting atmosphere with the Tantascent Vintage Electric Candle Warmer Lamp. Designed with an elegant vintage-inspired silhouette, this stylish candle melter gently releases your favorite candle fragrance without an open flame. Featuring a built-in timer and two included bulbs, it's a safe and sophisticated addition to bedrooms, living rooms, offices, and cozy reading corners. Perfect for enhancing home décor or gifting for housewarmings, birthdays, and holidays.",
+  "tags": [
+    "candle warmer lamp",
+    "vintage decor",
+    "home fragrance",
+    "ambient lighting",
+    "cozy home decor"
+  ],
+  "affiliate": "https://link.amazon/B0g15dfXQ",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "eosahr-beaded-acacia-wood-display-riser",
   "title": "EOSAHR Beaded Acacia Wood Round Display Riser",
   "price": "Check Latest Price on Amazon",
