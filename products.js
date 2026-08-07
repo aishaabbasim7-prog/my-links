@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "mahasu-wood-chain-link-decor-brown",
+  "title": "Mahasu 3-Link Wooden Chain Knot Decor Brown",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/61mSlHqosDL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Handcrafted wooden chain knot accent for stylish coffee table and shelf décor.",
+  "description": "Elevate your home styling with this beautifully handcrafted three-link wooden chain décor. Featuring a warm brown finish and timeless sculptural design, it adds texture and organic charm to coffee tables, bookshelves, entryway consoles, trays, and mantels. Perfect for modern farmhouse, Scandinavian, rustic, and minimalist interiors, this decorative accent creates a designer-inspired look in any space.",
+  "tags": [
+    "wood chain decor",
+    "chain link decor",
+    "coffee table decor",
+    "farmhouse decor",
+    "wood home decor"
+  ],
+  "affiliate": "https://amzn.to/4heRCLo",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "ayrely-retro-analogue-alarm-clock-purple",
   "title": "AYRELY 3.5-Inch Retro Analogue Alarm Clock Purple",
   "price": "Check Latest Price on Amazon",
