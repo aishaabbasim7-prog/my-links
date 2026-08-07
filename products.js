@@ -4,6 +4,26 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+  "id": "sumtree-vintage-oval-double-sided-mirror-red-bronze",
+  "title": "SUMTree Vintage Oval Double-Sided Rotatable Dressing Mirror",
+  "price": "Check Latest Price on Amazon",
+  "rating": 4.6,
+  "image": "https://m.media-amazon.com/images/I/71IcH0KPOBL._AC_SL1500_.jpg",
+  "category": "decor",
+  "badge": "✨ Amazon's Choice",
+  "short": "Elegant vintage tabletop vanity mirror with a rotatable double-sided design.",
+  "description": "Add timeless elegance to your vanity or dressing table with this beautifully crafted SUMTree vintage oval mirror. Featuring a classic red bronze finish, double-sided rotating mirror, and decorative pedestal base, it combines practicality with antique-inspired charm. Perfect for makeup application, skincare routines, or as a sophisticated decorative accent for bedrooms, bathrooms, vanities, and dressing tables.",
+  "tags": [
+    "vanity mirror",
+    "table mirror",
+    "vintage mirror",
+    "makeup mirror",
+    "bedroom decor"
+  ],
+  "affiliate": "https://link.amazon/B04iiyLwe",
+  "btnText": "Buy on Amazon →"
+ },
+ {
   "id": "mahasu-wood-chain-link-decor-brown",
   "title": "Mahasu 3-Link Wooden Chain Knot Decor Brown",
   "price": "Check Latest Price on Amazon",
