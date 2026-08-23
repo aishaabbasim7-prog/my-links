@@ -4,6 +4,146 @@ const products = [
    🛋️ HOME DECOR
 ========================= */ 
  {
+    "id": "glivpny-vintage-chinoiserie-table-lamp",
+    "title": "Glivpny Vintage Chinoiserie Green Ceramic Table Lamp",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/81usgMF7BkL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "16-inch vintage ceramic table lamp with classic Chinoiserie green styling for bedrooms, living rooms, and bedside tables.",
+    "description": "Add timeless character and sophisticated color to your home with the Glivpny Vintage Chinoiserie Green Ceramic Table Lamp. Its classic ceramic design brings a refined vintage feel to living rooms, bedrooms, nightstands, and accent spaces. The 16-inch size makes it easy to style on a bedside table, console, or side table while adding a warm decorative touch to your space.",
+    "tags": [
+      "vintage table lamp",
+      "chinoiserie decor",
+      "ceramic lamp",
+      "green lamp",
+      "bedroom lighting"
+    ],
+    "affiliate": "https://amzn.to/4qwYjuR",
+    "btnText": "Buy on Amazon →"
+ },
+ {
+    "id": "harritpure-arched-full-length-mirror",
+    "title": "HARRITPURE 64x21 Inch Arched Full Length Mirror",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.6,
+    "image": "https://m.media-amazon.com/images/I/81srWhZnbeL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Elegant 64x21-inch arched full-length mirror with a modern gold aluminum frame for bedrooms, living rooms, and entryways.",
+    "description": "Make your space feel brighter, larger, and more polished with the HARRITPURE Arched Full Length Mirror. Measuring 64 by 21 inches, its graceful arched silhouette and gold aluminum frame create an elegant focal point for bedrooms, living rooms, dressing areas, and entryways. It can be used as a freestanding leaning mirror or mounted to suit your space and decorating style.",
+    "tags": [
+      "arched full length mirror",
+      "gold mirror",
+      "bedroom mirror",
+      "entryway decor",
+      "modern home decor"
+    ],
+    "affiliate": "https://amzn.to/4gmIhyY",
+    "btnText": "Buy on Amazon →"
+ },
+ {
+    "id": "bilxim-vintage-ornate-picture-frame",
+    "title": "BILXIM 4x4 Vintage Ornate Bronze Gold Picture Frame",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.7,
+    "image": "https://m.media-amazon.com/images/I/81JO1fU8NoL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "✨ Amazon's Choice",
+    "short": "Small ornate vintage picture frame with an antique bronze and gold floral design for walls, shelves, and tabletops.",
+    "description": "Turn your favorite memories into beautiful decorative accents with the BILXIM Vintage Ornate Picture Frame. Featuring an antique-inspired bronze and gold finish with an intricate floral design, this 4x4 frame adds character to gallery walls, bookshelves, nightstands, consoles, and tabletop displays. Its vintage aesthetic pairs beautifully with traditional, romantic, maximalist, and eclectic home decor.",
+    "tags": [
+      "vintage picture frame",
+      "ornate frame",
+      "gallery wall decor",
+      "antique home decor",
+      "gold picture frame"
+    ],
+    "affiliate": "https://amzn.to/4c0eMlm",
+    "btnText": "Buy on Amazon →"
+ },
+ {
+    "id": "william-morris-vintage-floral-velvet-pillow",
+    "title": "William Morris Vintage Floral Velvet Throw Pillow Cover",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/81+wU9GpsjL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "Vintage decor",
+    "short": "Elegant 18x18-inch velvet pillow cover with a vintage floral design for sofas, beds, chairs, and cozy reading nooks.",
+    "description": "Give your room an instantly richer and more layered look with this William Morris-inspired vintage floral velvet throw pillow cover. The detailed botanical pattern brings timeless character and a luxurious feel to sofas, beds, accent chairs, and reading nooks. At 18x18 inches, it's an easy decorative update for living rooms and bedrooms inspired by vintage, cottage, traditional, and eclectic interiors.",
+    "tags": [
+      "vintage throw pillow",
+      "floral pillow cover",
+      "velvet pillow",
+      "William Morris decor",
+      "living room decor"
+    ],
+    "affiliate": "https://amzn.to/4gKWlDM",
+    "btnText": "Buy on Amazon →"
+ },
+ {
+    "id": "hugear-vintage-floral-area-rug",
+    "title": "HUGEAR 8x10 Brown Vintage Floral Washable Area Rug",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.3,
+    "image": "https://m.media-amazon.com/images/I/A1dpwZrUKhL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "Vintage style",
+    "short": "Large 8x10 vintage floral area rug with a distressed retro look, low pile, washable design, and non-slip backing.",
+    "description": "Create a warm, collected, lived-in look with the HUGEAR 8x10 Brown Vintage Floral Area Rug. Its distressed floral pattern brings classic character and cozy visual texture to living rooms, bedrooms, dining rooms, offices, and other spaces. The low-pile construction, washable design, and non-slip backing make it a practical choice for everyday home styling while maintaining a beautiful vintage-inspired aesthetic.",
+    "tags": [
+      "vintage area rug",
+      "floral rug",
+      "brown area rug",
+      "washable rug",
+      "living room rug"
+    ],
+    "affiliate": "https://amzn.to/4hPEjRW",
+    "btnText": "Buy on Amazon →"
+ },
+ {
+    "id": "bokt-mid-century-milk-glass-chandelier",
+    "title": "BOKT Mid Century Milk Glass Gold G9 Chandelier",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/61jLgJTEbPL._AC_SL1500_.jpg",
+    "category": "decor",
+    "badge": "Mid century",
+    "short": "Mid-century milk glass chandelier with a gold metal finish and adjustable pendant design for kitchens and dining rooms.",
+    "description": "Elevate your ceiling with the timeless look of the BOKT Mid Century Milk Glass Chandelier. Combining elegant milk glass globes with a warm gold metal finish, this statement light fixture adds a sophisticated mid-century touch to dining rooms, kitchens, and other indoor spaces. Its adjustable pendant design makes it a stylish focal point for spaces that need both beautiful illumination and decorative character.",
+    "tags": [
+      "mid century chandelier",
+      "milk glass light",
+      "gold chandelier",
+      "kitchen lighting",
+      "dining room lighting"
+    ],
+    "affiliate": "https://amzn.to/3S2T0Xq",
+    "btnText": "Buy on Amazon →"
+ },
+ {
+    "id": "mixinni-garden-style-floral-duvet-set",
+    "title": "mixinni Garden Style Floral & Birds Duvet Cover Set",
+    "price": "Check Latest Price on Amazon",
+    "rating": 4.5,
+    "image": "https://m.media-amazon.com/images/I/71hzmuoAsjL._AC_SL1001_.jpg",
+    "category": "decor",
+    "badge": "✨ Overall Pick",
+    "short": "Peacock blue 3-piece queen duvet cover set with reversible floral and bird patterns for a charming bedroom makeover.",
+    "description": "Bring the beauty of a botanical garden into your bedroom with the mixinni Garden Style Floral & Birds Duvet Cover Set. The peacock blue design features flowers and birds for a romantic, nature-inspired look, while the reversible design gives you two styling options. This 3-piece queen-size bedding set includes a duvet cover with zipper closure and creates an inviting focal point for bedrooms inspired by cottage, vintage, botanical, and eclectic decor.",
+    "tags": [
+      "floral duvet cover",
+      "botanical bedding",
+      "peacock blue bedding",
+      "vintage bedroom decor",
+      "garden style bedding"
+    ],
+    "affiliate": "https://amzn.to/3U9lcIM",
+    "btnText": "Buy on Amazon →"
+ },
+ { 
   "id": "funistree-adjustable-candle-warmer-lamp",
   "title": "Funistree Adjustable Candle Warmer Lamp with Timer & Dimmer",
   "price": "Check Latest Price on Amazon",
